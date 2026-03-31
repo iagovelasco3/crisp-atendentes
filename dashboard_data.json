@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-31T20:30:23.681221-03:00",
+  "gerado_em": "2026-03-31T20:41:36.191286-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 131,
+    "total_conversas_hoje": 88,
     "tma_medio_minutos": 88,
     "frt_medio_minutos": 0,
     "score_medio_geral": 47
@@ -15,8 +15,8 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 58,
-      "tma_minutos": 120,
+      "score": 54,
+      "tma_minutos": 118,
       "tickets_atendidos": 11
     },
     {
@@ -27,9 +27,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 34,
-      "tma_minutos": 171,
-      "tickets_atendidos": 16
+      "score": 36,
+      "tma_minutos": 172,
+      "tickets_atendidos": 17
     },
     {
       "nome": "Angela De Sousa",
@@ -45,15 +45,18 @@
     }
   ],
   "melhores_atendimentos_recentes": [
-    "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
-    "Angela identificou corretamente o plano inadequado do cliente para a funcionalidade desejada, propôs a migração (upsell) para o plano DevFunil e executou a mudança prontamente, resolvendo a dor do cliente.",
-    "Laila demonstrou proatividade ao acessar diretamente a campanha do cliente para realizar a atualização necessária e resolver o problema de redirecionamento, não se limitando a mandar artigos de ajuda."
+    "Laila assumiu a responsabilidade pelo problema principal (automação de entrada de grupo) após escalonamento, coordenou a resolução internamente, identificou a solução (recriação das mensagens de entrada e saída) e forneceu instruções claras e proativas ao cliente sobre como agir caso o problema se repita. Ela também realizou testes para confirmar a resolução e tranquilizar o cliente.",
+    "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
+    "Anderson demonstrou persistência e proatividade ao escalar o problema para os desenvolvedores, utilizar um número de teste para diagnóstico e, crucialmente, ao conseguir restaurar as campanhas do cliente que haviam sido excluídas, evitando uma perda significativa de trabalho. Sua comunicação foi clara e empática.",
+    "Felipe realizou esforços de diagnóstico, criando um grupo de testes e solicitando acesso aos grupos do cliente para acompanhar as duplicações em tempo real. Taiane comunicou proativamente sobre uma atualização da plataforma que causava problemas de envio.",
+    "Felipe identificou que o cliente possuía um 'plano Black' e o direcionou para um grupo VIP de suporte no WhatsApp para acompanhamento especializado do problema recorrente."
   ],
   "elogios_recentes": [
-    "A cliente encerrou o chat chamando a Laila de 'mito' por ter resolvido a configuração da página intermediária de redirecionamento pacientemente: 'ahhhhh lailaaaaaaaaa você é um mito!!!!!!!!'",
-    "Cliente elogiou a Laila por oferecer uma call de diagnóstico de tela e resolver a dor indicando a limpeza de cache que impedia o acesso ao aplicativo.",
-    "Cliente elogiou a Angela após a mesma notar o plano errado e propor a migração exata que destravou o projeto dele.",
-    "Cliente elogiou a postura do Anderson ao comunicar abertamente que a causa do bug era uma atualização do sistema, fornecendo a solução rápida logo na sequência."
+    "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
+    "Angela identificou corretamente o plano inadequado do cliente para a funcionalidade desejada, propôs a migração para o plano DevFunil e executou a mudança prontamente, resolvendo a dor do cliente e resultando em sua satisfação e elogio explícito.",
+    "Laila ofereceu uma call para diagnóstico, envolveu a equipe para verificar a campanha e forneceu uma solução eficaz (limpeza de cache/uso de guia anônima) que resolveu o problema do cliente, resultando em um elogio explícito.",
+    "Laila demonstrou proatividade ao acessar diretamente a campanha do cliente para realizar a atualização necessária e resolver o problema de redirecionamento. Sua clareza nas explicações e paciência em guiar o cliente na configuração foram cruciais, culminando no elogio 'ahhhhh lailaaaaaaaaa você é um mito!!!!!!!!'.",
+    "Laís agiu proativamente para liberar o uso da campanha enquanto o problema de cobrança era resolvido, recebendo um elogio explícito. Anderson comunicou a causa de um problema técnico (atualização de sistema) e forneceu uma solução rápida para o problema de login, além de pedir desculpas pela experiência."
   ],
   "pontos_de_crescimento_gerais": [
     "Monitorar o volume de pico para antecipar necessidades da equipe.",
