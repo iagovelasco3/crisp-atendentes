@@ -1,0 +1,144 @@
+{
+  "gerado_em": "2026-03-31T19:00:00Z",
+  "visao_geral": {
+    "total_conversas_hoje": 500,
+    "tma_medio_minutos": 45,
+    "frt_medio_minutos": 10,
+    "score_medio_geral": 85
+  },
+  "ranking_atendentes": [
+    {
+      "id": "agente1",
+      "nome": "Ana Silva",
+      "score_geral": 92,
+      "tma_minutos": 30,
+      "frt_minutos": 5,
+      "tickets_atendidos": 120,
+      "sentimento_negativo_percent": 5,
+      "elogios_recebidos": 8,
+      "status_risco": false,
+      "observacoes": "Consistência excepcional."
+    },
+    {
+      "id": "agente2",
+      "nome": "Bruno Costa",
+      "score_geral": 88,
+      "tma_minutos": 40,
+      "frt_minutos": 8,
+      "tickets_atendidos": 100,
+      "sentimento_negativo_percent": 10,
+      "elogios_recebidos": 5,
+      "status_risco": false,
+      "observacoes": ""
+    },
+    {
+      "id": "agente3",
+      "nome": "Carlos Mendes",
+      "score_geral": 65,
+      "tma_minutos": 70,
+      "frt_minutos": 15,
+      "tickets_atendidos": 80,
+      "sentimento_negativo_percent": 35,
+      "elogios_recebidos": 2,
+      "status_risco": true,
+      "observacoes": "Melhorar tempo de resposta e tom."
+    },
+    {
+      "id": "agente4",
+      "nome": "Diana Ferreira",
+      "score_geral": 91,
+      "tma_minutos": 32,
+      "frt_minutos": 4,
+      "tickets_atendidos": 115,
+      "sentimento_negativo_percent": 7,
+      "elogios_recebidos": 10,
+      "status_risco": false,
+      "observacoes": "Destaque em resolução de problemas complexos."
+    },
+    {
+      "id": "agente5",
+      "nome": "Eduardo Lima",
+      "score_geral": 78,
+      "tma_minutos": 55,
+      "frt_minutos": 12,
+      "tickets_atendidos": 90,
+      "sentimento_negativo_percent": 18,
+      "elogios_recebidos": 3,
+      "status_risco": false,
+      "observacoes": "Evoluindo bem no último mês."
+    },
+    {
+      "id": "agente6",
+      "nome": "Fernanda Rocha",
+      "score_geral": 55,
+      "tma_minutos": 85,
+      "frt_minutos": 20,
+      "tickets_atendidos": 60,
+      "sentimento_negativo_percent": 42,
+      "elogios_recebidos": 1,
+      "status_risco": true,
+      "observacoes": "Necessita acompanhamento em técnicas de comunicação."
+    },
+    {
+      "id": "agente7",
+      "nome": "Gabriel Santos",
+      "score_geral": 82,
+      "tma_minutos": 42,
+      "frt_minutos": 9,
+      "tickets_atendidos": 95,
+      "sentimento_negativo_percent": 12,
+      "elogios_recebidos": 4,
+      "status_risco": false,
+      "observacoes": ""
+    }
+  ],
+  "melhores_atendimentos_recentes": [
+    {
+      "session_id": "conv_X1",
+      "agente": "Ana Silva",
+      "resumo": "Cliente muito satisfeito com a resolução rápida de um problema complexo de integração.",
+      "data": "2026-03-30T10:30:00Z"
+    },
+    {
+      "session_id": "conv_X2",
+      "agente": "Diana Ferreira",
+      "resumo": "Atendimento exemplar em caso de cobrança indevida — cliente elogiou a paciência e clareza.",
+      "data": "2026-03-30T14:45:00Z"
+    },
+    {
+      "session_id": "conv_X3",
+      "agente": "Bruno Costa",
+      "resumo": "Resolução proativa de bug reportado, com follow-up ao cliente no dia seguinte.",
+      "data": "2026-03-29T16:20:00Z"
+    }
+  ],
+  "elogios_recentes": [
+    {
+      "agente": "Bruno Costa",
+      "elogio": "Atendimento super atencioso e claro!",
+      "data": "2026-03-29T14:15:00Z"
+    },
+    {
+      "agente": "Diana Ferreira",
+      "elogio": "Melhor atendimento que já tive, resolveu tudo em minutos.",
+      "data": "2026-03-30T09:30:00Z"
+    },
+    {
+      "agente": "Ana Silva",
+      "elogio": "Muito profissional e educada, nota 10!",
+      "data": "2026-03-31T11:00:00Z"
+    },
+    {
+      "agente": "Gabriel Santos",
+      "elogio": "Rápido e eficiente, obrigado pelo suporte!",
+      "data": "2026-03-28T17:45:00Z"
+    }
+  ],
+  "pontos_de_crescimento_gerais": [
+    "Reduzir o tempo médio de primeira resposta em 10% para todos os atendentes.",
+    "Focar na comunicação proativa em casos de alta complexidade.",
+    "Revisar o playbook de resolução de problemas de 'Cobrança'.",
+    "Investir em treinamento de tom e empatia para toda a equipe.",
+    "Implementar check-ins semanais de qualidade com supervisores."
+  ]
+}
