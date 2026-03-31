@@ -1,7 +1,7 @@
 'use strict';
 
 const DATA_URL = 'dashboard_data.json';
-const REFRESH_MS = 300000;
+const REFRESH_MS = 600000;
 const SLIDE_MS = 15000;
 const SLIDES = 3;
 
