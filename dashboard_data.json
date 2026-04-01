@@ -1,15 +1,15 @@
 {
-  "gerado_em": "2026-04-01T10:44:14.897581-03:00",
+  "gerado_em": "2026-04-01T11:14:16.443743-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 29,
-    "tma_medio_minutos": 309,
+    "total_conversas_hoje": 31,
+    "tma_medio_minutos": 321,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 30
+    "score_medio_geral": 31
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 51,
+      "score": 52,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (23 min)."
+        "motivo": "Menor tempo médio de resolução real (53 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Arthur Fuentes está se aproximando rápido no ranking! Acelera!"
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 51,
-      "tma_minutos": 50,
-      "tickets_atendidos": 16
+      "score": 52,
+      "tma_minutos": 56,
+      "tickets_atendidos": 17
     },
     {
       "nome": "Arthur Fuentes",
@@ -53,16 +53,16 @@
       "tickets_atendidos": 1
     },
     {
-      "nome": "Angela De Sousa",
+      "nome": "DANUBIA DIAS",
       "score": 42,
-      "tma_minutos": 195,
-      "tickets_atendidos": 47
+      "tma_minutos": 565,
+      "tickets_atendidos": 5
     },
     {
-      "nome": "Laís Chaves",
-      "score": 37,
-      "tma_minutos": 129,
-      "tickets_atendidos": 38
+      "nome": "Angela De Sousa",
+      "score": 41,
+      "tma_minutos": 165,
+      "tickets_atendidos": 46
     },
     {
       "nome": "Laila Santana",
@@ -77,22 +77,22 @@
       "tickets_atendidos": 5
     },
     {
+      "nome": "Laís Chaves",
+      "score": 33,
+      "tma_minutos": 137,
+      "tickets_atendidos": 36
+    },
+    {
       "nome": "Taiane Santos",
       "score": 32,
       "tma_minutos": 215,
       "tickets_atendidos": 74
     },
     {
-      "nome": "DANUBIA DIAS",
-      "score": 22,
-      "tma_minutos": 441,
-      "tickets_atendidos": 5
-    },
-    {
       "nome": "Felipe Leite",
-      "score": 20,
-      "tma_minutos": 23,
-      "tickets_atendidos": 12
+      "score": 19,
+      "tma_minutos": 53,
+      "tickets_atendidos": 11
     },
     {
       "nome": "Eduardo Esparrinha",
