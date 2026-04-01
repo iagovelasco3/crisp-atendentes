@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-01T18:44:36.048228-03:00",
+  "gerado_em": "2026-04-01T19:14:37.351981-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 71,
-    "tma_medio_minutos": 382,
+    "total_conversas_hoje": 74,
+    "tma_medio_minutos": 380,
     "frt_medio_minutos": 0,
     "score_medio_geral": 32
   },
@@ -66,21 +66,21 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 41,
-      "tma_minutos": 201,
+      "score": 40,
+      "tma_minutos": 185,
       "tickets_atendidos": 47
     },
     {
-      "nome": "Taiane Santos",
-      "score": 31,
-      "tma_minutos": 222,
-      "tickets_atendidos": 71
-    },
-    {
       "nome": "Laís Chaves",
-      "score": 30,
+      "score": 31,
       "tma_minutos": 267,
       "tickets_atendidos": 33
+    },
+    {
+      "nome": "Taiane Santos",
+      "score": 30,
+      "tma_minutos": 222,
+      "tickets_atendidos": 70
     },
     {
       "nome": "Felipe Leite",
@@ -111,9 +111,9 @@
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
     "Anderson demonstrou proatividade e eficácia ao investigar, reportar e solicitar o monitoramento da campanha do cliente, o que resultou na resolução do problema de desconexão, recebendo elogios ('parabéns'). Ele também agiu rapidamente para investigar o novo problema de qualidade de vídeo, solicitando testes e o arquivo original para a equipe de desenvolvimento, mostrando compromisso com a resolução completa.",
-    "Laila ofereceu uma call para diagnóstico, envolveu a equipe para verificar a campanha e forneceu uma solução eficaz (limpeza de cache/uso de guia anônima) que resolveu o problema do cliente, resultando em um elogio explícito.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
-    "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente."
+    "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
+    "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo."
   ],
   "pontos_de_crescimento_gerais": [
     "Monitorar o volume de pico para antecipar necessidades da equipe.",
