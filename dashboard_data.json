@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-01T12:44:20.468946-03:00",
+  "gerado_em": "2026-04-01T13:14:21.701463-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 47,
-    "tma_medio_minutos": 337,
+    "total_conversas_hoje": 49,
+    "tma_medio_minutos": 348,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 31
+    "score_medio_geral": 30
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 54,
+      "score": 63,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 17,
+      "tickets_perfeitos_seguidos": 18,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -42,21 +42,21 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 54,
+      "score": 63,
       "tma_minutos": 265,
-      "tickets_atendidos": 17
+      "tickets_atendidos": 18
     },
     {
       "nome": "DANUBIA DIAS",
-      "score": 51,
+      "score": 55,
       "tma_minutos": 565,
       "tickets_atendidos": 6
     },
     {
       "nome": "Angela De Sousa",
-      "score": 41,
-      "tma_minutos": 152,
-      "tickets_atendidos": 50
+      "score": 40,
+      "tma_minutos": 206,
+      "tickets_atendidos": 51
     },
     {
       "nome": "Laila Santana",
@@ -65,34 +65,34 @@
       "tickets_atendidos": 48
     },
     {
-      "nome": "Laís Chaves",
-      "score": 36,
-      "tma_minutos": 144,
-      "tickets_atendidos": 36
-    },
-    {
       "nome": "Caroline Oliveira",
       "score": 35,
       "tma_minutos": 636,
       "tickets_atendidos": 5
     },
     {
+      "nome": "Laís Chaves",
+      "score": 34,
+      "tma_minutos": 144,
+      "tickets_atendidos": 35
+    },
+    {
       "nome": "Taiane Santos",
-      "score": 32,
-      "tma_minutos": 215,
-      "tickets_atendidos": 74
+      "score": 31,
+      "tma_minutos": 222,
+      "tickets_atendidos": 73
     },
     {
       "nome": "Felipe Leite",
-      "score": 26,
+      "score": 20,
       "tma_minutos": 20,
-      "tickets_atendidos": 9
+      "tickets_atendidos": 8
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 25,
-      "tma_minutos": 101,
-      "tickets_atendidos": 6
+      "score": 10,
+      "tma_minutos": 161,
+      "tickets_atendidos": 4
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -112,7 +112,7 @@
     "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
     "Felipe realizou esforços de diagnóstico, criando um grupo de testes e solicitando acesso aos grupos do cliente para acompanhar as duplicações em tempo real. Taiane comunicou proativamente sobre uma atualização da plataforma que causava problemas de envio.",
     "Angela demonstrou proatividade e persistência ao auxiliar o cliente na identificação da conta correta para pagamento, guiando-o na compra de um novo plano e na associação do token, garantindo a resolução de um problema financeiro complexo que se estendeu por várias interações.",
-    "Felipe agiu rapidamente para informar o cliente que a campanha de teste excluída poderia ser recuperada mediante assinatura, salvando o trabalho do cliente e facilitando a venda. Anderson forneceu explicações detalhadas sobre a randomização de números e custos, identificando uma oportunidade de upgrade."
+    "Felipe forneceu explicações claras e auxílio visual para funcionalidades complexas (randomização, agendamento). Anderson e Laís colaboraram para gerenciar um pedido de upgrade complexo, incluindo a mudança de plano e a adição de múltiplos números extras, orientando o cliente no processo de configuração de campanhas secundárias."
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
