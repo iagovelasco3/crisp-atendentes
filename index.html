@@ -4,17 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Performance Crisp</title>
-  <link rel="stylesheet" href="style.css?v=2">
+  <link rel="stylesheet" href="style.css?v=5">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
 
   <header class="header">
     <div class="header__left">
       <div class="header__logo">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>
       </div>
       <div>
         <h1 class="header__title">Performance Dashboard</h1>
@@ -46,7 +46,7 @@
         <div class="kpi-row" id="overviewCards"></div>
         <div class="ranking-panel">
           <div class="panel-header">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20v-6M6 20V10M18 20V4"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20v-6M6 20V10M18 20V4"/></svg>
             <h2>Ranking de Atendentes</h2>
           </div>
           <div class="ranking-list" id="rankingList"></div>
@@ -54,19 +54,40 @@
       </div>
     </section>
 
-    <!-- SLIDE 2: Highlights -->
+    <!-- SLIDE 2: Arena de Gamificação -->
     <section class="slide" id="slide-1">
+      <div class="slide__inner slide__inner--arena">
+
+        <div class="arena-top">
+          <div class="king-card" id="kingCard"></div>
+          <div class="arena-right">
+            <div class="fire-card" id="fireCard"></div>
+            <div class="radar-card" id="radarCard"></div>
+          </div>
+        </div>
+
+        <div class="arena-label">
+          <span class="arena-label__icon">🏅</span>
+          <h2 class="arena-label__text">Medalhas do Dia</h2>
+        </div>
+        <div class="medals-row" id="medalsRow"></div>
+
+      </div>
+    </section>
+
+    <!-- SLIDE 3: Highlights -->
+    <section class="slide" id="slide-2">
       <div class="slide__inner slide__inner--two-col">
         <div class="glass-card glass-card--star">
           <div class="glass-card__header">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
             <h2>Melhores Atendimentos</h2>
           </div>
           <div class="glass-card__body" id="bestServicesList"></div>
         </div>
         <div class="glass-card glass-card--praise">
           <div class="glass-card__header">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
             <h2>Elogios Recebidos</h2>
           </div>
           <div class="glass-card__body" id="praiseList"></div>
@@ -74,12 +95,12 @@
       </div>
     </section>
 
-    <!-- SLIDE 3: Growth -->
-    <section class="slide" id="slide-2">
+    <!-- SLIDE 4: Growth -->
+    <section class="slide" id="slide-3">
       <div class="slide__inner slide__inner--center">
         <div class="growth-panel">
           <div class="growth-panel__header">
-            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>
             <h2>Pontos de Crescimento</h2>
           </div>
           <p class="growth-panel__intro">Oportunidades para a equipe evoluir continuamente:</p>
@@ -92,10 +113,11 @@
 
   <nav class="dots" aria-label="Slides">
     <button class="dot active" data-slide="0" aria-label="KPIs e Ranking"></button>
-    <button class="dot" data-slide="1" aria-label="Destaques"></button>
-    <button class="dot" data-slide="2" aria-label="Crescimento"></button>
+    <button class="dot" data-slide="1" aria-label="Arena"></button>
+    <button class="dot" data-slide="2" aria-label="Destaques"></button>
+    <button class="dot" data-slide="3" aria-label="Crescimento"></button>
   </nav>
 
-  <script src="script.js?v=3"></script>
+  <script src="script.js?v=5"></script>
 </body>
 </html>
