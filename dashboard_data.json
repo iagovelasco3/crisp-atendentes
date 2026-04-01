@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-01T09:44:12.060003-03:00",
+  "gerado_em": "2026-04-01T10:14:13.412670-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 22,
-    "tma_medio_minutos": 309,
+    "total_conversas_hoje": 26,
+    "tma_medio_minutos": 308,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 30
+    "score_medio_geral": 29
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -37,7 +37,7 @@
         "motivo": "Menor tempo médio de resolução real (20 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Arthur Fuentes: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Arthur Fuentes: a(o) Angela De Sousa está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,22 +47,22 @@
       "tickets_atendidos": 1
     },
     {
-      "nome": "Anderson Alves",
-      "score": 48,
-      "tma_minutos": 71,
-      "tickets_atendidos": 11
-    },
-    {
       "nome": "Angela De Sousa",
-      "score": 43,
+      "score": 41,
       "tma_minutos": 195,
       "tickets_atendidos": 48
     },
     {
+      "nome": "Anderson Alves",
+      "score": 41,
+      "tma_minutos": 54,
+      "tickets_atendidos": 14
+    },
+    {
       "nome": "Laís Chaves",
-      "score": 39,
-      "tma_minutos": 128,
-      "tickets_atendidos": 38
+      "score": 38,
+      "tma_minutos": 129,
+      "tickets_atendidos": 39
     },
     {
       "nome": "Laila Santana",
@@ -78,21 +78,21 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 31,
+      "score": 32,
       "tma_minutos": 215,
-      "tickets_atendidos": 76
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 25,
-      "tma_minutos": 20,
-      "tickets_atendidos": 7
+      "tickets_atendidos": 74
     },
     {
       "nome": "DANUBIA DIAS",
-      "score": 17,
-      "tma_minutos": 430,
-      "tickets_atendidos": 6
+      "score": 22,
+      "tma_minutos": 438,
+      "tickets_atendidos": 5
+    },
+    {
+      "nome": "Felipe Leite",
+      "score": 19,
+      "tma_minutos": 20,
+      "tickets_atendidos": 9
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -116,10 +116,10 @@
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
+    "Anderson Alves foi elogiado explicitamente pelo cliente ('depois que você mexeu resolveu parou de cair o número parabéns') por resolver o problema crítico e recorrente de desconexão do número. Taiane também recebeu elogios ('arrasouuuu') por resolver um problema de envio de mensagens em massa para grupos.",
     "Laila ofereceu uma call para diagnóstico, envolveu a equipe para verificar a campanha e forneceu uma solução eficaz (limpeza de cache/uso de guia anônima) que resolveu o problema do cliente, resultando em um elogio explícito.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
-    "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
-    "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo."
+    "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente."
   ],
   "pontos_de_crescimento_gerais": [
     "Monitorar o volume de pico para antecipar necessidades da equipe.",
