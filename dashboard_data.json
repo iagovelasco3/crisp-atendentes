@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-01T12:14:19.218298-03:00",
+  "gerado_em": "2026-04-01T12:44:20.468946-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 41,
-    "tma_medio_minutos": 333,
+    "total_conversas_hoje": 47,
+    "tma_medio_minutos": 337,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 32
+    "score_medio_geral": 31
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 58,
+      "score": 54,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 18,
+      "tickets_perfeitos_seguidos": 17,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (25 min)."
+        "motivo": "Menor tempo médio de resolução real (20 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) DANUBIA DIAS está se aproximando rápido no ranking! Acelera!"
@@ -42,45 +42,39 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 58,
-      "tma_minutos": 228,
-      "tickets_atendidos": 18
+      "score": 54,
+      "tma_minutos": 265,
+      "tickets_atendidos": 17
     },
     {
       "nome": "DANUBIA DIAS",
-      "score": 46,
+      "score": 51,
       "tma_minutos": 565,
       "tickets_atendidos": 6
     },
     {
       "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 157,
-      "tickets_atendidos": 48
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 40,
-      "tma_minutos": 92,
-      "tickets_atendidos": 3
+      "tma_minutos": 152,
+      "tickets_atendidos": 50
     },
     {
       "nome": "Laila Santana",
       "score": 36,
       "tma_minutos": 150,
-      "tickets_atendidos": 49
+      "tickets_atendidos": 48
+    },
+    {
+      "nome": "Laís Chaves",
+      "score": 36,
+      "tma_minutos": 144,
+      "tickets_atendidos": 36
     },
     {
       "nome": "Caroline Oliveira",
       "score": 35,
       "tma_minutos": 636,
       "tickets_atendidos": 5
-    },
-    {
-      "nome": "Laís Chaves",
-      "score": 34,
-      "tma_minutos": 137,
-      "tickets_atendidos": 36
     },
     {
       "nome": "Taiane Santos",
@@ -90,9 +84,15 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 27,
-      "tma_minutos": 25,
-      "tickets_atendidos": 11
+      "score": 26,
+      "tma_minutos": 20,
+      "tickets_atendidos": 9
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 25,
+      "tma_minutos": 101,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -112,7 +112,7 @@
     "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
     "Felipe realizou esforços de diagnóstico, criando um grupo de testes e solicitando acesso aos grupos do cliente para acompanhar as duplicações em tempo real. Taiane comunicou proativamente sobre uma atualização da plataforma que causava problemas de envio.",
     "Angela demonstrou proatividade e persistência ao auxiliar o cliente na identificação da conta correta para pagamento, guiando-o na compra de um novo plano e na associação do token, garantindo a resolução de um problema financeiro complexo que se estendeu por várias interações.",
-    "Felipe diagnosticou e resolveu com sucesso um problema de UX onde o cliente não conseguia agendar mensagens após a criação, orientando-o a mudar a configuração de 'Automação de grupo' para 'Automação de comunidades'. Anderson forneceu uma explicação detalhada sobre a randomização de múltiplos números e identificou a 'atividade incomum' do cliente como um problema que poderia ser resolvido com um upgrade de plano, oferecendo proativamente a passagem para o setor financeiro."
+    "Felipe agiu rapidamente para informar o cliente que a campanha de teste excluída poderia ser recuperada mediante assinatura, salvando o trabalho do cliente e facilitando a venda. Anderson forneceu explicações detalhadas sobre a randomização de números e custos, identificando uma oportunidade de upgrade."
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
