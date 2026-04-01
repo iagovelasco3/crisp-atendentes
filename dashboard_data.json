@@ -1,26 +1,27 @@
 {
-  "gerado_em": "2026-04-01T08:31:34.536959-03:00",
+  "gerado_em": "2026-04-01T08:46:52.851994-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 18,
+    "total_conversas_hoje": 19,
     "tma_medio_minutos": 0,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 0
+    "score_medio_geral": 20
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Ninguém ainda",
-      "score": 0
+      "nome": "Taiane Santos 👑",
+      "score": 20,
+      "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Nenhum",
-      "tickets_perfeitos_seguidos": 0,
+      "atendente": "Taiane Santos",
+      "tickets_perfeitos_seguidos": 1,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
       {
         "icone": "🧯",
         "titulo": "Bombeiro de Elite",
-        "ganhador": "N/A",
+        "ganhador": "Taiane Santos",
         "motivo": "Reverteu o maior risco de churn do turno e segurou a crise."
       },
       {
@@ -38,7 +39,14 @@
     ],
     "radar_de_ultrapassagem": "A disputa está acirrada! Fiquem de olho no ranking."
   },
-  "ranking_atendentes": [],
+  "ranking_atendentes": [
+    {
+      "nome": "Taiane Santos",
+      "score": 20,
+      "tma_minutos": 0,
+      "tickets_atendidos": 1
+    }
+  ],
   "melhores_atendimentos_recentes": [
     "Laila assumiu a responsabilidade pelo problema principal (automação de entrada de grupo) após escalonamento, coordenou a resolução internamente, identificou a solução (recriação das mensagens de entrada e saída) e forneceu instruções claras e proativas ao cliente sobre como agir caso o problema se repita. Ela também realizou testes para confirmar a resolução e tranquilizar o cliente.",
     "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
@@ -48,10 +56,10 @@
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
-    "Angela identificou corretamente o plano inadequado do cliente para a funcionalidade desejada, propôs a migração para o plano DevFunil e executou a mudança prontamente, resolvendo a dor do cliente e resultando em sua satisfação e elogio explícito.",
     "Laila ofereceu uma call para diagnóstico, envolveu a equipe para verificar a campanha e forneceu uma solução eficaz (limpeza de cache/uso de guia anônima) que resolveu o problema do cliente, resultando em um elogio explícito.",
-    "Laila demonstrou proatividade ao acessar diretamente a campanha do cliente para realizar a atualização necessária e resolver o problema de redirecionamento. Sua clareza nas explicações e paciência em guiar o cliente na configuração foram cruciais, culminando no elogio 'ahhhhh lailaaaaaaaaa você é um mito!!!!!!!!'.",
-    "Laís agiu proativamente para liberar o uso da campanha enquanto o problema de cobrança era resolvido, recebendo um elogio explícito. Anderson comunicou a causa de um problema técnico (atualização de sistema) e forneceu uma solução rápida para o problema de login, além de pedir desculpas pela experiência."
+    "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
+    "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
+    "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo."
   ],
   "pontos_de_crescimento_gerais": [
     "Monitorar o volume de pico para antecipar necessidades da equipe.",
