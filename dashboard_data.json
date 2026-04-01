@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-01T14:14:24.278465-03:00",
+  "gerado_em": "2026-04-01T14:44:25.805275-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 50,
-    "tma_medio_minutos": 345,
+    "total_conversas_hoje": 53,
+    "tma_medio_minutos": 346,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 33
+    "score_medio_geral": 30
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -13,8 +13,8 @@
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Arthur Fuentes",
-      "tickets_perfeitos_seguidos": 1,
+      "atendente": "Anderson Alves",
+      "tickets_perfeitos_seguidos": 18,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (20 min)."
+        "motivo": "Menor tempo médio de resolução real (15 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) DANUBIA DIAS está se aproximando rápido no ranking! Acelera!"
@@ -53,22 +53,16 @@
       "tickets_atendidos": 6
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 50,
-      "tma_minutos": 92,
-      "tickets_atendidos": 1
-    },
-    {
       "nome": "Angela De Sousa",
-      "score": 42,
+      "score": 43,
       "tma_minutos": 161,
-      "tickets_atendidos": 50
+      "tickets_atendidos": 48
     },
     {
       "nome": "Laila Santana",
-      "score": 36,
+      "score": 37,
       "tma_minutos": 150,
-      "tickets_atendidos": 48
+      "tickets_atendidos": 47
     },
     {
       "nome": "Caroline Oliveira",
@@ -79,8 +73,8 @@
     {
       "nome": "Laís Chaves",
       "score": 34,
-      "tma_minutos": 222,
-      "tickets_atendidos": 37
+      "tma_minutos": 240,
+      "tickets_atendidos": 34
     },
     {
       "nome": "Taiane Santos",
@@ -90,9 +84,15 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 20,
-      "tma_minutos": 20,
-      "tickets_atendidos": 8
+      "score": 22,
+      "tma_minutos": 15,
+      "tickets_atendidos": 10
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 10,
+      "tma_minutos": 92,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Eduardo Esparrinha",
