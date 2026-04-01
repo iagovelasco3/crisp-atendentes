@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-03-31T23:31:11.749429-03:00",
+  "gerado_em": "2026-04-01T00:01:12.935013-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 85,
+    "total_conversas_hoje": 12,
     "tma_medio_minutos": 91,
     "frt_medio_minutos": 0,
     "score_medio_geral": 46
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 28,
+      "score": 31,
       "tma_minutos": 205,
-      "tickets_atendidos": 17
+      "tickets_atendidos": 18
     },
     {
       "nome": "Angela De Sousa",
