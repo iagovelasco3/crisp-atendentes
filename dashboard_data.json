@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-03-31T22:01:07.492206-03:00",
+  "gerado_em": "2026-03-31T22:31:09.353171-03:00",
   "visao_geral": {
     "total_conversas_hoje": 85,
     "tma_medio_minutos": 91,
@@ -80,9 +80,9 @@
   "melhores_atendimentos_recentes": [
     "Laila assumiu a responsabilidade pelo problema principal (automação de entrada de grupo) após escalonamento, coordenou a resolução internamente, identificou a solução (recriação das mensagens de entrada e saída) e forneceu instruções claras e proativas ao cliente sobre como agir caso o problema se repita. Ela também realizou testes para confirmar a resolução e tranquilizar o cliente.",
     "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
-    "Anderson demonstrou persistência e proatividade ao escalar o problema para os desenvolvedores, utilizar um número de teste para diagnóstico e, crucialmente, ao conseguir restaurar as campanhas do cliente que haviam sido excluídas, evitando uma perda significativa de trabalho. Sua comunicação foi clara e empática.",
     "Felipe realizou esforços de diagnóstico, criando um grupo de testes e solicitando acesso aos grupos do cliente para acompanhar as duplicações em tempo real. Taiane comunicou proativamente sobre uma atualização da plataforma que causava problemas de envio.",
-    "Felipe identificou que o cliente possuía um 'plano Black' e o direcionou para um grupo VIP de suporte no WhatsApp para acompanhamento especializado do problema recorrente."
+    "Felipe identificou que o cliente possuía um 'plano Black' e o direcionou para um grupo VIP de suporte no WhatsApp para acompanhamento especializado do problema recorrente.",
+    "Angela demonstrou proatividade e persistência ao auxiliar o cliente na identificação da conta correta para pagamento, guiando-o na compra de um novo plano e na associação do token, garantindo a resolução de um problema financeiro complexo que se estendeu por várias interações."
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
