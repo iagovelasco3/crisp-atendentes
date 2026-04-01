@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-01T14:44:25.805275-03:00",
+  "gerado_em": "2026-04-01T15:14:26.997437-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 53,
-    "tma_medio_minutos": 346,
+    "total_conversas_hoje": 55,
+    "tma_medio_minutos": 343,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 30
+    "score_medio_geral": 29
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 63,
+      "score": 61,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 18,
+      "tickets_perfeitos_seguidos": 19,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (15 min)."
+        "motivo": "Menor tempo médio de resolução real (18 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) DANUBIA DIAS está se aproximando rápido no ranking! Acelera!"
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 63,
-      "tma_minutos": 265,
-      "tickets_atendidos": 18
+      "score": 61,
+      "tma_minutos": 229,
+      "tickets_atendidos": 19
     },
     {
       "nome": "DANUBIA DIAS",
@@ -65,16 +65,16 @@
       "tickets_atendidos": 47
     },
     {
+      "nome": "Laís Chaves",
+      "score": 35,
+      "tma_minutos": 241,
+      "tickets_atendidos": 35
+    },
+    {
       "nome": "Caroline Oliveira",
       "score": 35,
       "tma_minutos": 636,
       "tickets_atendidos": 5
-    },
-    {
-      "nome": "Laís Chaves",
-      "score": 34,
-      "tma_minutos": 240,
-      "tickets_atendidos": 34
     },
     {
       "nome": "Taiane Santos",
@@ -84,15 +84,15 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 22,
-      "tma_minutos": 15,
+      "score": 20,
+      "tma_minutos": 18,
       "tickets_atendidos": 10
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 10,
+      "score": 7,
       "tma_minutos": 92,
-      "tickets_atendidos": 3
+      "tickets_atendidos": 2
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -116,7 +116,7 @@
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
-    "Anderson Alves resolveu o problema crítico de desconexões diárias do número, recebendo elogios diretos do cliente. Taiane também recebeu elogios por resolver um problema de disparo de mensagens. Ambos demonstraram proatividade e eficácia na resolução dos problemas imediatos.",
+    "Anderson solicitou monitoramento e análise da campanha do cliente, o que resultou na resolução do problema de desconexão diária, recebendo elogios do cliente ('parabéns'). Taiane guiou o cliente na reconexão e teste de envio, recebendo 'arrasouuuu'.",
     "Laila ofereceu uma call para diagnóstico, envolveu a equipe para verificar a campanha e forneceu uma solução eficaz (limpeza de cache/uso de guia anônima) que resolveu o problema do cliente, resultando em um elogio explícito.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
     "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente."
