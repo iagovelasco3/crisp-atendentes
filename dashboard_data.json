@@ -1,15 +1,15 @@
 {
-  "gerado_em": "2026-04-01T19:14:37.351981-03:00",
+  "gerado_em": "2026-04-01T19:44:38.487234-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 74,
-    "tma_medio_minutos": 380,
+    "total_conversas_hoje": 75,
+    "tma_medio_minutos": 382,
     "frt_medio_minutos": 0,
     "score_medio_geral": 32
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 62,
+      "score": 60,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
@@ -42,7 +42,7 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 62,
+      "score": 60,
       "tma_minutos": 276,
       "tickets_atendidos": 20
     },
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 40,
-      "tma_minutos": 185,
-      "tickets_atendidos": 47
+      "score": 39,
+      "tma_minutos": 210,
+      "tickets_atendidos": 46
     },
     {
       "nome": "Laís Chaves",
@@ -110,7 +110,7 @@
   ],
   "elogios_recentes": [
     "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
-    "Anderson demonstrou proatividade e eficácia ao investigar, reportar e solicitar o monitoramento da campanha do cliente, o que resultou na resolução do problema de desconexão, recebendo elogios ('parabéns'). Ele também agiu rapidamente para investigar o novo problema de qualidade de vídeo, solicitando testes e o arquivo original para a equipe de desenvolvimento, mostrando compromisso com a resolução completa.",
+    "A atendente Taiane recebeu um elogio direto ('arrasouuuu') do cliente por resolver um problema de envio de mensagens. O atendente Anderson foi elogiado ('parabéns') por solucionar a questão das desconexões frequentes do número e demonstrou proatividade ao investigar o problema de qualidade de vídeo, solicitando testes e o arquivo original.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
     "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
     "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo."
