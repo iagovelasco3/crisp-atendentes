@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T18:15:35.478941-03:00",
+  "gerado_em": "2026-04-02T18:45:36.660997-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 93,
+    "total_conversas_hoje": 95,
     "tma_medio_minutos": 373,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 36
+    "score_medio_geral": 35
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -54,21 +54,21 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 42,
+      "score": 43,
       "tma_minutos": 152,
-      "tickets_atendidos": 45
-    },
-    {
-      "nome": "Laila Santana",
-      "score": 41,
-      "tma_minutos": 246,
-      "tickets_atendidos": 46
+      "tickets_atendidos": 44
     },
     {
       "nome": "Caroline Oliveira",
       "score": 39,
       "tma_minutos": 636,
       "tickets_atendidos": 6
+    },
+    {
+      "nome": "Laila Santana",
+      "score": 38,
+      "tma_minutos": 246,
+      "tickets_atendidos": 46
     },
     {
       "nome": "DANUBIA DIAS",
@@ -78,21 +78,21 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 31,
-      "tma_minutos": 223,
+      "score": 33,
+      "tma_minutos": 229,
       "tickets_atendidos": 63
-    },
-    {
-      "nome": "Laís Chaves",
-      "score": 31,
-      "tma_minutos": 168,
-      "tickets_atendidos": 34
     },
     {
       "nome": "Eduardo Esparrinha",
       "score": 31,
       "tma_minutos": 122,
       "tickets_atendidos": 3
+    },
+    {
+      "nome": "Laís Chaves",
+      "score": 30,
+      "tma_minutos": 168,
+      "tickets_atendidos": 33
     },
     {
       "nome": "Arthur Fuentes",
