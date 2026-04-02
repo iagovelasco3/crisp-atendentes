@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T08:45:08.402779-03:00",
+  "gerado_em": "2026-04-02T09:15:09.904646-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 24,
-    "tma_medio_minutos": 378,
+    "total_conversas_hoje": 42,
+    "tma_medio_minutos": 341,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 33
+    "score_medio_geral": 32
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -37,7 +37,7 @@
         "motivo": "Menor tempo médio de resolução real (18 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Angela De Sousa está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Caroline Oliveira está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -45,12 +45,6 @@
       "score": 60,
       "tma_minutos": 276,
       "tickets_atendidos": 18
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 43,
-      "tma_minutos": 178,
-      "tickets_atendidos": 48
     },
     {
       "nome": "Caroline Oliveira",
@@ -65,22 +59,28 @@
       "tickets_atendidos": 47
     },
     {
-      "nome": "DANUBIA DIAS",
+      "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 565,
-      "tickets_atendidos": 5
+      "tma_minutos": 178,
+      "tickets_atendidos": 45
     },
     {
-      "nome": "Laís Chaves",
-      "score": 33,
-      "tma_minutos": 202,
-      "tickets_atendidos": 32
+      "nome": "DANUBIA DIAS",
+      "score": 38,
+      "tma_minutos": 201,
+      "tickets_atendidos": 23
     },
     {
       "nome": "Felipe Leite",
-      "score": 33,
+      "score": 35,
       "tma_minutos": 18,
       "tickets_atendidos": 11
+    },
+    {
+      "nome": "Laís Chaves",
+      "score": 32,
+      "tma_minutos": 189,
+      "tickets_atendidos": 33
     },
     {
       "nome": "Taiane Santos",
