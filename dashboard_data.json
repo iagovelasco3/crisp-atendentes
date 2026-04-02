@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T10:45:14.244158-03:00",
+  "gerado_em": "2026-04-02T11:15:15.754024-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 57,
-    "tma_medio_minutos": 349,
+    "total_conversas_hoje": 62,
+    "tma_medio_minutos": 350,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 35
+    "score_medio_geral": 34
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -37,7 +37,7 @@
         "motivo": "Menor tempo médio de resolução real (16 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Arthur Fuentes está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,22 +47,16 @@
       "tickets_atendidos": 18
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 46,
-      "tma_minutos": 16,
-      "tickets_atendidos": 8
+      "nome": "Felipe Leite",
+      "score": 53,
+      "tma_minutos": 32,
+      "tickets_atendidos": 12
     },
     {
       "nome": "DANUBIA DIAS",
       "score": 46,
       "tma_minutos": 565,
       "tickets_atendidos": 5
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 45,
-      "tma_minutos": 21,
-      "tickets_atendidos": 10
     },
     {
       "nome": "Caroline Oliveira",
@@ -78,9 +72,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 41,
-      "tma_minutos": 220,
-      "tickets_atendidos": 49
+      "score": 39,
+      "tma_minutos": 210,
+      "tickets_atendidos": 48
     },
     {
       "nome": "Laís Chaves",
@@ -92,7 +86,13 @@
       "nome": "Taiane Santos",
       "score": 30,
       "tma_minutos": 222,
-      "tickets_atendidos": 69
+      "tickets_atendidos": 68
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 29,
+      "tma_minutos": 16,
+      "tickets_atendidos": 8
     },
     {
       "nome": "Eduardo Esparrinha",
