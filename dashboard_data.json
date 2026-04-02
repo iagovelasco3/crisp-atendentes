@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T11:15:15.754024-03:00",
+  "gerado_em": "2026-04-02T11:45:16.954857-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 62,
-    "tma_medio_minutos": 350,
+    "total_conversas_hoje": 69,
+    "tma_medio_minutos": 342,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 34
+    "score_medio_geral": 30
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -34,10 +34,10 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Arthur Fuentes",
-        "motivo": "Menor tempo médio de resolução real (16 min)."
+        "motivo": "Menor tempo médio de resolução real (12 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) DANUBIA DIAS está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -45,12 +45,6 @@
       "score": 60,
       "tma_minutos": 276,
       "tickets_atendidos": 18
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 53,
-      "tma_minutos": 32,
-      "tickets_atendidos": 12
     },
     {
       "nome": "DANUBIA DIAS",
@@ -71,34 +65,40 @@
       "tickets_atendidos": 44
     },
     {
+      "nome": "Felipe Leite",
+      "score": 41,
+      "tma_minutos": 32,
+      "tickets_atendidos": 14
+    },
+    {
       "nome": "Angela De Sousa",
       "score": 39,
-      "tma_minutos": 210,
+      "tma_minutos": 151,
       "tickets_atendidos": 48
+    },
+    {
+      "nome": "Taiane Santos",
+      "score": 31,
+      "tma_minutos": 222,
+      "tickets_atendidos": 67
     },
     {
       "nome": "Laís Chaves",
       "score": 31,
-      "tma_minutos": 202,
-      "tickets_atendidos": 33
-    },
-    {
-      "nome": "Taiane Santos",
-      "score": 30,
-      "tma_minutos": 222,
-      "tickets_atendidos": 68
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 29,
-      "tma_minutos": 16,
-      "tickets_atendidos": 8
+      "tma_minutos": 186,
+      "tickets_atendidos": 34
     },
     {
       "nome": "Eduardo Esparrinha",
       "score": 3,
       "tma_minutos": 140,
       "tickets_atendidos": 3
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 0,
+      "tma_minutos": 12,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Cintia Almeida",
@@ -111,7 +111,7 @@
     "Laila assumiu a responsabilidade pelo problema principal (automação de entrada de grupo) após escalonamento, coordenou a resolução internamente, identificou a solução (recriação das mensagens de entrada e saída) e forneceu instruções claras e proativas ao cliente sobre como agir caso o problema se repita. Ela também realizou testes para confirmar a resolução e tranquilizar o cliente.",
     "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
     "Felipe realizou esforços de diagnóstico, criando um grupo de testes e solicitando acesso aos grupos do cliente para acompanhar as duplicações em tempo real. Taiane comunicou proativamente sobre uma atualização da plataforma que causava problemas de envio.",
-    "Angela demonstrou proatividade e persistência ao auxiliar o cliente na identificação da conta correta para pagamento, guiando-o na compra de um novo plano e na associação do token, garantindo a resolução de um problema financeiro complexo que se estendeu por várias interações.",
+    "Angela demonstrou excelência no suporte financeiro, guiando o cliente detalhadamente na compra de um novo plano e associação de conta, além de esclarecer dúvidas sobre a vinculação de contas.",
     "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais."
   ],
   "elogios_recentes": [
