@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-02T12:15:18.210718-03:00",
+  "gerado_em": "2026-04-02T12:45:19.526327-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 70,
+    "total_conversas_hoje": 74,
     "tma_medio_minutos": 345,
     "frt_medio_minutos": 0,
     "score_medio_geral": 31
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (36 min)."
+        "motivo": "Menor tempo médio de resolução real (42 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 45,
-      "tma_minutos": 36,
-      "tickets_atendidos": 11
+      "score": 46,
+      "tma_minutos": 42,
+      "tickets_atendidos": 15
     },
     {
       "nome": "Caroline Oliveira",
@@ -72,13 +72,13 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 39,
-      "tma_minutos": 143,
-      "tickets_atendidos": 49
+      "score": 38,
+      "tma_minutos": 138,
+      "tickets_atendidos": 50
     },
     {
       "nome": "Laís Chaves",
-      "score": 33,
+      "score": 34,
       "tma_minutos": 188,
       "tickets_atendidos": 34
     },
@@ -90,9 +90,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 3,
+      "score": 7,
       "tma_minutos": 43,
-      "tickets_atendidos": 3
+      "tickets_atendidos": 2
     },
     {
       "nome": "Eduardo Esparrinha",
