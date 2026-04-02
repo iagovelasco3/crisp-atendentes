@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T15:15:27.857509-03:00",
+  "gerado_em": "2026-04-02T15:45:29.169569-03:00",
   "visao_geral": {
     "total_conversas_hoje": 84,
-    "tma_medio_minutos": 362,
+    "tma_medio_minutos": 365,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 36
+    "score_medio_geral": 34
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 49,
+      "score": 52,
       "tma_minutos": 46,
-      "tickets_atendidos": 14
+      "tickets_atendidos": 13
     },
     {
       "nome": "DANUBIA DIAS",
@@ -59,10 +59,10 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 45,
-      "tma_minutos": 227,
-      "tickets_atendidos": 4
+      "nome": "Angela De Sousa",
+      "score": 44,
+      "tma_minutos": 152,
+      "tickets_atendidos": 45
     },
     {
       "nome": "Caroline Oliveira",
@@ -71,20 +71,14 @@
       "tickets_atendidos": 6
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 42,
-      "tma_minutos": 152,
-      "tickets_atendidos": 46
-    },
-    {
       "nome": "Laila Santana",
-      "score": 41,
-      "tma_minutos": 223,
+      "score": 40,
+      "tma_minutos": 225,
       "tickets_atendidos": 44
     },
     {
       "nome": "Laís Chaves",
-      "score": 34,
+      "score": 36,
       "tma_minutos": 167,
       "tickets_atendidos": 35
     },
@@ -95,10 +89,16 @@
       "tickets_atendidos": 66
     },
     {
+      "nome": "Arthur Fuentes",
+      "score": 21,
+      "tma_minutos": 261,
+      "tickets_atendidos": 5
+    },
+    {
       "nome": "Eduardo Esparrinha",
-      "score": 2,
-      "tma_minutos": 142,
-      "tickets_atendidos": 4
+      "score": 3,
+      "tma_minutos": 140,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Cintia Almeida",
@@ -115,7 +115,7 @@
     "Arthur e Anderson agendaram e realizaram chamadas de vídeo para troubleshooting e para discutir a oportunidade de upsell, demonstrando um esforço consultivo e proatividade na tentativa de resolução e expansão."
   ],
   "elogios_recentes": [
-    "A atendente Taiane recebeu um elogio direto ('arrasouuuu') do cliente por resolver um problema de envio de mensagens. O atendente Anderson foi elogiado ('parabéns') por solucionar a questão das desconexões frequentes do número e demonstrou proatividade ao investigar o problema de qualidade de vídeo, solicitando testes e o arquivo original.",
+    "O atendente Anderson resolveu o problema de desconexão frequente da conta, recebendo elogios do cliente: 'depois que você mexeu resolveu', 'parou de cair o número', 'parabéns'.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
     "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
     "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo."
