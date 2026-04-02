@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T16:45:31.792162-03:00",
+  "gerado_em": "2026-04-02T17:15:32.969988-03:00",
   "visao_geral": {
     "total_conversas_hoje": 90,
-    "tma_medio_minutos": 366,
+    "tma_medio_minutos": 369,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 35
+    "score_medio_geral": 38
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -55,8 +55,14 @@
     {
       "nome": "Angela De Sousa",
       "score": 44,
-      "tma_minutos": 146,
-      "tickets_atendidos": 46
+      "tma_minutos": 152,
+      "tickets_atendidos": 45
+    },
+    {
+      "nome": "Eduardo Esparrinha",
+      "score": 41,
+      "tma_minutos": 97,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Laila Santana",
@@ -71,6 +77,12 @@
       "tickets_atendidos": 6
     },
     {
+      "nome": "Arthur Fuentes",
+      "score": 36,
+      "tma_minutos": 341,
+      "tickets_atendidos": 3
+    },
+    {
       "nome": "DANUBIA DIAS",
       "score": 35,
       "tma_minutos": 565,
@@ -78,27 +90,15 @@
     },
     {
       "nome": "Laís Chaves",
-      "score": 32,
+      "score": 34,
       "tma_minutos": 168,
-      "tickets_atendidos": 34
+      "tickets_atendidos": 35
     },
     {
       "nome": "Taiane Santos",
       "score": 30,
-      "tma_minutos": 222,
-      "tickets_atendidos": 66
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 23,
-      "tma_minutos": 322,
-      "tickets_atendidos": 6
-    },
-    {
-      "nome": "Eduardo Esparrinha",
-      "score": 22,
-      "tma_minutos": 94,
-      "tickets_atendidos": 3
+      "tma_minutos": 229,
+      "tickets_atendidos": 65
     },
     {
       "nome": "Cintia Almeida",
@@ -115,7 +115,6 @@
     "Arthur e Anderson agendaram e realizaram chamadas de vídeo para troubleshooting e para discutir a oportunidade de upsell, demonstrando um esforço consultivo e proatividade na tentativa de resolução e expansão."
   ],
   "elogios_recentes": [
-    "Taiane guiou o cliente de forma eficaz para resolver um problema de mensagens não disparadas, recebendo agradecimentos. Anderson investigou e aparentemente resolveu o problema de desconexões recorrentes, recebendo elogios do cliente ('parabéns', 'resolveu', 'parou de cair o número') e proativamente solicitou o arquivo de vídeo original para auxiliar a equipe de desenvolvimento na investigação do novo problema de qualidade de vídeo.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
     "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
     "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo.",
