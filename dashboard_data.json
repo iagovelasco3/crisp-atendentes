@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-01T22:14:44.160308-03:00",
+  "gerado_em": "2026-04-01T22:44:45.229612-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 73,
+    "total_conversas_hoje": 70,
     "tma_medio_minutos": 378,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 32
+    "score_medio_geral": 33
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -71,6 +71,12 @@
       "tickets_atendidos": 46
     },
     {
+      "nome": "Felipe Leite",
+      "score": 34,
+      "tma_minutos": 18,
+      "tickets_atendidos": 11
+    },
+    {
       "nome": "Laís Chaves",
       "score": 33,
       "tma_minutos": 202,
@@ -81,12 +87,6 @@
       "score": 30,
       "tma_minutos": 222,
       "tickets_atendidos": 70
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 27,
-      "tma_minutos": 18,
-      "tickets_atendidos": 10
     },
     {
       "nome": "Eduardo Esparrinha",
