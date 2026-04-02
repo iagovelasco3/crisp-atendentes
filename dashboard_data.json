@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-02T14:15:25.318352-03:00",
+  "gerado_em": "2026-04-02T14:45:26.594546-03:00",
   "visao_geral": {
     "total_conversas_hoje": 81,
-    "tma_medio_minutos": 358,
+    "tma_medio_minutos": 361,
     "frt_medio_minutos": 0,
     "score_medio_geral": 33
   },
@@ -48,7 +48,7 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 51,
+      "score": 54,
       "tma_minutos": 46,
       "tickets_atendidos": 13
     },
@@ -78,8 +78,8 @@
     },
     {
       "nome": "Laís Chaves",
-      "score": 33,
-      "tma_minutos": 173,
+      "score": 35,
+      "tma_minutos": 177,
       "tickets_atendidos": 36
     },
     {
@@ -89,16 +89,16 @@
       "tickets_atendidos": 66
     },
     {
-      "nome": "Eduardo Esparrinha",
-      "score": 22,
-      "tma_minutos": 142,
-      "tickets_atendidos": 4
+      "nome": "Arthur Fuentes",
+      "score": 10,
+      "tma_minutos": 203,
+      "tickets_atendidos": 3
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 3,
-      "tma_minutos": 172,
-      "tickets_atendidos": 3
+      "nome": "Eduardo Esparrinha",
+      "score": 2,
+      "tma_minutos": 142,
+      "tickets_atendidos": 4
     },
     {
       "nome": "Cintia Almeida",
