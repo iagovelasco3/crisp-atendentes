@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T13:45:24.096257-03:00",
+  "gerado_em": "2026-04-02T14:15:25.318352-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 80,
-    "tma_medio_minutos": 333,
+    "total_conversas_hoje": 81,
+    "tma_medio_minutos": 358,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 32
+    "score_medio_geral": 33
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (62 min)."
+        "motivo": "Menor tempo médio de resolução real (46 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
@@ -48,15 +48,9 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 56,
-      "tma_minutos": 62,
-      "tickets_atendidos": 17
-    },
-    {
-      "nome": "DANUBIA DIAS",
-      "score": 48,
-      "tma_minutos": 448,
-      "tickets_atendidos": 6
+      "score": 51,
+      "tma_minutos": 46,
+      "tickets_atendidos": 13
     },
     {
       "nome": "Caroline Oliveira",
@@ -65,21 +59,27 @@
       "tickets_atendidos": 6
     },
     {
+      "nome": "Angela De Sousa",
+      "score": 42,
+      "tma_minutos": 152,
+      "tickets_atendidos": 46
+    },
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 42,
+      "tma_minutos": 565,
+      "tickets_atendidos": 5
+    },
+    {
       "nome": "Laila Santana",
       "score": 41,
       "tma_minutos": 223,
       "tickets_atendidos": 44
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 41,
-      "tma_minutos": 152,
-      "tickets_atendidos": 46
-    },
-    {
       "nome": "Laís Chaves",
       "score": 33,
-      "tma_minutos": 170,
+      "tma_minutos": 173,
       "tickets_atendidos": 36
     },
     {
@@ -90,15 +90,15 @@
     },
     {
       "nome": "Eduardo Esparrinha",
-      "score": 3,
-      "tma_minutos": 140,
-      "tickets_atendidos": 3
+      "score": 22,
+      "tma_minutos": 142,
+      "tickets_atendidos": 4
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 0,
-      "tma_minutos": 0,
-      "tickets_atendidos": 1
+      "score": 3,
+      "tma_minutos": 172,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Cintia Almeida",
@@ -109,10 +109,10 @@
   ],
   "melhores_atendimentos_recentes": [
     "Laila assumiu a responsabilidade pelo problema principal (automação de entrada de grupo) após escalonamento, coordenou a resolução internamente, identificou a solução (recriação das mensagens de entrada e saída) e forneceu instruções claras e proativas ao cliente sobre como agir caso o problema se repita. Ela também realizou testes para confirmar a resolução e tranquilizar o cliente.",
-    "Danubia demonstrou proatividade ao oferecer um call e a criação de uma campanha teste para a cliente, visando demonstrar o funcionamento da API oficial e facilitar a decisão de compra.",
     "Felipe realizou esforços de diagnóstico, criando um grupo de testes e solicitando acesso aos grupos do cliente para acompanhar as duplicações em tempo real. Taiane comunicou proativamente sobre uma atualização da plataforma que causava problemas de envio.",
     "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
-    "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais."
+    "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais.",
+    "Arthur e Anderson agendaram e realizaram chamadas de vídeo para troubleshooting e para discutir a oportunidade de upsell, demonstrando um esforço consultivo e proatividade na tentativa de resolução e expansão."
   ],
   "elogios_recentes": [
     "A atendente Taiane recebeu um elogio direto ('arrasouuuu') do cliente por resolver um problema de envio de mensagens. O atendente Anderson foi elogiado ('parabéns') por solucionar a questão das desconexões frequentes do número e demonstrou proatividade ao investigar o problema de qualidade de vídeo, solicitando testes e o arquivo original.",
