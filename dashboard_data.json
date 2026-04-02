@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-02T14:45:26.594546-03:00",
+  "gerado_em": "2026-04-02T15:15:27.857509-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 81,
-    "tma_medio_minutos": 361,
+    "total_conversas_hoje": 84,
+    "tma_medio_minutos": 362,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 33
+    "score_medio_geral": 36
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 61,
+      "score": 63,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 16,
+      "tickets_perfeitos_seguidos": 15,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -42,15 +42,27 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 61,
+      "score": 63,
       "tma_minutos": 276,
-      "tickets_atendidos": 16
+      "tickets_atendidos": 15
     },
     {
       "nome": "Felipe Leite",
-      "score": 54,
+      "score": 49,
       "tma_minutos": 46,
-      "tickets_atendidos": 13
+      "tickets_atendidos": 14
+    },
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 46,
+      "tma_minutos": 565,
+      "tickets_atendidos": 5
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 45,
+      "tma_minutos": 227,
+      "tickets_atendidos": 4
     },
     {
       "nome": "Caroline Oliveira",
@@ -65,12 +77,6 @@
       "tickets_atendidos": 46
     },
     {
-      "nome": "DANUBIA DIAS",
-      "score": 42,
-      "tma_minutos": 565,
-      "tickets_atendidos": 5
-    },
-    {
       "nome": "Laila Santana",
       "score": 41,
       "tma_minutos": 223,
@@ -78,21 +84,15 @@
     },
     {
       "nome": "Laís Chaves",
-      "score": 35,
-      "tma_minutos": 177,
-      "tickets_atendidos": 36
+      "score": 34,
+      "tma_minutos": 167,
+      "tickets_atendidos": 35
     },
     {
       "nome": "Taiane Santos",
       "score": 30,
       "tma_minutos": 229,
       "tickets_atendidos": 66
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 10,
-      "tma_minutos": 203,
-      "tickets_atendidos": 3
     },
     {
       "nome": "Eduardo Esparrinha",
