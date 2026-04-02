@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T19:15:37.769433-03:00",
+  "gerado_em": "2026-04-02T19:45:38.920643-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 97,
-    "tma_medio_minutos": 341,
+    "total_conversas_hoje": 99,
+    "tma_medio_minutos": 312,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 34
+    "score_medio_geral": 36
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -13,8 +13,8 @@
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 15,
+      "atendente": "Carlos Eduardo",
+      "tickets_perfeitos_seguidos": 1,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -33,8 +33,8 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (46 min)."
+        "ganhador": "Carlos Eduardo",
+        "motivo": "Menor tempo médio de resolução real (2 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
@@ -53,6 +53,12 @@
       "tickets_atendidos": 11
     },
     {
+      "nome": "Carlos Eduardo",
+      "score": 50,
+      "tma_minutos": 2,
+      "tickets_atendidos": 1
+    },
+    {
       "nome": "Angela De Sousa",
       "score": 42,
       "tma_minutos": 152,
@@ -67,8 +73,8 @@
     {
       "nome": "Laila Santana",
       "score": 38,
-      "tma_minutos": 246,
-      "tickets_atendidos": 47
+      "tma_minutos": 231,
+      "tickets_atendidos": 48
     },
     {
       "nome": "DANUBIA DIAS",
@@ -78,9 +84,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 31,
+      "score": 33,
       "tma_minutos": 221,
-      "tickets_atendidos": 64
+      "tickets_atendidos": 61
     },
     {
       "nome": "Eduardo Esparrinha",
