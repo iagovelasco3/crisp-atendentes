@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-01T21:14:42.005408-03:00",
+  "gerado_em": "2026-04-01T21:44:43.084873-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 74,
-    "tma_medio_minutos": 376,
+    "total_conversas_hoje": 73,
+    "tma_medio_minutos": 378,
     "frt_medio_minutos": 0,
     "score_medio_geral": 32
   },
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 40,
-      "tma_minutos": 203,
-      "tickets_atendidos": 49
+      "score": 41,
+      "tma_minutos": 223,
+      "tickets_atendidos": 47
     },
     {
       "nome": "Laís Chaves",
