@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T13:15:20.933894-03:00",
+  "gerado_em": "2026-04-02T13:45:24.096257-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 78,
-    "tma_medio_minutos": 331,
+    "total_conversas_hoje": 80,
+    "tma_medio_minutos": 333,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 30
+    "score_medio_geral": 32
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (57 min)."
+        "motivo": "Menor tempo médio de resolução real (62 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
@@ -48,9 +48,15 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 43,
-      "tma_minutos": 57,
-      "tickets_atendidos": 16
+      "score": 56,
+      "tma_minutos": 62,
+      "tickets_atendidos": 17
+    },
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 48,
+      "tma_minutos": 448,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Caroline Oliveira",
@@ -67,26 +73,20 @@
     {
       "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 144,
-      "tickets_atendidos": 47
-    },
-    {
-      "nome": "DANUBIA DIAS",
-      "score": 35,
-      "tma_minutos": 448,
-      "tickets_atendidos": 6
+      "tma_minutos": 152,
+      "tickets_atendidos": 46
     },
     {
       "nome": "Laís Chaves",
-      "score": 34,
-      "tma_minutos": 175,
-      "tickets_atendidos": 35
+      "score": 33,
+      "tma_minutos": 170,
+      "tickets_atendidos": 36
     },
     {
       "nome": "Taiane Santos",
-      "score": 31,
-      "tma_minutos": 222,
-      "tickets_atendidos": 67
+      "score": 30,
+      "tma_minutos": 229,
+      "tickets_atendidos": 66
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -115,7 +115,6 @@
     "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais."
   ],
   "elogios_recentes": [
-    "Anderson proativamente agendou uma call para demonstração da ferramenta e forneceu links diretos para artigos de ajuda relevantes sobre disparo em massa, recebendo elogios explícitos do cliente.",
     "A atendente Taiane recebeu um elogio direto ('arrasouuuu') do cliente por resolver um problema de envio de mensagens. O atendente Anderson foi elogiado ('parabéns') por solucionar a questão das desconexões frequentes do número e demonstrou proatividade ao investigar o problema de qualidade de vídeo, solicitando testes e o arquivo original.",
     "Anderson demonstrou proatividade ao solicitar prints e guiar o cliente para ajustar o limite de cliques, resolvendo o problema do link quebrado e recebendo elogio do cliente.",
     "Laila comunicou proativamente a causa do problema (atualização da plataforma), manteve o cliente informado sobre a resolução e forneceu uma instrução clara para restabelecer o serviço, resultando em um elogio explícito do cliente.",
