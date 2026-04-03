@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-03T11:46:20.095586-03:00",
+  "gerado_em": "2026-04-03T12:20:06.899101-03:00",
   "visao_geral": {
     "total_conversas_hoje": 20,
     "tma_medio_minutos": 373,
@@ -14,7 +14,7 @@
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 14,
+      "tickets_perfeitos_seguidos": 13,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -44,7 +44,7 @@
       "nome": "Anderson Alves",
       "score": 61,
       "tma_minutos": 276,
-      "tickets_atendidos": 14
+      "tickets_atendidos": 13
     },
     {
       "nome": "Felipe Leite",
@@ -80,13 +80,13 @@
       "nome": "Laila Santana",
       "score": 38,
       "tma_minutos": 227,
-      "tickets_atendidos": 47
+      "tickets_atendidos": 48
     },
     {
       "nome": "Taiane Santos",
       "score": 37,
       "tma_minutos": 246,
-      "tickets_atendidos": 65
+      "tickets_atendidos": 64
     },
     {
       "nome": "Laís Chaves",
