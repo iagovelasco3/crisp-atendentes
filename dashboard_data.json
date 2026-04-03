@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-03T13:29:38.551528-03:00",
+  "gerado_em": "2026-04-03T13:50:10.665379-03:00",
   "visao_geral": {
     "total_conversas_hoje": 23,
     "tma_medio_minutos": 372,
@@ -59,12 +59,6 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Laila Santana",
-      "score": 42,
-      "tma_minutos": 214,
-      "tickets_atendidos": 49
-    },
-    {
       "nome": "Angela De Sousa",
       "score": 42,
       "tma_minutos": 147,
@@ -75,6 +69,12 @@
       "score": 42,
       "tma_minutos": 636,
       "tickets_atendidos": 6
+    },
+    {
+      "nome": "Laila Santana",
+      "score": 41,
+      "tma_minutos": 214,
+      "tickets_atendidos": 49
     },
     {
       "nome": "DANUBIA DIAS",
@@ -121,10 +121,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (118 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Bug' gerou 67 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 190 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 186 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (46 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Monitorar o volume de pico para antecipar necessidades da equipe.",
+    "Analisar categorias com explosão de volume para identificar causas raízes.",
+    "Oferecer suporte individualizado para atendentes com queda de qualidade.",
+    "Garantir atenção prioritária para clientes estratégicos em risco.",
+    "Otimizar a base de conhecimento com as sugestões de automação da IA."
   ]
 }
