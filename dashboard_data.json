@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-03T15:20:14.187410-03:00",
+  "gerado_em": "2026-04-03T15:50:15.287458-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 24,
-    "tma_medio_minutos": 284,
+    "total_conversas_hoje": 26,
+    "tma_medio_minutos": 294,
     "frt_medio_minutos": 0,
     "score_medio_geral": 38
   },
@@ -60,27 +60,27 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 42,
-      "tma_minutos": 205,
+      "score": 43,
+      "tma_minutos": 214,
       "tickets_atendidos": 50
+    },
+    {
+      "nome": "Eduardo Esparrinha",
+      "score": 43,
+      "tma_minutos": 450,
+      "tickets_atendidos": 4
     },
     {
       "nome": "Angela De Sousa",
       "score": 42,
-      "tma_minutos": 147,
-      "tickets_atendidos": 43
+      "tma_minutos": 150,
+      "tickets_atendidos": 42
     },
     {
       "nome": "Taiane Santos",
-      "score": 37,
-      "tma_minutos": 237,
-      "tickets_atendidos": 66
-    },
-    {
-      "nome": "Eduardo Esparrinha",
       "score": 36,
-      "tma_minutos": 356,
-      "tickets_atendidos": 4
+      "tma_minutos": 227,
+      "tickets_atendidos": 67
     },
     {
       "nome": "Caroline Oliveira",
