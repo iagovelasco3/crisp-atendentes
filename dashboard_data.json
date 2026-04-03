@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-02T21:15:42.708670-03:00",
+  "gerado_em": "2026-04-02T21:45:43.753786-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 98,
-    "tma_medio_minutos": 321,
+    "total_conversas_hoje": 94,
+    "tma_medio_minutos": 332,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 31
+    "score_medio_geral": 32
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -33,8 +33,8 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Carlos Eduardo",
-        "motivo": "Menor tempo médio de resolução real (2 min)."
+        "ganhador": "Felipe Leite",
+        "motivo": "Menor tempo médio de resolução real (46 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
@@ -59,16 +59,16 @@
       "tickets_atendidos": 44
     },
     {
-      "nome": "Laila Santana",
-      "score": 40,
-      "tma_minutos": 235,
-      "tickets_atendidos": 46
-    },
-    {
       "nome": "Caroline Oliveira",
-      "score": 39,
+      "score": 42,
       "tma_minutos": 636,
       "tickets_atendidos": 6
+    },
+    {
+      "nome": "Laila Santana",
+      "score": 40,
+      "tma_minutos": 236,
+      "tickets_atendidos": 46
     },
     {
       "nome": "Taiane Santos",
@@ -109,7 +109,7 @@
     {
       "nome": "Carlos Eduardo",
       "score": 0,
-      "tma_minutos": 2,
+      "tma_minutos": 125,
       "tickets_atendidos": 1
     }
   ],
