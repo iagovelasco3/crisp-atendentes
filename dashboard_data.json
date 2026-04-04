@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-03T20:20:26.696174-03:00",
+  "gerado_em": "2026-04-04T13:15:53.418815-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 28,
-    "tma_medio_minutos": 292,
+    "total_conversas_hoje": 18,
+    "tma_medio_minutos": 169,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 39
+    "score_medio_geral": 43
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Anderson Alves 👑",
-      "score": 69,
+      "nome": "DANUBIA DIAS 👑",
+      "score": 80,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "DANUBIA DIAS",
-      "tickets_perfeitos_seguidos": 3,
+      "tickets_perfeitos_seguidos": 1,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -37,9 +37,15 @@
         "motivo": "Menor tempo médio de resolução real (46 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção DANUBIA DIAS: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 80,
+      "tma_minutos": 0,
+      "tickets_atendidos": 1
+    },
     {
       "nome": "Anderson Alves",
       "score": 69,
@@ -53,10 +59,16 @@
       "tickets_atendidos": 10
     },
     {
-      "nome": "DANUBIA DIAS",
-      "score": 46,
-      "tma_minutos": 1188,
-      "tickets_atendidos": 3
+      "nome": "Laila Santana",
+      "score": 43,
+      "tma_minutos": 196,
+      "tickets_atendidos": 47
+    },
+    {
+      "nome": "Angela De Sousa",
+      "score": 43,
+      "tma_minutos": 150,
+      "tickets_atendidos": 38
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -65,16 +77,10 @@
       "tickets_atendidos": 4
     },
     {
-      "nome": "Laila Santana",
-      "score": 42,
-      "tma_minutos": 218,
-      "tickets_atendidos": 48
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 41,
-      "tma_minutos": 150,
-      "tickets_atendidos": 40
+      "nome": "Taiane Santos",
+      "score": 35,
+      "tma_minutos": 182,
+      "tickets_atendidos": 61
     },
     {
       "nome": "Caroline Oliveira",
@@ -83,16 +89,10 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Taiane Santos",
-      "score": 34,
-      "tma_minutos": 208,
-      "tickets_atendidos": 54
-    },
-    {
       "nome": "Laís Chaves",
-      "score": 29,
+      "score": 31,
       "tma_minutos": 185,
-      "tickets_atendidos": 27
+      "tickets_atendidos": 26
     },
     {
       "nome": "Carlos Eduardo",
@@ -115,10 +115,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Monitorar o volume de pico para antecipar necessidades da equipe.",
-    "Analisar categorias com explosão de volume para identificar causas raízes.",
-    "Oferecer suporte individualizado para atendentes com queda de qualidade.",
-    "Garantir atenção prioritária para clientes estratégicos em risco.",
-    "Otimizar a base de conhecimento com as sugestões de automação da IA."
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (103 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Bug' gerou 68 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 170 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 169 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (46 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
