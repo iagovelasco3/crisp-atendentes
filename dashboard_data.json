@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-04T14:46:00.931781-03:00",
+  "gerado_em": "2026-04-04T15:16:02.298484-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 20,
-    "tma_medio_minutos": 168,
+    "total_conversas_hoje": 21,
+    "tma_medio_minutos": 169,
     "frt_medio_minutos": 0,
     "score_medio_geral": 43
   },
@@ -79,7 +79,7 @@
     {
       "nome": "Taiane Santos",
       "score": 40,
-      "tma_minutos": 176,
+      "tma_minutos": 184,
       "tickets_atendidos": 61
     },
     {
