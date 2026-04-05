@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-05T13:16:51.298287-03:00",
+  "gerado_em": "2026-04-05T13:46:52.533143-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 9,
-    "tma_medio_minutos": 162,
+    "total_conversas_hoje": 10,
+    "tma_medio_minutos": 166,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 36
+    "score_medio_geral": 37
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -53,6 +53,12 @@
       "tickets_atendidos": 10
     },
     {
+      "nome": "Angela De Sousa",
+      "score": 43,
+      "tma_minutos": 156,
+      "tickets_atendidos": 37
+    },
+    {
       "nome": "Eduardo Esparrinha",
       "score": 43,
       "tma_minutos": 450,
@@ -60,15 +66,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 42,
-      "tma_minutos": 196,
-      "tickets_atendidos": 46
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 42,
-      "tma_minutos": 156,
-      "tickets_atendidos": 38
+      "score": 40,
+      "tma_minutos": 150,
+      "tickets_atendidos": 45
     },
     {
       "nome": "Taiane Santos",
@@ -77,16 +77,16 @@
       "tickets_atendidos": 62
     },
     {
+      "nome": "Caroline Oliveira",
+      "score": 35,
+      "tma_minutos": 96,
+      "tickets_atendidos": 6
+    },
+    {
       "nome": "Laís Chaves",
       "score": 31,
       "tma_minutos": 185,
       "tickets_atendidos": 26
-    },
-    {
-      "nome": "Caroline Oliveira",
-      "score": 26,
-      "tma_minutos": 0,
-      "tickets_atendidos": 3
     },
     {
       "nome": "DANUBIA DIAS",
@@ -115,7 +115,7 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (101 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (102 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 67 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 171 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 168 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
