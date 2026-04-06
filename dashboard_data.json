@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-06T11:17:48.045939-03:00",
+  "gerado_em": "2026-04-06T11:47:49.307339-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 46,
-    "tma_medio_minutos": 176,
+    "total_conversas_hoje": 55,
+    "tma_medio_minutos": 210,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 41
+    "score_medio_geral": 43
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -33,8 +33,8 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Arthur Fuentes",
-        "motivo": "Menor tempo médio de resolução real (27 min)."
+        "ganhador": "DANUBIA DIAS",
+        "motivo": "Menor tempo médio de resolução real (28 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Eduardo Esparrinha: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
@@ -48,15 +48,15 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 66,
+      "score": 68,
       "tma_minutos": 276,
-      "tickets_atendidos": 11
+      "tickets_atendidos": 10
     },
     {
       "nome": "Felipe Leite",
-      "score": 53,
+      "score": 52,
       "tma_minutos": 46,
-      "tickets_atendidos": 10
+      "tickets_atendidos": 14
     },
     {
       "nome": "DANUBIA DIAS",
@@ -66,15 +66,21 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 44,
-      "tma_minutos": 166,
-      "tickets_atendidos": 45
+      "score": 43,
+      "tma_minutos": 162,
+      "tickets_atendidos": 44
     },
     {
       "nome": "Laila Santana",
       "score": 40,
       "tma_minutos": 141,
       "tickets_atendidos": 44
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 40,
+      "tma_minutos": 431,
+      "tickets_atendidos": 10
     },
     {
       "nome": "Caroline Oliveira",
@@ -91,14 +97,8 @@
     {
       "nome": "Laís Chaves",
       "score": 34,
-      "tma_minutos": 247,
-      "tickets_atendidos": 31
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 20,
-      "tma_minutos": 27,
-      "tickets_atendidos": 12
+      "tma_minutos": 227,
+      "tickets_atendidos": 33
     },
     {
       "nome": "Carlos Eduardo",
@@ -121,10 +121,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (104 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (103 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 61 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 169 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 164 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (27 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 168 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 163 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) DANUBIA DIAS (28 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
