@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-06T08:17:41.018025-03:00",
+  "gerado_em": "2026-04-06T08:47:42.153573-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 7,
+    "total_conversas_hoje": 9,
     "tma_medio_minutos": 166,
     "frt_medio_minutos": 0,
     "score_medio_geral": 38
@@ -115,10 +115,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (107 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (108 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 64 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 175 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 171 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 176 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 172 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (46 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
