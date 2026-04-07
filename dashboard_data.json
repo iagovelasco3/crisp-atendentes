@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-07T20:14:24.011934-03:00",
+  "gerado_em": "2026-04-07T20:44:14.521978-03:00",
   "visao_geral": {
     "total_conversas_hoje": 89,
     "tma_medio_minutos": 232,
@@ -53,6 +53,12 @@
       "tickets_atendidos": 8
     },
     {
+      "nome": "Taiane Santos",
+      "score": 58,
+      "tma_minutos": 156,
+      "tickets_atendidos": 46
+    },
+    {
       "nome": "Felipe Leite",
       "score": 57,
       "tma_minutos": 86,
@@ -63,12 +69,6 @@
       "score": 56,
       "tma_minutos": 202,
       "tickets_atendidos": 52
-    },
-    {
-      "nome": "Taiane Santos",
-      "score": 53,
-      "tma_minutos": 152,
-      "tickets_atendidos": 44
     },
     {
       "nome": "DANUBIA DIAS",
@@ -85,14 +85,14 @@
     {
       "nome": "Laila Santana",
       "score": 45,
-      "tma_minutos": 97,
-      "tickets_atendidos": 26
+      "tma_minutos": 99,
+      "tickets_atendidos": 25
     },
     {
       "nome": "Laís Chaves",
-      "score": 36,
+      "score": 32,
       "tma_minutos": 192,
-      "tickets_atendidos": 32
+      "tickets_atendidos": 31
     },
     {
       "nome": "Arthur Fuentes",
@@ -119,10 +119,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (68 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Cobranca' gerou 30 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 102 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 92 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 100 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 90 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (86 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
