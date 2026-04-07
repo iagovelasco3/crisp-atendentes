@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-07T19:44:28.113859-03:00",
+  "gerado_em": "2026-04-07T20:14:24.011934-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 88,
+    "total_conversas_hoje": 89,
     "tma_medio_minutos": 232,
     "frt_medio_minutos": 0,
     "score_medio_geral": 46
@@ -66,8 +66,8 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 54,
-      "tma_minutos": 160,
+      "score": 53,
+      "tma_minutos": 152,
       "tickets_atendidos": 44
     },
     {
@@ -86,7 +86,7 @@
       "nome": "Laila Santana",
       "score": 45,
       "tma_minutos": 97,
-      "tickets_atendidos": 25
+      "tickets_atendidos": 26
     },
     {
       "nome": "Laís Chaves",
@@ -110,9 +110,9 @@
   "melhores_atendimentos_recentes": [
     "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
     "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais.",
-    "Arthur forneceu a solução exata para o problema de envio de fotos sem texto, instruindo o cliente a marcar a opção 'Anexo com legenda'. Felipe demonstrou paciência ao explicar a lógica de agendamento de mensagens, mesmo com a confusão inicial do cliente ('apanhando aqui').",
     "Taiane realizou a triagem correta para o setor responsável. Laila demonstrou empatia e clareza ao explicar que o problema era geral do WhatsApp e não da plataforma, e forneceu uma solução prática (URL temporária).",
-    "A atendente Taiane realizou uma intervenção direta para limpar a fila de campanhas do cliente, fazendo com que a campanha sumisse temporariamente da conta para resolver o problema de envios incorretos."
+    "A atendente Taiane realizou uma intervenção direta para limpar a fila de campanhas do cliente, fazendo com que a campanha sumisse temporariamente da conta para resolver o problema de envios incorretos.",
+    "Anderson demonstrou proatividade ao verificar o problema de desconexão, solicitar monitoramento da campanha e, posteriormente, ao pedir o arquivo original do vídeo para a equipe de desenvolvimento. A equipe de suporte (Anderson, Arthur, Caroline) demonstrou persistência e comunicação constante com o cliente e a equipe técnica para diagnosticar e resolver ambos os problemas críticos."
   ],
   "elogios_recentes": [
     "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo.",
