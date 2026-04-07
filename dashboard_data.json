@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-07T18:54:06.568418-03:00",
+  "gerado_em": "2026-04-07T19:44:28.113859-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 87,
-    "tma_medio_minutos": 233,
+    "total_conversas_hoje": 88,
+    "tma_medio_minutos": 232,
     "frt_medio_minutos": 0,
     "score_medio_geral": 46
   },
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 55,
+      "score": 54,
       "tma_minutos": 160,
-      "tickets_atendidos": 46
+      "tickets_atendidos": 44
     },
     {
       "nome": "DANUBIA DIAS",
@@ -85,8 +85,8 @@
     {
       "nome": "Laila Santana",
       "score": 45,
-      "tma_minutos": 105,
-      "tickets_atendidos": 24
+      "tma_minutos": 97,
+      "tickets_atendidos": 25
     },
     {
       "nome": "Laís Chaves",
@@ -108,11 +108,11 @@
     }
   ],
   "melhores_atendimentos_recentes": [
-    "Laila assumiu a responsabilidade pelo problema principal (automação de entrada de grupo) após escalonamento, coordenou a resolução internamente, identificou a solução (recriação das mensagens de entrada e saída) e forneceu instruções claras e proativas ao cliente sobre como agir caso o problema se repita. Ela também realizou testes para confirmar a resolução e tranquilizar o cliente.",
     "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
     "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais.",
     "Arthur forneceu a solução exata para o problema de envio de fotos sem texto, instruindo o cliente a marcar a opção 'Anexo com legenda'. Felipe demonstrou paciência ao explicar a lógica de agendamento de mensagens, mesmo com a confusão inicial do cliente ('apanhando aqui').",
-    "Taiane realizou a triagem correta para o setor responsável. Laila demonstrou empatia e clareza ao explicar que o problema era geral do WhatsApp e não da plataforma, e forneceu uma solução prática (URL temporária)."
+    "Taiane realizou a triagem correta para o setor responsável. Laila demonstrou empatia e clareza ao explicar que o problema era geral do WhatsApp e não da plataforma, e forneceu uma solução prática (URL temporária).",
+    "A atendente Taiane realizou uma intervenção direta para limpar a fila de campanhas do cliente, fazendo com que a campanha sumisse temporariamente da conta para resolver o problema de envios incorretos."
   ],
   "elogios_recentes": [
     "Gabriel demonstrou empatia, diagnosticou uma instabilidade sistêmica na plataforma e forneceu uma solução simples e eficaz (desconectar/reconectar WhatsApp) que resolveu o problema do cliente, culminando em um elogio direto e um fechamento consultivo.",
@@ -121,8 +121,8 @@
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Cobranca' gerou 30 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 103 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 93 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 102 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 92 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (86 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
