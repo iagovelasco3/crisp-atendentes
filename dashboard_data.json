@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-08T15:21:02.719635-03:00",
+  "gerado_em": "2026-04-08T15:49:51.449510-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 44,
-    "tma_medio_minutos": 214,
+    "total_conversas_hoje": 49,
+    "tma_medio_minutos": 212,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 41
+    "score_medio_geral": 42
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -33,11 +33,11 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Caroline Oliveira",
-        "motivo": "Menor tempo médio de resolução real (96 min)."
+        "ganhador": "Laila Santana",
+        "motivo": "Menor tempo médio de resolução real (91 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Taiane Santos está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,16 +47,22 @@
       "tickets_atendidos": 5
     },
     {
+      "nome": "Felipe Leite",
+      "score": 64,
+      "tma_minutos": 105,
+      "tickets_atendidos": 11
+    },
+    {
       "nome": "Taiane Santos",
       "score": 60,
       "tma_minutos": 153,
       "tickets_atendidos": 42
     },
     {
-      "nome": "Felipe Leite",
-      "score": 53,
-      "tma_minutos": 105,
-      "tickets_atendidos": 14
+      "nome": "Laila Santana",
+      "score": 52,
+      "tma_minutos": 91,
+      "tickets_atendidos": 24
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -65,28 +71,22 @@
       "tickets_atendidos": 4
     },
     {
-      "nome": "Laila Santana",
-      "score": 51,
-      "tma_minutos": 99,
-      "tickets_atendidos": 23
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 47,
-      "tma_minutos": 207,
-      "tickets_atendidos": 55
-    },
-    {
       "nome": "Caroline Oliveira",
       "score": 46,
       "tma_minutos": 96,
       "tickets_atendidos": 4
     },
     {
+      "nome": "Angela De Sousa",
+      "score": 45,
+      "tma_minutos": 199,
+      "tickets_atendidos": 58
+    },
+    {
       "nome": "Laís Chaves",
       "score": 38,
       "tma_minutos": 139,
-      "tickets_atendidos": 37
+      "tickets_atendidos": 38
     },
     {
       "nome": "DANUBIA DIAS",
@@ -111,17 +111,17 @@
     "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Taiane realizou a triagem correta para o setor responsável. Laila demonstrou empatia e clareza ao explicar que o problema era geral do WhatsApp e não da plataforma, e forneceu uma solução prática (URL temporária).",
-    "Arthur demonstrou paciência e proatividade ao lidar com múltiplos problemas complexos e um cliente altamente frustrado. Ele escalou os problemas para a equipe técnica e realizou a limpeza da fila do funil para evitar o bloqueio do número do cliente, uma preocupação crítica.",
+    "Arthur realizou a limpeza da fila de disparos do funil para evitar reenvios e bloqueio do número do cliente, e acompanhou a resolução interna da equipe de desenvolvimento.",
     "Anderson demonstrou proatividade ao verificar o problema de desconexão, solicitar monitoramento da campanha e, posteriormente, ao pedir o arquivo original do vídeo para a equipe de desenvolvimento. A equipe de suporte (Anderson, Arthur, Caroline) demonstrou persistência e comunicação constante com o cliente e a equipe técnica para diagnosticar e resolver ambos os problemas críticos."
   ],
   "elogios_recentes": [
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (99 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (98 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Cobranca' gerou 42 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 160 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 140 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 159 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 137 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (91 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
