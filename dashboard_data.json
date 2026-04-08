@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-08T12:21:36.835955-03:00",
+  "gerado_em": "2026-04-08T12:49:54.886616-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 32,
-    "tma_medio_minutos": 206,
+    "total_conversas_hoje": 34,
+    "tma_medio_minutos": 212,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 41
+    "score_medio_geral": 40
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -53,12 +53,6 @@
       "tickets_atendidos": 43
     },
     {
-      "nome": "Felipe Leite",
-      "score": 53,
-      "tma_minutos": 72,
-      "tickets_atendidos": 16
-    },
-    {
       "nome": "Eduardo Esparrinha",
       "score": 52,
       "tma_minutos": 724,
@@ -71,10 +65,16 @@
       "tickets_atendidos": 23
     },
     {
-      "nome": "Angela De Sousa",
+      "nome": "Felipe Leite",
       "score": 49,
-      "tma_minutos": 189,
-      "tickets_atendidos": 55
+      "tma_minutos": 72,
+      "tickets_atendidos": 18
+    },
+    {
+      "nome": "Angela De Sousa",
+      "score": 48,
+      "tma_minutos": 202,
+      "tickets_atendidos": 53
     },
     {
       "nome": "Caroline Oliveira",
@@ -85,7 +85,7 @@
     {
       "nome": "Laís Chaves",
       "score": 40,
-      "tma_minutos": 184,
+      "tma_minutos": 174,
       "tickets_atendidos": 34
     },
     {
@@ -96,9 +96,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 0,
-      "tma_minutos": 132,
-      "tickets_atendidos": 9
+      "score": 1,
+      "tma_minutos": 189,
+      "tickets_atendidos": 5
     },
     {
       "nome": "Carlos Eduardo",
@@ -119,9 +119,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (101 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Cobranca' gerou 46 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 163 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 143 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Cobranca' gerou 43 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 161 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 142 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (72 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
