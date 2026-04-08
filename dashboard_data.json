@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-07T22:14:03.098211-03:00",
+  "gerado_em": "2026-04-07T22:50:42.768753-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 87,
+    "total_conversas_hoje": 86,
     "tma_medio_minutos": 232,
     "frt_medio_minutos": 0,
     "score_medio_geral": 46
@@ -72,7 +72,7 @@
     },
     {
       "nome": "DANUBIA DIAS",
-      "score": 50,
+      "score": 48,
       "tma_minutos": 319,
       "tickets_atendidos": 4
     },
@@ -86,7 +86,7 @@
       "nome": "Laila Santana",
       "score": 45,
       "tma_minutos": 99,
-      "tickets_atendidos": 25
+      "tickets_atendidos": 24
     },
     {
       "nome": "Laís Chaves",
@@ -109,7 +109,7 @@
   ],
   "melhores_atendimentos_recentes": [
     "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
-    "A equipe (Felipe, Anderson, Angela, Laís) demonstrou excelente colaboração e proatividade. Felipe guiou o cliente na recuperação da campanha e diagnóstico de UX. Anderson explicou funcionalidades complexas e facilitou o upgrade. Angela corrigiu prontamente os bugs de associação de campanha e números adicionais.",
+    "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Taiane realizou a triagem correta para o setor responsável. Laila demonstrou empatia e clareza ao explicar que o problema era geral do WhatsApp e não da plataforma, e forneceu uma solução prática (URL temporária).",
     "A atendente Taiane realizou uma intervenção direta para limpar a fila de campanhas do cliente, fazendo com que a campanha sumisse temporariamente da conta para resolver o problema de envios incorretos.",
     "Anderson demonstrou proatividade ao verificar o problema de desconexão, solicitar monitoramento da campanha e, posteriormente, ao pedir o arquivo original do vídeo para a equipe de desenvolvimento. A equipe de suporte (Anderson, Arthur, Caroline) demonstrou persistência e comunicação constante com o cliente e a equipe técnica para diagnosticar e resolver ambos os problemas críticos."
