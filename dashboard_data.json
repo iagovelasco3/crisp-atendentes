@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-08T05:14:30.579240-03:00",
+  "gerado_em": "2026-04-08T05:45:13.433147-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 7,
+    "total_conversas_hoje": 8,
     "tma_medio_minutos": 232,
     "frt_medio_minutos": 0,
     "score_medio_geral": 44
@@ -120,8 +120,8 @@
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (102 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Cobranca' gerou 41 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 151 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 131 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 152 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 132 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (86 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
