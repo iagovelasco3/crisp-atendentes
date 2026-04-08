@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-07T22:50:42.768753-03:00",
+  "gerado_em": "2026-04-07T23:03:20.070949-03:00",
   "visao_geral": {
     "total_conversas_hoje": 86,
     "tma_medio_minutos": 232,
@@ -111,7 +111,7 @@
     "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Taiane realizou a triagem correta para o setor responsável. Laila demonstrou empatia e clareza ao explicar que o problema era geral do WhatsApp e não da plataforma, e forneceu uma solução prática (URL temporária).",
-    "A atendente Taiane realizou uma intervenção direta para limpar a fila de campanhas do cliente, fazendo com que a campanha sumisse temporariamente da conta para resolver o problema de envios incorretos.",
+    "Arthur demonstrou paciência e proatividade ao lidar com múltiplos problemas complexos e um cliente altamente frustrado. Ele escalou os problemas para a equipe técnica e realizou a limpeza da fila do funil para evitar o bloqueio do número do cliente, uma preocupação crítica.",
     "Anderson demonstrou proatividade ao verificar o problema de desconexão, solicitar monitoramento da campanha e, posteriormente, ao pedir o arquivo original do vídeo para a equipe de desenvolvimento. A equipe de suporte (Anderson, Arthur, Caroline) demonstrou persistência e comunicação constante com o cliente e a equipe técnica para diagnosticar e resolver ambos os problemas críticos."
   ],
   "elogios_recentes": [
@@ -119,7 +119,7 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (67 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (68 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Cobranca' gerou 29 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 98 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 88 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
