@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-09T11:32:09.110365-03:00",
+  "gerado_em": "2026-04-09T12:04:52.495451-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 35,
-    "tma_medio_minutos": 202,
+    "total_conversas_hoje": 40,
+    "tma_medio_minutos": 200,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 43
+    "score_medio_geral": 44
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -48,15 +48,15 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 63,
+      "score": 65,
       "tma_minutos": 155,
-      "tickets_atendidos": 39
+      "tickets_atendidos": 38
     },
     {
       "nome": "Felipe Leite",
       "score": 56,
-      "tma_minutos": 108,
-      "tickets_atendidos": 12
+      "tma_minutos": 75,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 49,
-      "tma_minutos": 140,
-      "tickets_atendidos": 58
+      "score": 50,
+      "tma_minutos": 149,
+      "tickets_atendidos": 60
     },
     {
       "nome": "Laila Santana",
@@ -86,7 +86,7 @@
       "nome": "Laís Chaves",
       "score": 44,
       "tma_minutos": 139,
-      "tickets_atendidos": 35
+      "tickets_atendidos": 33
     },
     {
       "nome": "DANUBIA DIAS",
@@ -108,20 +108,20 @@
     }
   ],
   "melhores_atendimentos_recentes": [
-    "A atendente Angela demonstrou persistência e clareza ao guiar o cliente através do processo complexo de localização de contas, compra de plano e associação de token, garantindo a resolução de questões críticas de cobrança e gestão de campanha.",
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
     "Anderson demonstrou proatividade ao verificar o problema de desconexão, solicitar monitoramento da campanha e, posteriormente, ao pedir o arquivo original do vídeo para a equipe de desenvolvimento. A equipe de suporte (Anderson, Arthur, Caroline) demonstrou persistência e comunicação constante com o cliente e a equipe técnica para diagnosticar e resolver ambos os problemas críticos.",
-    "Laís investigou ativamente o histórico de pagamentos com o auxílio de Angela, identificou que o último pagamento foi rejeitado e forneceu um novo link para adesão, resolvendo a causa raiz do problema. Taiane, em um segundo momento, confirmou a ativação do serviço após o novo pagamento e orientou sobre o uso do DevGrupo."
+    "Laís investigou ativamente o histórico de pagamentos com o auxílio de Angela, identificou que o último pagamento foi rejeitado e forneceu um novo link para adesão, resolvendo a causa raiz do problema. Taiane, em um segundo momento, confirmou a ativação do serviço após o novo pagamento e orientou sobre o uso do DevGrupo.",
+    "Taiane agiu proativamente para resolver a campanha travada, ofereceu e realizou uma call para auxiliar na configuração do novo funil após a compra. Arthur forneceu explicações claras e um link para documentação sobre funis templates."
   ],
   "elogios_recentes": [
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (94 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Vendas' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 153 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 136 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (95 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 150 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 130 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (69 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
