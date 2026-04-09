@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-09T16:56:09.199467-03:00",
+  "gerado_em": "2026-04-09T17:28:29.602112-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 65,
-    "tma_medio_minutos": 201,
+    "total_conversas_hoje": 70,
+    "tma_medio_minutos": 202,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 48
+    "score_medio_geral": 49
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Laila Santana",
-        "motivo": "Menor tempo médio de resolução real (72 min)."
+        "motivo": "Menor tempo médio de resolução real (67 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Sâmia Carvalho: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
@@ -60,15 +60,15 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 59,
-      "tma_minutos": 208,
-      "tickets_atendidos": 44
+      "score": 61,
+      "tma_minutos": 221,
+      "tickets_atendidos": 43
     },
     {
       "nome": "Laila Santana",
-      "score": 54,
-      "tma_minutos": 72,
-      "tickets_atendidos": 21
+      "score": 52,
+      "tma_minutos": 67,
+      "tickets_atendidos": 23
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -79,7 +79,7 @@
     {
       "nome": "Angela De Sousa",
       "score": 49,
-      "tma_minutos": 184,
+      "tma_minutos": 185,
       "tickets_atendidos": 61
     },
     {
@@ -96,15 +96,15 @@
     },
     {
       "nome": "Laís Chaves",
-      "score": 39,
+      "score": 42,
       "tma_minutos": 151,
-      "tickets_atendidos": 28
+      "tickets_atendidos": 27
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 15,
+      "score": 23,
       "tma_minutos": 236,
-      "tickets_atendidos": 4
+      "tickets_atendidos": 6
     },
     {
       "nome": "Carlos Eduardo",
@@ -123,9 +123,9 @@
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (100 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Vendas' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 144 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 131 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (72 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Gestão de Crise: 132 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (67 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
