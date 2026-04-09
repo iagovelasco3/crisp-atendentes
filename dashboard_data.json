@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-09T15:58:28.268153-03:00",
+  "gerado_em": "2026-04-09T16:30:07.294126-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 58,
-    "tma_medio_minutos": 197,
+    "total_conversas_hoje": 63,
+    "tma_medio_minutos": 196,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 47
+    "score_medio_geral": 48
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Laila Santana",
-        "motivo": "Menor tempo médio de resolução real (74 min)."
+        "motivo": "Menor tempo médio de resolução real (66 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Sâmia Carvalho: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
@@ -53,16 +53,16 @@
       "tickets_atendidos": 6
     },
     {
-      "nome": "Taiane Santos",
-      "score": 64,
-      "tma_minutos": 153,
-      "tickets_atendidos": 39
+      "nome": "Felipe Leite",
+      "score": 62,
+      "tma_minutos": 129,
+      "tickets_atendidos": 9
     },
     {
-      "nome": "Felipe Leite",
-      "score": 57,
-      "tma_minutos": 129,
-      "tickets_atendidos": 10
+      "nome": "Taiane Santos",
+      "score": 61,
+      "tma_minutos": 154,
+      "tickets_atendidos": 41
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -72,15 +72,15 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 49,
-      "tma_minutos": 74,
-      "tickets_atendidos": 23
+      "score": 50,
+      "tma_minutos": 66,
+      "tickets_atendidos": 22
     },
     {
       "nome": "Angela De Sousa",
-      "score": 48,
-      "tma_minutos": 188,
-      "tickets_atendidos": 60
+      "score": 49,
+      "tma_minutos": 183,
+      "tickets_atendidos": 62
     },
     {
       "nome": "Caroline Oliveira",
@@ -120,14 +120,12 @@
     "Anderson demonstrou proatividade ao verificar o problema de desconexão, solicitar monitoramento da campanha e, posteriormente, ao pedir o arquivo original do vídeo para a equipe de desenvolvimento. A equipe de suporte (Anderson, Arthur, Caroline) demonstrou persistência e comunicação constante com o cliente e a equipe técnica para diagnosticar e resolver ambos os problemas críticos.",
     "Laís investigou ativamente o histórico de pagamentos com o auxílio de Angela, identificou que o último pagamento foi rejeitado e forneceu um novo link para adesão, resolvendo a causa raiz do problema. Taiane, em um segundo momento, confirmou a ativação do serviço após o novo pagamento e orientou sobre o uso do DevGrupo."
   ],
-  "elogios_recentes": [
-    "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
-  ],
+  "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (100 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Vendas' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (101 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Vendas' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 144 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 131 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (74 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (66 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
