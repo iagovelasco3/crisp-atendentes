@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-09T09:25:02.615807-03:00",
+  "gerado_em": "2026-04-09T09:59:02.919453-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 14,
-    "tma_medio_minutos": 200,
+    "total_conversas_hoje": 17,
+    "tma_medio_minutos": 198,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 43
+    "score_medio_geral": 44
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -37,7 +37,7 @@
         "motivo": "Menor tempo médio de resolução real (65 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Taiane Santos está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,22 +47,22 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Felipe Leite",
-      "score": 60,
-      "tma_minutos": 105,
-      "tickets_atendidos": 10
-    },
-    {
       "nome": "Taiane Santos",
-      "score": 58,
+      "score": 63,
       "tma_minutos": 155,
-      "tickets_atendidos": 41
+      "tickets_atendidos": 39
     },
     {
       "nome": "Eduardo Esparrinha",
       "score": 52,
       "tma_minutos": 724,
       "tickets_atendidos": 4
+    },
+    {
+      "nome": "Felipe Leite",
+      "score": 50,
+      "tma_minutos": 83,
+      "tickets_atendidos": 15
     },
     {
       "nome": "Laila Santana",
@@ -74,7 +74,7 @@
       "nome": "Angela De Sousa",
       "score": 46,
       "tma_minutos": 198,
-      "tickets_atendidos": 58
+      "tickets_atendidos": 56
     },
     {
       "nome": "Caroline Oliveira",
@@ -96,9 +96,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 0,
-      "tma_minutos": 158,
-      "tickets_atendidos": 4
+      "score": 15,
+      "tma_minutos": 159,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Carlos Eduardo",
@@ -118,10 +118,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (96 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Cobranca' gerou 40 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 153 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 137 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (92 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Cobranca' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 149 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 132 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (65 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
