@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-09T20:27:04.175824-03:00",
+  "gerado_em": "2026-04-09T20:55:13.389142-03:00",
   "visao_geral": {
     "total_conversas_hoje": 77,
-    "tma_medio_minutos": 224,
+    "tma_medio_minutos": 225,
     "frt_medio_minutos": 0,
     "score_medio_geral": 48
   },
@@ -60,14 +60,14 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 56,
-      "tma_minutos": 237,
-      "tickets_atendidos": 45
+      "score": 55,
+      "tma_minutos": 243,
+      "tickets_atendidos": 44
     },
     {
       "nome": "Laila Santana",
-      "score": 53,
-      "tma_minutos": 105,
+      "score": 54,
+      "tma_minutos": 108,
       "tickets_atendidos": 25
     },
     {
@@ -122,9 +122,9 @@
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (97 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (96 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 139 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Alerta de Retenção: A IA detectou 138 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 128 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
