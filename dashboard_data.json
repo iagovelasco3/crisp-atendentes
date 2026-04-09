@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-09T10:31:11.867490-03:00",
+  "gerado_em": "2026-04-09T10:59:46.908894-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 25,
-    "tma_medio_minutos": 199,
+    "total_conversas_hoje": 31,
+    "tma_medio_minutos": 195,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 45
+    "score_medio_geral": 46
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -55,8 +55,8 @@
     {
       "nome": "Felipe Leite",
       "score": 58,
-      "tma_minutos": 104,
-      "tickets_atendidos": 12
+      "tma_minutos": 87,
+      "tickets_atendidos": 15
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -65,16 +65,16 @@
       "tickets_atendidos": 4
     },
     {
+      "nome": "Angela De Sousa",
+      "score": 50,
+      "tma_minutos": 153,
+      "tickets_atendidos": 55
+    },
+    {
       "nome": "Laila Santana",
       "score": 49,
       "tma_minutos": 69,
       "tickets_atendidos": 24
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 48,
-      "tma_minutos": 184,
-      "tickets_atendidos": 56
     },
     {
       "nome": "Caroline Oliveira",
@@ -96,9 +96,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 18,
-      "tma_minutos": 159,
-      "tickets_atendidos": 5
+      "score": 28,
+      "tma_minutos": 163,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Carlos Eduardo",
@@ -118,10 +118,10 @@
     "Taiane recebeu um elogio direto do cliente por seu atendimento, apesar das falhas do sistema. Felipe explicou a causa raiz do problema (desconexão do WhatsApp não detectada pela plataforma) e a falta de uma solução permanente no momento, o que demonstra transparência."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (91 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Cobranca' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 152 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 134 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (93 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 151 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 132 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (69 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
