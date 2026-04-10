@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-10T12:27:48.882374-03:00",
+  "gerado_em": "2026-04-10T12:56:47.470181-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 27,
-    "tma_medio_minutos": 305,
+    "total_conversas_hoje": 30,
+    "tma_medio_minutos": 321,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 45
+    "score_medio_geral": 47
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -33,11 +33,11 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Caroline Oliveira",
+        "ganhador": "Sâmia Carvalho",
         "motivo": "Menor tempo médio de resolução real (96 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Taiane Santos está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,34 +47,34 @@
       "tickets_atendidos": 9
     },
     {
+      "nome": "Taiane Santos",
+      "score": 55,
+      "tma_minutos": 219,
+      "tickets_atendidos": 39
+    },
+    {
       "nome": "Felipe Leite",
-      "score": 60,
-      "tma_minutos": 129,
-      "tickets_atendidos": 8
+      "score": 55,
+      "tma_minutos": 98,
+      "tickets_atendidos": 9
+    },
+    {
+      "nome": "Sâmia Carvalho",
+      "score": 55,
+      "tma_minutos": 96,
+      "tickets_atendidos": 4
     },
     {
       "nome": "Laila Santana",
-      "score": 56,
+      "score": 54,
       "tma_minutos": 110,
-      "tickets_atendidos": 21
-    },
-    {
-      "nome": "Taiane Santos",
-      "score": 55,
-      "tma_minutos": 208,
-      "tickets_atendidos": 40
+      "tickets_atendidos": 20
     },
     {
       "nome": "Angela De Sousa",
       "score": 47,
       "tma_minutos": 202,
       "tickets_atendidos": 62
-    },
-    {
-      "nome": "Sâmia Carvalho",
-      "score": 43,
-      "tma_minutos": 128,
-      "tickets_atendidos": 3
     },
     {
       "nome": "Laís Chaves",
@@ -89,6 +89,12 @@
       "tickets_atendidos": 2
     },
     {
+      "nome": "Arthur Fuentes",
+      "score": 37,
+      "tma_minutos": 781,
+      "tickets_atendidos": 7
+    },
+    {
       "nome": "Caroline Oliveira",
       "score": 35,
       "tma_minutos": 96,
@@ -99,12 +105,6 @@
       "score": 24,
       "tma_minutos": 591,
       "tickets_atendidos": 6
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 21,
-      "tma_minutos": 549,
-      "tickets_atendidos": 5
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -116,10 +116,10 @@
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (96 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 142 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 132 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (98 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 36 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 144 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 134 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
