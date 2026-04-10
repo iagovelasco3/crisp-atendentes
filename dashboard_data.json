@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-10T19:52:50.620410-03:00",
+  "gerado_em": "2026-04-10T20:22:35.942996-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 56,
+    "total_conversas_hoje": 57,
     "tma_medio_minutos": 305,
     "frt_medio_minutos": 0,
     "score_medio_geral": 46
@@ -62,7 +62,7 @@
       "nome": "Taiane Santos",
       "score": 53,
       "tma_minutos": 183,
-      "tickets_atendidos": 45
+      "tickets_atendidos": 46
     },
     {
       "nome": "Laila Santana",
