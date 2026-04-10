@@ -1,15 +1,15 @@
 {
-  "gerado_em": "2026-04-10T13:27:15.899127-03:00",
+  "gerado_em": "2026-04-10T13:55:31.637752-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 31,
-    "tma_medio_minutos": 324,
+    "total_conversas_hoje": 32,
+    "tma_medio_minutos": 308,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 45
+    "score_medio_geral": 48
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Anderson Alves 👑",
-      "score": 70,
+      "nome": "Sâmia Carvalho 👑",
+      "score": 95,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
@@ -33,13 +33,19 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Felipe Leite",
-        "motivo": "Menor tempo médio de resolução real (85 min)."
+        "ganhador": "Caroline Oliveira",
+        "motivo": "Menor tempo médio de resolução real (96 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Taiane Santos está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Sâmia Carvalho: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
+    {
+      "nome": "Sâmia Carvalho",
+      "score": 95,
+      "tma_minutos": 160,
+      "tickets_atendidos": 2
+    },
     {
       "nome": "Anderson Alves",
       "score": 70,
@@ -56,25 +62,19 @@
       "nome": "Laila Santana",
       "score": 51,
       "tma_minutos": 118,
-      "tickets_atendidos": 19
+      "tickets_atendidos": 18
     },
     {
-      "nome": "Sâmia Carvalho",
-      "score": 50,
-      "tma_minutos": 122,
-      "tickets_atendidos": 4
+      "nome": "Felipe Leite",
+      "score": 49,
+      "tma_minutos": 113,
+      "tickets_atendidos": 11
     },
     {
       "nome": "Angela De Sousa",
       "score": 47,
-      "tma_minutos": 202,
-      "tickets_atendidos": 62
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 45,
-      "tma_minutos": 85,
-      "tickets_atendidos": 11
+      "tma_minutos": 198,
+      "tickets_atendidos": 63
     },
     {
       "nome": "Laís Chaves",
@@ -95,15 +95,15 @@
       "tickets_atendidos": 3
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 34,
-      "tma_minutos": 783,
-      "tickets_atendidos": 6
-    },
-    {
       "nome": "DANUBIA DIAS",
       "score": 24,
       "tma_minutos": 591,
+      "tickets_atendidos": 6
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 20,
+      "tma_minutos": 549,
       "tickets_atendidos": 6
     }
   ],
@@ -116,10 +116,10 @@
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (96 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 145 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 135 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Felipe Leite (85 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (94 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 146 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 136 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
