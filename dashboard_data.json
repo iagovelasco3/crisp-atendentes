@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-10T11:27:10.403786-03:00",
+  "gerado_em": "2026-04-10T11:57:18.773552-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 21,
+    "total_conversas_hoje": 24,
     "tma_medio_minutos": 274,
     "frt_medio_minutos": 0,
     "score_medio_geral": 50
@@ -13,8 +13,8 @@
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Sâmia Carvalho",
-      "tickets_perfeitos_seguidos": 1,
+      "atendente": "Eduardo Esparrinha",
+      "tickets_perfeitos_seguidos": 2,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -50,7 +50,7 @@
       "nome": "Anderson Alves",
       "score": 77,
       "tma_minutos": 114,
-      "tickets_atendidos": 7
+      "tickets_atendidos": 8
     },
     {
       "nome": "Felipe Leite",
@@ -62,7 +62,7 @@
       "nome": "Taiane Santos",
       "score": 55,
       "tma_minutos": 208,
-      "tickets_atendidos": 41
+      "tickets_atendidos": 40
     },
     {
       "nome": "Laila Santana",
@@ -74,13 +74,19 @@
       "nome": "Angela De Sousa",
       "score": 48,
       "tma_minutos": 202,
-      "tickets_atendidos": 61
+      "tickets_atendidos": 62
     },
     {
       "nome": "Laís Chaves",
       "score": 42,
       "tma_minutos": 151,
       "tickets_atendidos": 27
+    },
+    {
+      "nome": "Eduardo Esparrinha",
+      "score": 40,
+      "tma_minutos": 1078,
+      "tickets_atendidos": 2
     },
     {
       "nome": "DANUBIA DIAS",
@@ -95,16 +101,10 @@
       "tickets_atendidos": 3
     },
     {
-      "nome": "Eduardo Esparrinha",
-      "score": 31,
-      "tma_minutos": 1078,
-      "tickets_atendidos": 3
-    },
-    {
       "nome": "Arthur Fuentes",
-      "score": 25,
+      "score": 12,
       "tma_minutos": 549,
-      "tickets_atendidos": 8
+      "tickets_atendidos": 7
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -117,9 +117,9 @@
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (97 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 36 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 140 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 132 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 141 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 131 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
