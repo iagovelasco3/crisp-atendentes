@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-09T21:53:26.049325-03:00",
+  "gerado_em": "2026-04-09T22:24:59.536594-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 76,
+    "total_conversas_hoje": 75,
     "tma_medio_minutos": 233,
     "frt_medio_minutos": 0,
     "score_medio_geral": 52
@@ -59,16 +59,16 @@
       "tickets_atendidos": 8
     },
     {
+      "nome": "Taiane Santos",
+      "score": 56,
+      "tma_minutos": 232,
+      "tickets_atendidos": 45
+    },
+    {
       "nome": "Laila Santana",
       "score": 55,
       "tma_minutos": 108,
       "tickets_atendidos": 24
-    },
-    {
-      "nome": "Taiane Santos",
-      "score": 54,
-      "tma_minutos": 232,
-      "tickets_atendidos": 46
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -110,7 +110,7 @@
   "melhores_atendimentos_recentes": [
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
-    "O atendente Suporte prometeu acompanhar o caso do bug recorrente no DevGrupos diretamente via WhatsApp e informou que uma correção definitiva seria implementada na mesma semana para evitar futuras interrupções.",
+    "O atendente Suporte, na segunda interação, prometeu acompanhar o cliente diretamente no WhatsApp e informou que uma correção seria implementada na semana, buscando garantir o funcionamento sem interrupções.",
     "Taiane agiu proativamente para resolver a campanha travada, ofereceu e realizou uma call para auxiliar na configuração do novo funil após a compra. Arthur forneceu explicações claras e um link para documentação sobre funis templates.",
     "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos."
   ],
