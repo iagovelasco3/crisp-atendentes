@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-09T22:52:36.935426-03:00",
+  "gerado_em": "2026-04-09T23:22:54.348005-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 75,
+    "total_conversas_hoje": 73,
     "tma_medio_minutos": 246,
     "frt_medio_minutos": 0,
     "score_medio_geral": 50
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 56,
+      "score": 57,
       "tma_minutos": 232,
-      "tickets_atendidos": 45
+      "tickets_atendidos": 44
     },
     {
       "nome": "Laila Santana",
@@ -90,9 +90,9 @@
     },
     {
       "nome": "DANUBIA DIAS",
-      "score": 39,
+      "score": 38,
       "tma_minutos": 133,
-      "tickets_atendidos": 5
+      "tickets_atendidos": 6
     },
     {
       "nome": "Caroline Oliveira",
@@ -110,7 +110,7 @@
   "melhores_atendimentos_recentes": [
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
-    "O atendente Suporte, na segunda interação, prometeu acompanhar o cliente diretamente no WhatsApp e informou que uma correção seria implementada na semana, buscando garantir o funcionamento sem interrupções.",
+    "O atendente Suporte (Felipe/Suporte) demonstrou proatividade ao escalar o problema técnico para a equipe de engenharia, realizar a correção e, principalmente, ao se comprometer a acompanhar o caso diretamente no WhatsApp do cliente e informar sobre uma correção permanente a ser implementada na semana, garantindo que tudo funcione sem interrupções. Gabriel também fez um bom follow-up.",
     "Taiane agiu proativamente para resolver a campanha travada, ofereceu e realizou uma call para auxiliar na configuração do novo funil após a compra. Arthur forneceu explicações claras e um link para documentação sobre funis templates.",
     "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos."
   ],
