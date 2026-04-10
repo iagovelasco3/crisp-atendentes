@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-10T09:23:44.114739-03:00",
+  "gerado_em": "2026-04-10T09:55:59.190660-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 12,
-    "tma_medio_minutos": 270,
+    "total_conversas_hoje": 14,
+    "tma_medio_minutos": 273,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 51
+    "score_medio_geral": 50
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 56,
-      "tma_minutos": 232,
-      "tickets_atendidos": 43
+      "score": 55,
+      "tma_minutos": 208,
+      "tickets_atendidos": 41
     },
     {
       "nome": "Laila Santana",
@@ -73,7 +73,7 @@
     {
       "nome": "Angela De Sousa",
       "score": 49,
-      "tma_minutos": 199,
+      "tma_minutos": 200,
       "tickets_atendidos": 62
     },
     {
@@ -102,24 +102,24 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 21,
-      "tma_minutos": 487,
-      "tickets_atendidos": 7
+      "score": 15,
+      "tma_minutos": 545,
+      "tickets_atendidos": 6
     }
   ],
   "melhores_atendimentos_recentes": [
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
-    "O atendente Gabriel realizou um follow-up proativo, demonstrando acompanhamento do caso e informando sobre a implementação de uma correção pelo time de engenharia: \"Lembro que estávamos acompanhando de perto a questão daquele erro que estava acontecendo, e nosso time de engenharia estava empenhado em implementar uma correção esta semana. Espero que esteja tudo mais tranquilo agora!\"",
     "Taiane agiu proativamente para resolver a campanha travada, ofereceu e realizou uma call para auxiliar na configuração do novo funil após a compra. Arthur forneceu explicações claras e um link para documentação sobre funis templates.",
-    "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos."
+    "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos.",
+    "Gabriel demonstrou alta empatia, reconheceu a frustração do cliente ('dinheiro jogado fora'), identificou o problema como um 'bug conhecido' e garantiu a escalada do caso com 'prioridade máxima' para o time de engenharia, explicando seu papel como assistente da madrugada para acolher o problema imediatamente."
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (95 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 139 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 129 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 138 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 128 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (96 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
