@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-10T08:51:44.495625-03:00",
+  "gerado_em": "2026-04-10T09:23:44.114739-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 10,
-    "tma_medio_minutos": 246,
+    "total_conversas_hoje": 12,
+    "tma_medio_minutos": 270,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 50
+    "score_medio_geral": 51
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 57,
+      "score": 56,
       "tma_minutos": 232,
-      "tickets_atendidos": 44
+      "tickets_atendidos": 43
     },
     {
       "nome": "Laila Santana",
@@ -72,9 +72,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 50,
-      "tma_minutos": 186,
-      "tickets_atendidos": 59
+      "score": 49,
+      "tma_minutos": 199,
+      "tickets_atendidos": 62
     },
     {
       "nome": "Laís Chaves",
@@ -102,21 +102,21 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 15,
-      "tma_minutos": 236,
-      "tickets_atendidos": 4
+      "score": 21,
+      "tma_minutos": 487,
+      "tickets_atendidos": 7
     }
   ],
   "melhores_atendimentos_recentes": [
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
-    "O atendente Suporte (Felipe/Suporte) demonstrou proatividade ao escalar o problema técnico para a equipe de engenharia, realizar a correção e, principalmente, ao se comprometer a acompanhar o caso diretamente no WhatsApp do cliente e informar sobre uma correção permanente a ser implementada na semana, garantindo que tudo funcione sem interrupções. Gabriel também fez um bom follow-up.",
+    "O atendente Gabriel realizou um follow-up proativo, demonstrando acompanhamento do caso e informando sobre a implementação de uma correção pelo time de engenharia: \"Lembro que estávamos acompanhando de perto a questão daquele erro que estava acontecendo, e nosso time de engenharia estava empenhado em implementar uma correção esta semana. Espero que esteja tudo mais tranquilo agora!\"",
     "Taiane agiu proativamente para resolver a campanha travada, ofereceu e realizou uma call para auxiliar na configuração do novo funil após a compra. Arthur forneceu explicações claras e um link para documentação sobre funis templates.",
     "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos."
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (94 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (95 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 139 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 129 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
