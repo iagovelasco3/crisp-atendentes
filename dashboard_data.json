@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-12T18:17:27.036026-03:00",
+  "gerado_em": "2026-04-12T18:46:56.983112-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 31,
+    "total_conversas_hoje": 33,
     "tma_medio_minutos": 300,
     "frt_medio_minutos": 0,
     "score_medio_geral": 50
@@ -116,10 +116,10 @@
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (106 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (107 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 43 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 161 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 152 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 162 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 153 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (42 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
