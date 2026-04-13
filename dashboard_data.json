@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-13T10:29:03.751892-03:00",
+  "gerado_em": "2026-04-13T10:55:37.596422-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 32,
-    "tma_medio_minutos": 299,
+    "total_conversas_hoje": 38,
+    "tma_medio_minutos": 290,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 50
+    "score_medio_geral": 48
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -71,16 +71,16 @@
       "tickets_atendidos": 18
     },
     {
-      "nome": "Felipe Leite",
-      "score": 53,
-      "tma_minutos": 97,
-      "tickets_atendidos": 13
+      "nome": "Angela De Sousa",
+      "score": 45,
+      "tma_minutos": 164,
+      "tickets_atendidos": 75
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 47,
-      "tma_minutos": 159,
-      "tickets_atendidos": 75
+      "nome": "Felipe Leite",
+      "score": 43,
+      "tma_minutos": 272,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Laís Chaves",
@@ -97,8 +97,8 @@
     {
       "nome": "Arthur Fuentes",
       "score": 24,
-      "tma_minutos": 568,
-      "tickets_atendidos": 14
+      "tma_minutos": 287,
+      "tickets_atendidos": 13
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -116,10 +116,10 @@
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (111 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 47 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 172 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 160 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (114 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Bug' gerou 45 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 177 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 163 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (42 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
