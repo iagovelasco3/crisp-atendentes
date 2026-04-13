@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-13T07:45:42.441138-03:00",
+  "gerado_em": "2026-04-13T08:16:52.654231-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 4,
+    "total_conversas_hoje": 7,
     "tma_medio_minutos": 300,
     "frt_medio_minutos": 0,
     "score_medio_geral": 49
@@ -66,7 +66,7 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 57,
+      "score": 56,
       "tma_minutos": 184,
       "tickets_atendidos": 52
     },
@@ -118,8 +118,8 @@
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (109 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 45 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 165 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 158 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 166 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 159 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (42 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
