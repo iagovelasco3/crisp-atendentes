@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-13T20:19:00.338131-03:00",
+  "gerado_em": "2026-04-13T20:50:50.531412-03:00",
   "visao_geral": {
     "total_conversas_hoje": 109,
-    "tma_medio_minutos": 336,
+    "tma_medio_minutos": 337,
     "frt_medio_minutos": 0,
     "score_medio_geral": 48
   },
@@ -61,14 +61,14 @@
     {
       "nome": "Laila Santana",
       "score": 59,
-      "tma_minutos": 101,
+      "tma_minutos": 104,
       "tickets_atendidos": 27
     },
     {
       "nome": "Taiane Santos",
       "score": 50,
-      "tma_minutos": 193,
-      "tickets_atendidos": 51
+      "tma_minutos": 202,
+      "tickets_atendidos": 50
     },
     {
       "nome": "Angela De Sousa",
@@ -118,7 +118,7 @@
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (126 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (125 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 54 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 193 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 178 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
