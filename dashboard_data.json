@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-13T09:54:03.125959-03:00",
+  "gerado_em": "2026-04-13T10:29:03.751892-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 25,
-    "tma_medio_minutos": 311,
+    "total_conversas_hoje": 32,
+    "tma_medio_minutos": 299,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 49
+    "score_medio_geral": 50
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -54,15 +54,15 @@
     },
     {
       "nome": "Caroline Oliveira",
-      "score": 67,
+      "score": 64,
       "tma_minutos": 84,
-      "tickets_atendidos": 11
+      "tickets_atendidos": 10
     },
     {
       "nome": "Taiane Santos",
-      "score": 57,
+      "score": 58,
       "tma_minutos": 184,
-      "tickets_atendidos": 49
+      "tickets_atendidos": 48
     },
     {
       "nome": "Laila Santana",
@@ -71,22 +71,22 @@
       "tickets_atendidos": 18
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 47,
-      "tma_minutos": 177,
-      "tickets_atendidos": 77
+      "nome": "Felipe Leite",
+      "score": 53,
+      "tma_minutos": 97,
+      "tickets_atendidos": 13
     },
     {
-      "nome": "Felipe Leite",
-      "score": 43,
-      "tma_minutos": 233,
-      "tickets_atendidos": 14
+      "nome": "Angela De Sousa",
+      "score": 47,
+      "tma_minutos": 159,
+      "tickets_atendidos": 75
     },
     {
       "nome": "Laís Chaves",
-      "score": 39,
+      "score": 38,
       "tma_minutos": 161,
-      "tickets_atendidos": 25
+      "tickets_atendidos": 24
     },
     {
       "nome": "DANUBIA DIAS",
@@ -96,9 +96,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 22,
-      "tma_minutos": 549,
-      "tickets_atendidos": 6
+      "score": 24,
+      "tma_minutos": 568,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -116,9 +116,9 @@
   ],
   "elogios_recentes": [],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (112 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 46 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 169 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (111 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 47 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 172 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 160 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (42 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
