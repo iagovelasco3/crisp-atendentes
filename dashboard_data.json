@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-14T14:20:24.913290-03:00",
+  "gerado_em": "2026-04-14T14:51:56.643068-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 66,
-    "tma_medio_minutos": 275,
+    "total_conversas_hoje": 70,
+    "tma_medio_minutos": 260,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 52
+    "score_medio_geral": 54
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -14,7 +14,7 @@
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 12,
+      "tickets_perfeitos_seguidos": 11,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 87,
-      "tma_minutos": 95,
-      "tickets_atendidos": 12
+      "score": 85,
+      "tma_minutos": 114,
+      "tickets_atendidos": 11
     },
     {
       "nome": "Laila Santana",
@@ -68,43 +68,43 @@
       "nome": "Taiane Santos",
       "score": 47,
       "tma_minutos": 156,
-      "tickets_atendidos": 45
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 41,
-      "tma_minutos": 170,
-      "tickets_atendidos": 85
+      "tickets_atendidos": 44
     },
     {
       "nome": "Laís Chaves",
-      "score": 38,
+      "score": 44,
       "tma_minutos": 174,
-      "tickets_atendidos": 10
+      "tickets_atendidos": 8
+    },
+    {
+      "nome": "Angela De Sousa",
+      "score": 40,
+      "tma_minutos": 162,
+      "tickets_atendidos": 87
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 35,
+      "tma_minutos": 587,
+      "tickets_atendidos": 13
     },
     {
       "nome": "Felipe Leite",
-      "score": 36,
-      "tma_minutos": 499,
-      "tickets_atendidos": 10
+      "score": 33,
+      "tma_minutos": 339,
+      "tickets_atendidos": 14
     },
     {
       "nome": "DANUBIA DIAS",
       "score": 26,
       "tma_minutos": 727,
       "tickets_atendidos": 3
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 20,
-      "tma_minutos": 582,
-      "tickets_atendidos": 11
     }
   ],
   "melhores_atendimentos_recentes": [
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
-    "Felipe diagnosticou e resolveu rapidamente o problema de permissão de administrador do número da campanha em uma das interações, e demonstrou empatia ao se desculpar pela experiência ruim do cliente.",
+    "No segundo contato, Felipe Leite diagnosticou corretamente que o número conectado à campanha não era administrador da comunidade, o que impedia o envio de mensagens, e orientou o cliente a corrigir, resultando na resolução pontual desse problema. No terceiro contato, ele pediu desculpas pela experiência ruim e prometeu escalar o problema recorrente para o time de desenvolvedores.",
     "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos.",
     "Gabriel demonstrou alta empatia, reconheceu a frustração do cliente ('dinheiro jogado fora'), identificou o problema como um 'bug conhecido' e garantiu a escalada do caso com 'prioridade máxima' para o time de engenharia, explicando seu papel como assistente da madrugada para acolher o problema imediatamente."
   ],
@@ -112,9 +112,9 @@
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (140 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (141 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 61 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 217 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Alerta de Retenção: A IA detectou 219 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 200 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
