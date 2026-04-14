@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-14T17:21:28.301706-03:00",
+  "gerado_em": "2026-04-14T17:51:24.482810-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 83,
-    "tma_medio_minutos": 326,
+    "total_conversas_hoje": 86,
+    "tma_medio_minutos": 346,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 54
+    "score_medio_geral": 53
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -13,8 +13,8 @@
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 12,
+      "atendente": "Sâmia Carvalho",
+      "tickets_perfeitos_seguidos": 2,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -48,21 +48,21 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 83,
-      "tma_minutos": 319,
+      "score": 79,
+      "tma_minutos": 327,
       "tickets_atendidos": 12
+    },
+    {
+      "nome": "Laila Santana",
+      "score": 66,
+      "tma_minutos": 110,
+      "tickets_atendidos": 23
     },
     {
       "nome": "Caroline Oliveira",
       "score": 65,
       "tma_minutos": 84,
       "tickets_atendidos": 8
-    },
-    {
-      "nome": "Laila Santana",
-      "score": 61,
-      "tma_minutos": 107,
-      "tickets_atendidos": 24
     },
     {
       "nome": "Felipe Leite",
@@ -72,27 +72,27 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 45,
-      "tma_minutos": 151,
-      "tickets_atendidos": 46
+      "score": 44,
+      "tma_minutos": 160,
+      "tickets_atendidos": 45
     },
     {
       "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 170,
-      "tickets_atendidos": 85
-    },
-    {
-      "nome": "Laís Chaves",
-      "score": 40,
-      "tma_minutos": 239,
-      "tickets_atendidos": 6
+      "tma_minutos": 171,
+      "tickets_atendidos": 87
     },
     {
       "nome": "Arthur Fuentes",
       "score": 38,
       "tma_minutos": 800,
       "tickets_atendidos": 7
+    },
+    {
+      "nome": "Laís Chaves",
+      "score": 31,
+      "tma_minutos": 427,
+      "tickets_atendidos": 5
     },
     {
       "nome": "DANUBIA DIAS",
@@ -112,10 +112,10 @@
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (143 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 65 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 223 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 199 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (144 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 64 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 225 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 202 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
