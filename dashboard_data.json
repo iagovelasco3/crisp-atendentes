@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-14T16:48:44.625554-03:00",
+  "gerado_em": "2026-04-14T17:21:28.301706-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 78,
-    "tma_medio_minutos": 313,
+    "total_conversas_hoje": 83,
+    "tma_medio_minutos": 326,
     "frt_medio_minutos": 0,
     "score_medio_geral": 54
   },
@@ -14,7 +14,7 @@
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 11,
+      "tickets_perfeitos_seguidos": 12,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 85,
-      "tma_minutos": 114,
-      "tickets_atendidos": 11
+      "score": 83,
+      "tma_minutos": 319,
+      "tickets_atendidos": 12
     },
     {
       "nome": "Caroline Oliveira",
@@ -60,21 +60,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 58,
-      "tma_minutos": 108,
+      "score": 61,
+      "tma_minutos": 107,
       "tickets_atendidos": 24
-    },
-    {
-      "nome": "Taiane Santos",
-      "score": 49,
-      "tma_minutos": 151,
-      "tickets_atendidos": 45
-    },
-    {
-      "nome": "Laís Chaves",
-      "score": 48,
-      "tma_minutos": 239,
-      "tickets_atendidos": 7
     },
     {
       "nome": "Felipe Leite",
@@ -83,16 +71,28 @@
       "tickets_atendidos": 8
     },
     {
+      "nome": "Taiane Santos",
+      "score": 45,
+      "tma_minutos": 151,
+      "tickets_atendidos": 46
+    },
+    {
       "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 168,
-      "tickets_atendidos": 84
+      "tma_minutos": 170,
+      "tickets_atendidos": 85
+    },
+    {
+      "nome": "Laís Chaves",
+      "score": 40,
+      "tma_minutos": 239,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 29,
-      "tma_minutos": 881,
-      "tickets_atendidos": 8
+      "score": 38,
+      "tma_minutos": 800,
+      "tickets_atendidos": 7
     },
     {
       "nome": "DANUBIA DIAS",
@@ -113,9 +113,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (143 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 64 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 221 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 200 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 65 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 223 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 199 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
