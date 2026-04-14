@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-14T07:45:36.091457-03:00",
+  "gerado_em": "2026-04-14T08:18:26.434800-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 10,
+    "total_conversas_hoje": 17,
     "tma_medio_minutos": 336,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 48
+    "score_medio_geral": 49
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -13,8 +13,8 @@
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Sâmia Carvalho",
-      "tickets_perfeitos_seguidos": 2,
+      "atendente": "Anderson Alves",
+      "tickets_perfeitos_seguidos": 11,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -48,7 +48,7 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 81,
+      "score": 87,
       "tma_minutos": 95,
       "tickets_atendidos": 11
     },
@@ -119,9 +119,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (128 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 56 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 59 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 196 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 182 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Gestão de Crise: 181 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
