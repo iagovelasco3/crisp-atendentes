@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-14T20:22:44.573809-03:00",
+  "gerado_em": "2026-04-14T20:47:34.978355-03:00",
   "visao_geral": {
     "total_conversas_hoje": 91,
-    "tma_medio_minutos": 330,
+    "tma_medio_minutos": 331,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 53
+    "score_medio_geral": 54
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -53,16 +53,16 @@
       "tickets_atendidos": 11
     },
     {
+      "nome": "Laila Santana",
+      "score": 65,
+      "tma_minutos": 121,
+      "tickets_atendidos": 24
+    },
+    {
       "nome": "Caroline Oliveira",
       "score": 65,
       "tma_minutos": 84,
       "tickets_atendidos": 8
-    },
-    {
-      "nome": "Laila Santana",
-      "score": 63,
-      "tma_minutos": 121,
-      "tickets_atendidos": 25
     },
     {
       "nome": "Felipe Leite",
@@ -72,9 +72,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 43,
-      "tma_minutos": 195,
-      "tickets_atendidos": 48
+      "score": 44,
+      "tma_minutos": 202,
+      "tickets_atendidos": 47
     },
     {
       "nome": "Angela De Sousa",
@@ -113,7 +113,7 @@
     "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (144 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (145 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 64 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 226 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 204 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
