@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-14T15:54:41.018729-03:00",
+  "gerado_em": "2026-04-14T16:20:18.602864-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 75,
-    "tma_medio_minutos": 296,
+    "total_conversas_hoje": 77,
+    "tma_medio_minutos": 311,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 53
+    "score_medio_geral": 54
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -60,9 +60,15 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 63,
-      "tma_minutos": 91,
-      "tickets_atendidos": 24
+      "score": 58,
+      "tma_minutos": 92,
+      "tickets_atendidos": 26
+    },
+    {
+      "nome": "Taiane Santos",
+      "score": 48,
+      "tma_minutos": 149,
+      "tickets_atendidos": 44
     },
     {
       "nome": "Laís Chaves",
@@ -71,27 +77,21 @@
       "tickets_atendidos": 7
     },
     {
-      "nome": "Taiane Santos",
+      "nome": "Felipe Leite",
       "score": 47,
-      "tma_minutos": 156,
-      "tickets_atendidos": 44
+      "tma_minutos": 499,
+      "tickets_atendidos": 8
     },
     {
       "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 165,
-      "tickets_atendidos": 85
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 33,
-      "tma_minutos": 360,
-      "tickets_atendidos": 12
+      "tma_minutos": 172,
+      "tickets_atendidos": 83
     },
     {
       "nome": "Arthur Fuentes",
       "score": 29,
-      "tma_minutos": 864,
+      "tma_minutos": 872,
       "tickets_atendidos": 8
     },
     {
@@ -104,18 +104,18 @@
   "melhores_atendimentos_recentes": [
     "Anderson identificou proativamente a necessidade de upgrade de plano e números adicionais após o cliente relatar 'atividade incomum', e guiou o cliente na configuração. Felipe realizou um diagnóstico preciso do problema de agendamento. Angela resolveu o bug de expiração dos números adicionais.",
     "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
+    "Felipe identificou corretamente que o número da campanha não era administrador do grupo, resolvendo um dos problemas pontuais. Ele também demonstrou empatia diante da frustração do cliente na última interação.",
     "Angela e Laís forneceram explicações claras sobre renovação de plano, limites de campanha e funcionalidades de edição. Taiane diagnosticou corretamente o problema de contagem de cliques nos grupos.",
-    "Gabriel demonstrou alta empatia, reconheceu a frustração do cliente ('dinheiro jogado fora'), identificou o problema como um 'bug conhecido' e garantiu a escalada do caso com 'prioridade máxima' para o time de engenharia, explicando seu papel como assistente da madrugada para acolher o problema imediatamente.",
-    "Gabriel demonstrou alta empatia e proatividade ao escalar o caso para o time de engenharia com 'mais alta prioridade' logo no primeiro horário, reconhecendo a gravidade e o impacto na confiança do cliente."
+    "Gabriel demonstrou alta empatia, reconheceu a frustração do cliente ('dinheiro jogado fora'), identificou o problema como um 'bug conhecido' e garantiu a escalada do caso com 'prioridade máxima' para o time de engenharia, explicando seu papel como assistente da madrugada para acolher o problema imediatamente."
   ],
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (141 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (143 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 64 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 219 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 198 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 220 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 199 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
