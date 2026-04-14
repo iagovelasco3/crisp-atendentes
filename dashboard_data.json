@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-14T08:18:26.434800-03:00",
+  "gerado_em": "2026-04-14T08:48:06.480124-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 17,
+    "total_conversas_hoje": 21,
     "tma_medio_minutos": 336,
     "frt_medio_minutos": 0,
     "score_medio_geral": 49
@@ -72,9 +72,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 44,
+      "score": 45,
       "tma_minutos": 161,
-      "tickets_atendidos": 84
+      "tickets_atendidos": 85
     },
     {
       "nome": "Felipe Leite",
