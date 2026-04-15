@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-15T15:23:27.006981-03:00",
+  "gerado_em": "2026-04-15T15:52:59.635057-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 70,
-    "tma_medio_minutos": 234,
+    "total_conversas_hoje": 73,
+    "tma_medio_minutos": 246,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 53
+    "score_medio_geral": 56
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -53,16 +53,22 @@
       "tickets_atendidos": 13
     },
     {
-      "nome": "Laila Santana",
-      "score": 65,
-      "tma_minutos": 111,
-      "tickets_atendidos": 23
-    },
-    {
       "nome": "Caroline Oliveira",
       "score": 65,
       "tma_minutos": 84,
       "tickets_atendidos": 8
+    },
+    {
+      "nome": "Laila Santana",
+      "score": 63,
+      "tma_minutos": 103,
+      "tickets_atendidos": 25
+    },
+    {
+      "nome": "Felipe Leite",
+      "score": 55,
+      "tma_minutos": 329,
+      "tickets_atendidos": 10
     },
     {
       "nome": "Taiane Santos",
@@ -71,34 +77,22 @@
       "tickets_atendidos": 44
     },
     {
-      "nome": "Felipe Leite",
-      "score": 49,
-      "tma_minutos": 143,
-      "tickets_atendidos": 18
-    },
-    {
-      "nome": "Laís Chaves",
-      "score": 45,
-      "tma_minutos": 0,
-      "tickets_atendidos": 1
-    },
-    {
       "nome": "Angela De Sousa",
       "score": 40,
-      "tma_minutos": 187,
-      "tickets_atendidos": 92
+      "tma_minutos": 185,
+      "tickets_atendidos": 93
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 35,
+      "tma_minutos": 493,
+      "tickets_atendidos": 12
     },
     {
       "nome": "DANUBIA DIAS",
       "score": 23,
       "tma_minutos": 549,
       "tickets_atendidos": 4
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 19,
-      "tma_minutos": 800,
-      "tickets_atendidos": 7
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -114,9 +108,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (107 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 50 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 171 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 159 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 51 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 173 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 161 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
