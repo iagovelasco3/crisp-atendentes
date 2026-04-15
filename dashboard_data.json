@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-15T17:26:47.457223-03:00",
+  "gerado_em": "2026-04-15T17:55:37.641940-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 85,
-    "tma_medio_minutos": 267,
+    "total_conversas_hoje": 87,
+    "tma_medio_minutos": 269,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 54
+    "score_medio_geral": 56
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 56,
+      "score": 63,
       "tma_minutos": 106,
-      "tickets_atendidos": 33
+      "tickets_atendidos": 32
     },
     {
       "nome": "Felipe Leite",
@@ -79,28 +79,28 @@
     {
       "nome": "Angela De Sousa",
       "score": 41,
-      "tma_minutos": 213,
-      "tickets_atendidos": 96
-    },
-    {
-      "nome": "DANUBIA DIAS",
-      "score": 23,
-      "tma_minutos": 549,
-      "tickets_atendidos": 4
+      "tma_minutos": 217,
+      "tickets_atendidos": 94
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 19,
-      "tma_minutos": 497,
-      "tickets_atendidos": 10
+      "score": 29,
+      "tma_minutos": 516,
+      "tickets_atendidos": 11
+    },
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 28,
+      "tma_minutos": 549,
+      "tickets_atendidos": 5
     }
   ],
   "melhores_atendimentos_recentes": [
-    "Laila explicou a instabilidade geral do WhatsApp e forneceu uma URL temporária. Laila informou sobre a atualização da plataforma e a resolução da instabilidade. Angela forneceu proativamente um conselho sobre como atualizar o cartão de crédito para futuras cobranças.",
     "Gabriel demonstrou alta empatia e proatividade ao escalar o caso para o time de engenharia com 'mais alta prioridade' logo no primeiro horário, reconhecendo a gravidade e o impacto na confiança do cliente.",
     "O atendente Gabriel demonstrou alta empatia, reconheceu a dor e urgência do cliente, explicou as limitações de seu plantão noturno e estabeleceu um plano de ação claro e prioritário para o time de engenharia às 08:00, reiterando o compromisso da empresa.",
     "Gabriel demonstrou alta empatia e proatividade ao validar a frustração do cliente, reconhecer a gravidade do bug crítico e escalar o caso imediatamente para a equipe de engenharia, prometendo acompanhamento e buscando detalhes para a investigação.",
-    "O atendente Gabriel demonstrou empatia e escalou o caso diretamente para a equipe de engenharia, comunicando claramente os próximos passos e a prioridade do atendimento: \"Poxa, sinto muito que a troca da foto do grupo não tenha dado certo... O Gabriel aqui já vai passar o seu caso diretamente para a nossa equipe de engenharia... Fique tranquilo(a) que estamos cuidando disso com prioridade.\""
+    "O atendente Gabriel demonstrou empatia e escalou o caso diretamente para a equipe de engenharia, comunicando claramente os próximos passos e a prioridade do atendimento: \"Poxa, sinto muito que a troca da foto do grupo não tenha dado certo... O Gabriel aqui já vai passar o seu caso diretamente para a nossa equipe de engenharia... Fique tranquilo(a) que estamos cuidando disso com prioridade.\"",
+    "Arthur Fuentes demonstrou proatividade e eficácia ao investigar e realizar procedimentos técnicos na campanha do cliente (desconexão/reconexão do número) para resolver o problema de agendamento que não estava sendo realizado, obtendo sucesso e a gratidão do cliente."
   ],
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
@@ -108,9 +108,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (105 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 53 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 176 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 163 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 55 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 173 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 159 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
