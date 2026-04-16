@@ -1,15 +1,15 @@
 {
-  "gerado_em": "2026-04-16T15:36:56.102889-03:00",
+  "gerado_em": "2026-04-16T16:07:07.957215-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 69,
-    "tma_medio_minutos": 274,
+    "total_conversas_hoje": 71,
+    "tma_medio_minutos": 280,
     "frt_medio_minutos": 0,
     "score_medio_geral": 49
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 78,
+      "score": 82,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
@@ -42,8 +42,8 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 78,
-      "tma_minutos": 109,
+      "score": 82,
+      "tma_minutos": 96,
       "tickets_atendidos": 10
     },
     {
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 54,
+      "score": 55,
       "tma_minutos": 61,
-      "tickets_atendidos": 28
+      "tickets_atendidos": 29
     },
     {
       "nome": "Taiane Santos",
@@ -71,16 +71,16 @@
       "tickets_atendidos": 42
     },
     {
+      "nome": "Felipe Leite",
+      "score": 45,
+      "tma_minutos": 519,
+      "tickets_atendidos": 15
+    },
+    {
       "nome": "Angela De Sousa",
       "score": 43,
       "tma_minutos": 227,
-      "tickets_atendidos": 93
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 41,
-      "tma_minutos": 516,
-      "tickets_atendidos": 15
+      "tickets_atendidos": 92
     },
     {
       "nome": "DANUBIA DIAS",
@@ -90,8 +90,8 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 17,
-      "tma_minutos": 363,
+      "score": 12,
+      "tma_minutos": 432,
       "tickets_atendidos": 14
     }
   ],
@@ -108,8 +108,8 @@
     "Taiane Santos resolveu o problema inicial do funil rapidamente, gerando um elogio efusivo do cliente. Laila Santana conduziu um upsell de forma eficaz, explicando a diferença entre os planos e auxiliando na contratação e configuração."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (113 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 53 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (112 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 52 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 174 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 161 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (61 min). Inspirem-se nessa agilidade sem perder a qualidade!"
