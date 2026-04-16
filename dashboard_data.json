@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-16T20:00:48.835260-03:00",
+  "gerado_em": "2026-04-16T20:32:36.455828-03:00",
   "visao_geral": {
     "total_conversas_hoje": 83,
     "tma_medio_minutos": 304,
@@ -72,9 +72,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 53,
+      "score": 54,
       "tma_minutos": 147,
-      "tickets_atendidos": 40
+      "tickets_atendidos": 39
     },
     {
       "nome": "Angela De Sousa",
@@ -98,9 +98,9 @@
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia e proatividade ao escalar o caso para o time de engenharia com 'mais alta prioridade' logo no primeiro horário, reconhecendo a gravidade e o impacto na confiança do cliente.",
     "O atendente Gabriel demonstrou alta empatia, reconheceu a dor e urgência do cliente, explicou as limitações de seu plantão noturno e estabeleceu um plano de ação claro e prioritário para o time de engenharia às 08:00, reiterando o compromisso da empresa.",
-    "O atendente Gabriel demonstrou empatia e escalou o caso diretamente para a equipe de engenharia, comunicando claramente os próximos passos e a prioridade do atendimento: \"Poxa, sinto muito que a troca da foto do grupo não tenha dado certo... O Gabriel aqui já vai passar o seu caso diretamente para a nossa equipe de engenharia... Fique tranquilo(a) que estamos cuidando disso com prioridade.\"",
     "Angela foi proativa em verificar as campanhas associadas ao email do cliente e persistente em ajudar a localizar a campanha, mesmo após o primeiro contato ser encerrado por falta de resposta do cliente. O cliente agradeceu explicitamente ('valeuu angela') após a resolução.",
-    "Laís demonstrou clareza ao explicar os planos e guiar o cliente no processo de re-assinatura. Anderson forneceu instruções detalhadas e eficazes para a resolução de um problema de envio de mensagens. Angela agiu rapidamente para confirmar o pagamento e atualizar o status da campanha, resolvendo um problema de conexão."
+    "Laís demonstrou clareza ao explicar os planos e guiar o cliente no processo de re-assinatura. Anderson forneceu instruções detalhadas e eficazes para a resolução de um problema de envio de mensagens. Angela agiu rapidamente para confirmar o pagamento e atualizar o status da campanha, resolvendo um problema de conexão.",
+    "Laila verificou com o time a possibilidade de migrar a funcionalidade 'Guardião' para a campanha existente, evitando que o cliente tivesse que criar uma nova campanha do zero novamente. Sâmia realizou a migração do plano de forma eficiente."
   ],
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
@@ -109,9 +109,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (110 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 52 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 175 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 160 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 51 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 172 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 157 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (79 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
