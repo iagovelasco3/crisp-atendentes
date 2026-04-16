@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-16T10:40:18.855008-03:00",
+  "gerado_em": "2026-04-16T11:10:49.953685-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 35,
-    "tma_medio_minutos": 248,
+    "total_conversas_hoje": 43,
+    "tma_medio_minutos": 270,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 55
+    "score_medio_geral": 53
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -71,16 +71,16 @@
       "tickets_atendidos": 43
     },
     {
-      "nome": "Felipe Leite",
-      "score": 46,
-      "tma_minutos": 331,
-      "tickets_atendidos": 14
+      "nome": "Angela De Sousa",
+      "score": 41,
+      "tma_minutos": 212,
+      "tickets_atendidos": 97
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 40,
-      "tma_minutos": 217,
-      "tickets_atendidos": 95
+      "nome": "Felipe Leite",
+      "score": 37,
+      "tma_minutos": 446,
+      "tickets_atendidos": 16
     },
     {
       "nome": "DANUBIA DIAS",
@@ -90,9 +90,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 33,
-      "tma_minutos": 455,
-      "tickets_atendidos": 15
+      "score": 20,
+      "tma_minutos": 547,
+      "tickets_atendidos": 16
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -107,10 +107,10 @@
     "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (110 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (111 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 55 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 183 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 169 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 186 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 171 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
