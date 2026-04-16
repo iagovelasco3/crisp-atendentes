@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-16T09:36:01.826069-03:00",
+  "gerado_em": "2026-04-16T10:08:34.253132-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 24,
-    "tma_medio_minutos": 243,
+    "total_conversas_hoje": 31,
+    "tma_medio_minutos": 247,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 57
+    "score_medio_geral": 55
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -59,12 +59,6 @@
       "tickets_atendidos": 9
     },
     {
-      "nome": "Felipe Leite",
-      "score": 57,
-      "tma_minutos": 390,
-      "tickets_atendidos": 10
-    },
-    {
       "nome": "Laila Santana",
       "score": 54,
       "tma_minutos": 103,
@@ -77,22 +71,28 @@
       "tickets_atendidos": 43
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 40,
-      "tma_minutos": 222,
-      "tickets_atendidos": 93
+      "nome": "Felipe Leite",
+      "score": 48,
+      "tma_minutos": 274,
+      "tickets_atendidos": 13
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 37,
-      "tma_minutos": 350,
-      "tickets_atendidos": 14
+      "nome": "Angela De Sousa",
+      "score": 41,
+      "tma_minutos": 232,
+      "tickets_atendidos": 97
     },
     {
       "nome": "DANUBIA DIAS",
       "score": 34,
       "tma_minutos": 549,
       "tickets_atendidos": 6
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 27,
+      "tma_minutos": 494,
+      "tickets_atendidos": 13
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -107,10 +107,10 @@
     "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (108 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (111 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 54 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 181 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 168 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 183 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 169 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
