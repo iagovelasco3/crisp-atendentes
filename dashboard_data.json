@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-16T19:34:15.491894-03:00",
+  "gerado_em": "2026-04-16T20:00:48.835260-03:00",
   "visao_geral": {
     "total_conversas_hoje": 83,
     "tma_medio_minutos": 304,
@@ -59,6 +59,12 @@
       "tickets_atendidos": 9
     },
     {
+      "nome": "Taiane Santos",
+      "score": 55,
+      "tma_minutos": 222,
+      "tickets_atendidos": 37
+    },
+    {
       "nome": "Felipe Leite",
       "score": 55,
       "tma_minutos": 466,
@@ -69,12 +75,6 @@
       "score": 53,
       "tma_minutos": 147,
       "tickets_atendidos": 40
-    },
-    {
-      "nome": "Taiane Santos",
-      "score": 53,
-      "tma_minutos": 222,
-      "tickets_atendidos": 38
     },
     {
       "nome": "Angela De Sousa",
