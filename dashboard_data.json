@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-16T16:07:07.957215-03:00",
+  "gerado_em": "2026-04-16T16:35:19.936926-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 71,
-    "tma_medio_minutos": 280,
+    "total_conversas_hoje": 73,
+    "tma_medio_minutos": 290,
     "frt_medio_minutos": 0,
     "score_medio_geral": 49
   },
@@ -33,8 +33,8 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Laila Santana",
-        "motivo": "Menor tempo médio de resolução real (61 min)."
+        "ganhador": "Sâmia Carvalho",
+        "motivo": "Menor tempo médio de resolução real (79 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Sâmia Carvalho está se aproximando rápido no ranking! Acelera!"
@@ -43,7 +43,7 @@
     {
       "nome": "Anderson Alves",
       "score": 82,
-      "tma_minutos": 96,
+      "tma_minutos": 101,
       "tickets_atendidos": 10
     },
     {
@@ -59,22 +59,22 @@
       "tickets_atendidos": 9
     },
     {
+      "nome": "Felipe Leite",
+      "score": 51,
+      "tma_minutos": 466,
+      "tickets_atendidos": 11
+    },
+    {
       "nome": "Laila Santana",
-      "score": 55,
-      "tma_minutos": 61,
-      "tickets_atendidos": 29
+      "score": 50,
+      "tma_minutos": 133,
+      "tickets_atendidos": 33
     },
     {
       "nome": "Taiane Santos",
       "score": 50,
       "tma_minutos": 222,
       "tickets_atendidos": 42
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 45,
-      "tma_minutos": 519,
-      "tickets_atendidos": 15
     },
     {
       "nome": "Angela De Sousa",
@@ -90,17 +90,17 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 12,
-      "tma_minutos": 432,
-      "tickets_atendidos": 14
+      "score": 7,
+      "tma_minutos": 495,
+      "tickets_atendidos": 13
     }
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia e proatividade ao escalar o caso para o time de engenharia com 'mais alta prioridade' logo no primeiro horário, reconhecendo a gravidade e o impacto na confiança do cliente.",
     "O atendente Gabriel demonstrou alta empatia, reconheceu a dor e urgência do cliente, explicou as limitações de seu plantão noturno e estabeleceu um plano de ação claro e prioritário para o time de engenharia às 08:00, reiterando o compromisso da empresa.",
     "O atendente Gabriel demonstrou empatia e escalou o caso diretamente para a equipe de engenharia, comunicando claramente os próximos passos e a prioridade do atendimento: \"Poxa, sinto muito que a troca da foto do grupo não tenha dado certo... O Gabriel aqui já vai passar o seu caso diretamente para a nossa equipe de engenharia... Fique tranquilo(a) que estamos cuidando disso com prioridade.\"",
-    "Gabriel demonstrou empatia, explicou o motivo da não resolução imediata e garantiu o encaminhamento do caso para o time correto com um prazo claro.",
-    "Angela foi proativa em verificar as campanhas associadas ao email do cliente e persistente em ajudar a localizar a campanha, mesmo após o primeiro contato ser encerrado por falta de resposta do cliente. O cliente agradeceu explicitamente ('valeuu angela') após a resolução."
+    "Angela foi proativa em verificar as campanhas associadas ao email do cliente e persistente em ajudar a localizar a campanha, mesmo após o primeiro contato ser encerrado por falta de resposta do cliente. O cliente agradeceu explicitamente ('valeuu angela') após a resolução.",
+    "Laís demonstrou clareza ao explicar os planos e guiar o cliente no processo de re-assinatura. Anderson forneceu instruções detalhadas e eficazes para a resolução de um problema de envio de mensagens. Angela agiu rapidamente para confirmar o pagamento e atualizar o status da campanha, resolvendo um problema de conexão."
   ],
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
@@ -108,10 +108,10 @@
     "Taiane Santos resolveu o problema inicial do funil rapidamente, gerando um elogio efusivo do cliente. Laila Santana conduziu um upsell de forma eficaz, explicando a diferença entre os planos e auxiliando na contratação e configuração."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (112 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (115 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 52 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 174 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 161 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (61 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 175 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 162 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (79 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
