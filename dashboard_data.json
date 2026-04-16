@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-16T14:41:51.231018-03:00",
+  "gerado_em": "2026-04-16T15:08:43.329176-03:00",
   "visao_geral": {
     "total_conversas_hoje": 67,
-    "tma_medio_minutos": 258,
+    "tma_medio_minutos": 247,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 49
+    "score_medio_geral": 51
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -71,16 +71,16 @@
       "tickets_atendidos": 42
     },
     {
+      "nome": "Felipe Leite",
+      "score": 49,
+      "tma_minutos": 395,
+      "tickets_atendidos": 13
+    },
+    {
       "nome": "Angela De Sousa",
       "score": 43,
       "tma_minutos": 227,
       "tickets_atendidos": 93
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 39,
-      "tma_minutos": 496,
-      "tickets_atendidos": 15
     },
     {
       "nome": "DANUBIA DIAS",
@@ -90,9 +90,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 13,
-      "tma_minutos": 496,
-      "tickets_atendidos": 15
+      "score": 20,
+      "tma_minutos": 500,
+      "tickets_atendidos": 16
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -108,10 +108,10 @@
     "Taiane Santos resolveu o problema inicial do funil rapidamente, gerando um elogio efusivo do cliente. Laila Santana conduziu um upsell de forma eficaz, explicando a diferença entre os planos e auxiliando na contratação e configuração."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (117 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 52 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (114 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 53 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 177 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 163 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Gestão de Crise: 162 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Laila Santana (61 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
