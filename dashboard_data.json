@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-16T20:32:36.455828-03:00",
+  "gerado_em": "2026-04-16T21:05:53.384556-03:00",
   "visao_geral": {
     "total_conversas_hoje": 83,
     "tma_medio_minutos": 304,
@@ -72,9 +72,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 54,
-      "tma_minutos": 147,
-      "tickets_atendidos": 39
+      "score": 52,
+      "tma_minutos": 153,
+      "tickets_atendidos": 38
     },
     {
       "nome": "Angela De Sousa",
@@ -108,7 +108,7 @@
     "Taiane Santos resolveu o problema inicial do funil rapidamente, gerando um elogio efusivo do cliente. Laila Santana conduziu um upsell de forma eficaz, explicando a diferença entre os planos e auxiliando na contratação e configuração."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (110 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (109 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 51 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 172 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 157 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
