@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-17T10:06:00.590107-03:00",
+  "gerado_em": "2026-04-17T10:41:10.466832-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 20,
-    "tma_medio_minutos": 261,
+    "total_conversas_hoje": 29,
+    "tma_medio_minutos": 278,
     "frt_medio_minutos": 0,
     "score_medio_geral": 51
   },
@@ -72,21 +72,21 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 49,
-      "tma_minutos": 341,
+      "score": 48,
+      "tma_minutos": 398,
       "tickets_atendidos": 16
     },
     {
       "nome": "Angela De Sousa",
       "score": 43,
-      "tma_minutos": 212,
-      "tickets_atendidos": 92
+      "tma_minutos": 218,
+      "tickets_atendidos": 91
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 23,
-      "tma_minutos": 360,
-      "tickets_atendidos": 10
+      "score": 22,
+      "tma_minutos": 453,
+      "tickets_atendidos": 16
     },
     {
       "nome": "DANUBIA DIAS",
@@ -106,13 +106,14 @@
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
     "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente.",
     "Taiane Santos resolveu o problema inicial do funil rapidamente, gerando um elogio efusivo do cliente. Laila Santana conduziu um upsell de forma eficaz, explicando a diferença entre os planos e auxiliando na contratação e configuração.",
-    "O atendente Gabriel elogiou a visão estratégica do cliente, explicou claramente a limitação da plataforma e escalou proativamente o caso para o time de engenharia para verificar a viabilidade técnica da funcionalidade."
+    "O atendente Gabriel elogiou a visão estratégica do cliente, explicou claramente a limitação da plataforma e escalou proativamente o caso para o time de engenharia para verificar a viabilidade técnica da funcionalidade.",
+    "O atendente Anderson demonstrou proatividade e eficácia ao diagnosticar e resolver o problema de mensagens não enviadas, recebendo um elogio entusiasmado do cliente ('valeu Anderson Tá liberado pro Carnaval kkkkk obrigado irmão')."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (113 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 52 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 178 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 162 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (112 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 53 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 177 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 161 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (79 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
