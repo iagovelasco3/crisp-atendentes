@@ -1,15 +1,15 @@
 {
-  "gerado_em": "2026-04-17T23:44:55.222147-03:00",
+  "gerado_em": "2026-04-18T00:19:10.624012-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 81,
-    "tma_medio_minutos": 191,
+    "total_conversas_hoje": 7,
+    "tma_medio_minutos": 193,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 45
+    "score_medio_geral": 46
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 74,
+      "score": 75,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
@@ -42,7 +42,7 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 74,
+      "score": 75,
       "tma_minutos": 83,
       "tickets_atendidos": 12
     },
@@ -54,13 +54,13 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 54,
+      "score": 58,
       "tma_minutos": 144,
       "tickets_atendidos": 34
     },
     {
       "nome": "Taiane Santos",
-      "score": 50,
+      "score": 56,
       "tma_minutos": 148,
       "tickets_atendidos": 31
     },
@@ -73,7 +73,7 @@
     {
       "nome": "Angela De Sousa",
       "score": 42,
-      "tma_minutos": 200,
+      "tma_minutos": 212,
       "tickets_atendidos": 95
     },
     {
@@ -105,13 +105,14 @@
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
     "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente.",
-    "O atendente Gabriel elogiou a visão estratégica do cliente, explicou claramente a limitação da plataforma e escalou proativamente o caso para o time de engenharia para verificar a viabilidade técnica da funcionalidade."
+    "O atendente Gabriel elogiou a visão estratégica do cliente, explicou claramente a limitação da plataforma e escalou proativamente o caso para o time de engenharia para verificar a viabilidade técnica da funcionalidade.",
+    "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (107 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (110 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 55 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 169 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 153 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 173 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 154 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (83 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
