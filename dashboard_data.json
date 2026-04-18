@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-17T13:39:25.739513-03:00",
+  "gerado_em": "2026-04-17T23:44:55.222147-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 51,
-    "tma_medio_minutos": 201,
+    "total_conversas_hoje": 81,
+    "tma_medio_minutos": 191,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 48
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 85,
+      "score": 74,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 8,
+      "tickets_perfeitos_seguidos": 12,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -33,8 +33,8 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Caroline Oliveira",
-        "motivo": "Menor tempo médio de resolução real (84 min)."
+        "ganhador": "Anderson Alves",
+        "motivo": "Menor tempo médio de resolução real (83 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Caroline Oliveira está se aproximando rápido no ranking! Acelera!"
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 85,
-      "tma_minutos": 91,
-      "tickets_atendidos": 8
+      "score": 74,
+      "tma_minutos": 83,
+      "tickets_atendidos": 12
     },
     {
       "nome": "Caroline Oliveira",
@@ -53,28 +53,28 @@
       "tickets_atendidos": 9
     },
     {
-      "nome": "Taiane Santos",
-      "score": 56,
-      "tma_minutos": 204,
+      "nome": "Laila Santana",
+      "score": 54,
+      "tma_minutos": 144,
       "tickets_atendidos": 34
     },
     {
-      "nome": "Laila Santana",
-      "score": 54,
-      "tma_minutos": 153,
-      "tickets_atendidos": 35
+      "nome": "Taiane Santos",
+      "score": 50,
+      "tma_minutos": 148,
+      "tickets_atendidos": 31
     },
     {
       "nome": "Felipe Leite",
-      "score": 54,
+      "score": 47,
       "tma_minutos": 398,
-      "tickets_atendidos": 13
+      "tickets_atendidos": 12
     },
     {
       "nome": "Angela De Sousa",
-      "score": 43,
-      "tma_minutos": 212,
-      "tickets_atendidos": 90
+      "score": 42,
+      "tma_minutos": 200,
+      "tickets_atendidos": 95
     },
     {
       "nome": "Sâmia Carvalho",
@@ -90,9 +90,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 8,
+      "score": 7,
       "tma_minutos": 471,
-      "tickets_atendidos": 9
+      "tickets_atendidos": 8
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -100,19 +100,18 @@
     "O atendente Gabriel demonstrou alta empatia, reconheceu a dor e urgência do cliente, explicou as limitações de seu plantão noturno e estabeleceu um plano de ação claro e prioritário para o time de engenharia às 08:00, reiterando o compromisso da empresa.",
     "Angela foi proativa em verificar as campanhas associadas ao email do cliente e persistente em ajudar a localizar a campanha, mesmo após o primeiro contato ser encerrado por falta de resposta do cliente. O cliente agradeceu explicitamente ('valeuu angela') após a resolução.",
     "Laís demonstrou clareza ao explicar os planos e guiar o cliente no processo de re-assinatura. Anderson forneceu instruções detalhadas e eficazes para a resolução de um problema de envio de mensagens. Angela agiu rapidamente para confirmar o pagamento e atualizar o status da campanha, resolvendo um problema de conexão.",
-    "Laila verificou com o time a possibilidade de migrar a funcionalidade 'Guardião' para a campanha existente, evitando que o cliente tivesse que criar uma nova campanha do zero novamente. Sâmia realizou a migração do plano de forma eficiente."
+    "Angela forneceu instruções detalhadas para o cancelamento de um plano e alertou proativamente o cliente sobre o risco de cobranças indevidas caso o cancelamento não fosse efetuado, demonstrando preocupação com o cliente."
   ],
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
     "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente.",
-    "Taiane Santos resolveu o problema inicial do funil rapidamente, gerando um elogio efusivo do cliente. Laila Santana conduziu um upsell de forma eficaz, explicando a diferença entre os planos e auxiliando na contratação e configuração.",
     "O atendente Gabriel elogiou a visão estratégica do cliente, explicou claramente a limitação da plataforma e escalou proativamente o caso para o time de engenharia para verificar a viabilidade técnica da funcionalidade."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (114 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (107 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 55 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 176 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 162 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Caroline Oliveira (84 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 169 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 153 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (83 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
