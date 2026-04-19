@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-19T14:55:29.175500-03:00",
+  "gerado_em": "2026-04-19T15:40:47.941438-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 18,
+    "total_conversas_hoje": 20,
     "tma_medio_minutos": 189,
     "frt_medio_minutos": 0,
     "score_medio_geral": 44
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Caroline Oliveira",
-      "score": 47,
-      "tma_minutos": 107,
-      "tickets_atendidos": 14
+      "score": 43,
+      "tma_minutos": 108,
+      "tickets_atendidos": 12
     },
     {
       "nome": "Angela De Sousa",
