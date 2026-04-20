@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-20T15:03:26.690920-03:00",
+  "gerado_em": "2026-04-20T15:34:32.214770-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 43,
-    "tma_medio_minutos": 177,
+    "total_conversas_hoje": 45,
+    "tma_medio_minutos": 185,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 43
+    "score_medio_geral": 44
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 77,
+      "score": 75,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 10,
+      "tickets_perfeitos_seguidos": 9,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,29 +34,29 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Anderson Alves",
-        "motivo": "Menor tempo médio de resolução real (89 min)."
+        "motivo": "Menor tempo médio de resolução real (37 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 77,
-      "tma_minutos": 89,
-      "tickets_atendidos": 10
+      "score": 75,
+      "tma_minutos": 37,
+      "tickets_atendidos": 9
+    },
+    {
+      "nome": "Felipe Leite",
+      "score": 58,
+      "tma_minutos": 504,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Laila Santana",
       "score": 57,
       "tma_minutos": 144,
       "tickets_atendidos": 32
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 52,
-      "tma_minutos": 426,
-      "tickets_atendidos": 16
     },
     {
       "nome": "Taiane Santos",
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 42,
-      "tma_minutos": 155,
-      "tickets_atendidos": 85
+      "score": 41,
+      "tma_minutos": 151,
+      "tickets_atendidos": 86
     },
     {
       "nome": "Sâmia Carvalho",
@@ -90,17 +90,17 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 11,
-      "tma_minutos": 364,
-      "tickets_atendidos": 8
+      "score": 18,
+      "tma_minutos": 415,
+      "tickets_atendidos": 7
     }
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou alta empatia e proatividade ao escalar o caso para o time de engenharia com 'mais alta prioridade' logo no primeiro horário, reconhecendo a gravidade e o impacto na confiança do cliente.",
     "O atendente Gabriel demonstrou alta empatia, reconheceu a dor e urgência do cliente, explicou as limitações de seu plantão noturno e estabeleceu um plano de ação claro e prioritário para o time de engenharia às 08:00, reiterando o compromisso da empresa.",
-    "Laís demonstrou clareza ao explicar os planos e guiar o cliente no processo de re-assinatura. Anderson forneceu instruções detalhadas e eficazes para a resolução de um problema de envio de mensagens. Angela agiu rapidamente para confirmar o pagamento e atualizar o status da campanha, resolvendo um problema de conexão.",
-    "Angela forneceu um link de pagamento direto e eficaz, resolvendo o problema de acesso do cliente de forma imediata após a falha da atendente anterior."
+    "Angela forneceu um link de pagamento direto e eficaz, resolvendo o problema de acesso do cliente de forma imediata após a falha da atendente anterior.",
+    "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento."
   ],
   "elogios_recentes": [
     "Laila forneceu uma solução direta, clara e eficaz, que o cliente conseguiu aplicar e confirmar o funcionamento, resultando em total satisfação e um elogio explícito.",
@@ -108,10 +108,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (100 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (97 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 48 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 162 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 151 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (89 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 159 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 147 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (37 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
