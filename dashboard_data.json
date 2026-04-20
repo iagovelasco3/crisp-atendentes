@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-20T08:15:38.573759-03:00",
+  "gerado_em": "2026-04-20T08:45:39.683711-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 4,
+    "total_conversas_hoje": 7,
     "tma_medio_minutos": 191,
     "frt_medio_minutos": 0,
     "score_medio_geral": 43
@@ -48,15 +48,15 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 57,
+      "score": 59,
       "tma_minutos": 144,
-      "tickets_atendidos": 33
+      "tickets_atendidos": 34
     },
     {
       "nome": "Taiane Santos",
       "score": 50,
       "tma_minutos": 103,
-      "tickets_atendidos": 28
+      "tickets_atendidos": 29
     },
     {
       "nome": "Felipe Leite",
@@ -108,7 +108,7 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (104 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (105 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 50 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 177 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 160 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
