@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-21T18:17:20.177953-03:00",
+  "gerado_em": "2026-04-21T18:48:09.313925-03:00",
   "visao_geral": {
     "total_conversas_hoje": 37,
-    "tma_medio_minutos": 143,
+    "tma_medio_minutos": 136,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 40
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 66,
+      "score": 63,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 12,
+      "tickets_perfeitos_seguidos": 11,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 66,
+      "score": 63,
       "tma_minutos": 30,
-      "tickets_atendidos": 12
+      "tickets_atendidos": 11
     },
     {
       "nome": "Laila Santana",
@@ -66,9 +66,15 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 50,
-      "tma_minutos": 143,
-      "tickets_atendidos": 18
+      "score": 55,
+      "tma_minutos": 111,
+      "tickets_atendidos": 17
+    },
+    {
+      "nome": "Eduardo Esparrinha",
+      "score": 45,
+      "tma_minutos": 66,
+      "tickets_atendidos": 2
     },
     {
       "nome": "Angela De Sousa",
@@ -78,7 +84,7 @@
     },
     {
       "nome": "Caroline Oliveira",
-      "score": 25,
+      "score": 31,
       "tma_minutos": 119,
       "tickets_atendidos": 9
     },
@@ -93,18 +99,12 @@
       "score": 13,
       "tma_minutos": 41,
       "tickets_atendidos": 6
-    },
-    {
-      "nome": "Eduardo Esparrinha",
-      "score": 0,
-      "tma_minutos": 102,
-      "tickets_atendidos": 1
     }
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento.",
-    "Gabriel demonstrou empatia, validou a observação do cliente sobre a integração não ser o problema e escalou corretamente para a equipe de engenharia, pedindo o e-mail de acesso para agilizar a investigação.",
+    "O atendente Gabriel demonstrou alta empatia, explicou detalhadamente os possíveis problemas, reiterou a urgência do caso (especialmente por ser um lançamento) e corrigiu prontamente a informação incorreta da colega Caroline sobre a indisponibilidade da equipe técnica, assegurando escalonamento imediato e acompanhamento pessoal.",
     "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
     "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
   ],
@@ -113,10 +113,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (89 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Bug' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 131 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 126 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (88 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Bug' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 130 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 125 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
