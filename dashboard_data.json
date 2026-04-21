@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-21T20:18:42.536661-03:00",
+  "gerado_em": "2026-04-21T20:45:17.981509-03:00",
   "visao_geral": {
     "total_conversas_hoje": 38,
-    "tma_medio_minutos": 134,
+    "tma_medio_minutos": 136,
     "frt_medio_minutos": 0,
     "score_medio_geral": 45
   },
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 52,
-      "tma_minutos": 97,
-      "tickets_atendidos": 16
+      "score": 51,
+      "tma_minutos": 114,
+      "tickets_atendidos": 15
     },
     {
       "nome": "Eduardo Esparrinha",
