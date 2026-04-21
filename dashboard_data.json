@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-21T19:45:35.788588-03:00",
+  "gerado_em": "2026-04-21T20:18:42.536661-03:00",
   "visao_geral": {
     "total_conversas_hoje": 38,
-    "tma_medio_minutos": 136,
+    "tma_medio_minutos": 134,
     "frt_medio_minutos": 0,
     "score_medio_geral": 45
   },
@@ -66,9 +66,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 55,
-      "tma_minutos": 111,
-      "tickets_atendidos": 17
+      "score": 52,
+      "tma_minutos": 97,
+      "tickets_atendidos": 16
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -109,11 +109,10 @@
     "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
   ],
   "elogios_recentes": [
-    "A atendente Taiane demonstrou paciência e persistência excepcionais, guiando o cliente passo a passo através de um processo técnico complexo e realizando procedimentos internos para resolver o problema de sincronização do WhatsApp, mesmo quando o cliente estava exausto e pronto para desistir. Sua atuação resultou em um elogio efusivo do cliente.",
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (89 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (88 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 131 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 126 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
