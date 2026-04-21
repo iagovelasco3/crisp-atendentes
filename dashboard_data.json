@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-21T09:15:04.018472-03:00",
+  "gerado_em": "2026-04-21T09:45:39.152664-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 4,
-    "tma_medio_minutos": 179,
+    "total_conversas_hoje": 5,
+    "tma_medio_minutos": 180,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 46
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 75,
+      "score": 74,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 9,
+      "tickets_perfeitos_seguidos": 8,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 75,
+      "score": 74,
       "tma_minutos": 37,
-      "tickets_atendidos": 9
+      "tickets_atendidos": 8
     },
     {
       "nome": "Laila Santana",
@@ -90,8 +90,8 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 22,
-      "tma_minutos": 318,
+      "score": 18,
+      "tma_minutos": 326,
       "tickets_atendidos": 8
     }
   ],
@@ -107,10 +107,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (96 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 42 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 146 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 136 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (97 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Bug' gerou 41 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 147 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 137 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (37 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
