@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-21T16:18:29.859779-03:00",
+  "gerado_em": "2026-04-21T16:47:50.204577-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 30,
-    "tma_medio_minutos": 141,
+    "total_conversas_hoje": 31,
+    "tma_medio_minutos": 143,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 43
+    "score_medio_geral": 41
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -59,16 +59,16 @@
       "tickets_atendidos": 7
     },
     {
-      "nome": "Felipe Leite",
-      "score": 58,
-      "tma_minutos": 504,
-      "tickets_atendidos": 13
-    },
-    {
       "nome": "Taiane Santos",
       "score": 53,
       "tma_minutos": 143,
       "tickets_atendidos": 19
+    },
+    {
+      "nome": "Felipe Leite",
+      "score": 52,
+      "tma_minutos": 504,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Angela De Sousa",
@@ -77,16 +77,16 @@
       "tickets_atendidos": 68
     },
     {
-      "nome": "DANUBIA DIAS",
-      "score": 41,
-      "tma_minutos": 149,
-      "tickets_atendidos": 3
-    },
-    {
       "nome": "Caroline Oliveira",
       "score": 33,
       "tma_minutos": 119,
       "tickets_atendidos": 8
+    },
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 25,
+      "tma_minutos": 162,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Arthur Fuentes",
@@ -104,7 +104,7 @@
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento.",
-    "Laila demonstrou paciência e clareza ao guiar o cliente por diversas dúvidas operacionais. Taiane forneceu uma explicação muito detalhada e visual (com imagem) sobre as configurações de envio em massa e intervalos, o que foi muito útil para o cliente.",
+    "Laila demonstrou paciência e forneceu explicações detalhadas e links de ajuda para diversas dúvidas operacionais (agendamento de mensagens, links de campanha, ordem de mensagens no funil, disparo em massa, formato de planilha, variáveis e agendamento), incluindo a resolução da dor inicial. Taiane forneceu uma explicação muito clara e visual sobre as configurações de tempo de disparo. Arthur agiu rapidamente para tentar resolver um bug crítico.",
     "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
     "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
   ],
@@ -113,10 +113,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (87 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Bug' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 130 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 125 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (88 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Bug' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 131 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 126 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
