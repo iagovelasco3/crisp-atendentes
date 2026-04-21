@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-21T17:46:48.731014-03:00",
+  "gerado_em": "2026-04-21T18:17:20.177953-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 35,
-    "tma_medio_minutos": 142,
+    "total_conversas_hoje": 37,
+    "tma_medio_minutos": 143,
     "frt_medio_minutos": 0,
     "score_medio_geral": 40
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 63,
+      "score": 66,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 11,
+      "tickets_perfeitos_seguidos": 12,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 63,
-      "tma_minutos": 27,
-      "tickets_atendidos": 11
+      "score": 66,
+      "tma_minutos": 30,
+      "tickets_atendidos": 12
     },
     {
       "nome": "Laila Santana",
@@ -72,13 +72,13 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 45,
+      "score": 44,
       "tma_minutos": 161,
-      "tickets_atendidos": 66
+      "tickets_atendidos": 64
     },
     {
       "nome": "Caroline Oliveira",
-      "score": 31,
+      "score": 25,
       "tma_minutos": 119,
       "tickets_atendidos": 9
     },
@@ -104,7 +104,7 @@
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento.",
-    "Gabriel e Taiane forneceram explicações detalhadas, empáticas e visuais sobre a configuração de tempo de disparo entre mensagens, ajudando o cliente a navegar por campos complexos da interface.",
+    "Gabriel demonstrou empatia, validou a observação do cliente sobre a integração não ser o problema e escalou corretamente para a equipe de engenharia, pedindo o e-mail de acesso para agilizar a investigação.",
     "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
     "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
   ],
@@ -114,8 +114,8 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (89 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Bug' gerou 39 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 132 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Atenção Secundária: 'Bug' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 131 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 126 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
