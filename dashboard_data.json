@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-22T12:18:31.296917-03:00",
+  "gerado_em": "2026-04-22T12:50:56.328517-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 46,
-    "tma_medio_minutos": 171,
+    "total_conversas_hoje": 47,
+    "tma_medio_minutos": 186,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 44
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 66,
+      "score": 72,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 5,
+      "tickets_perfeitos_seguidos": 6,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Sâmia Carvalho",
-        "motivo": "Menor tempo médio de resolução real (13 min)."
+        "motivo": "Menor tempo médio de resolução real (23 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 66,
+      "score": 72,
       "tma_minutos": 25,
-      "tickets_atendidos": 5
+      "tickets_atendidos": 6
     },
     {
       "nome": "Laila Santana",
@@ -53,22 +53,22 @@
       "tickets_atendidos": 28
     },
     {
+      "nome": "Sâmia Carvalho",
+      "score": 60,
+      "tma_minutos": 23,
+      "tickets_atendidos": 8
+    },
+    {
       "nome": "Felipe Leite",
-      "score": 55,
-      "tma_minutos": 375,
-      "tickets_atendidos": 17
+      "score": 59,
+      "tma_minutos": 455,
+      "tickets_atendidos": 15
     },
     {
       "nome": "Angela De Sousa",
-      "score": 49,
-      "tma_minutos": 155,
-      "tickets_atendidos": 64
-    },
-    {
-      "nome": "Sâmia Carvalho",
-      "score": 46,
-      "tma_minutos": 13,
-      "tickets_atendidos": 10
+      "score": 48,
+      "tma_minutos": 160,
+      "tickets_atendidos": 63
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -90,14 +90,14 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 29,
-      "tma_minutos": 30,
-      "tickets_atendidos": 13
+      "score": 22,
+      "tma_minutos": 41,
+      "tickets_atendidos": 7
     },
     {
       "nome": "DANUBIA DIAS",
-      "score": 17,
-      "tma_minutos": 705,
+      "score": 10,
+      "tma_minutos": 748,
       "tickets_atendidos": 4
     }
   ],
@@ -112,10 +112,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (90 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (89 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 133 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Alerta de Retenção: A IA detectou 132 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 124 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (13 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
