@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-22T14:13:21.159681-03:00",
+  "gerado_em": "2026-04-22T14:43:46.330301-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 49,
-    "tma_medio_minutos": 138,
+    "total_conversas_hoje": 52,
+    "tma_medio_minutos": 143,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 45
+    "score_medio_geral": 44
   },
   "arena_gamificacao": {
     "rei_da_colina": {
       "nome": "Anderson Alves 👑",
-      "score": 72,
+      "score": 73,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
       "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 6,
+      "tickets_perfeitos_seguidos": 7,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,7 +34,7 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Sâmia Carvalho",
-        "motivo": "Menor tempo médio de resolução real (23 min)."
+        "motivo": "Menor tempo médio de resolução real (17 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
@@ -42,9 +42,9 @@
   "ranking_atendentes": [
     {
       "nome": "Anderson Alves",
-      "score": 72,
-      "tma_minutos": 25,
-      "tickets_atendidos": 6
+      "score": 73,
+      "tma_minutos": 28,
+      "tickets_atendidos": 7
     },
     {
       "nome": "Laila Santana",
@@ -53,22 +53,22 @@
       "tickets_atendidos": 28
     },
     {
-      "nome": "Sâmia Carvalho",
-      "score": 56,
-      "tma_minutos": 23,
-      "tickets_atendidos": 6
-    },
-    {
       "nome": "Felipe Leite",
-      "score": 52,
-      "tma_minutos": 521,
-      "tickets_atendidos": 15
+      "score": 55,
+      "tma_minutos": 566,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Angela De Sousa",
-      "score": 48,
-      "tma_minutos": 176,
+      "score": 50,
+      "tma_minutos": 177,
       "tickets_atendidos": 62
+    },
+    {
+      "nome": "Sâmia Carvalho",
+      "score": 46,
+      "tma_minutos": 17,
+      "tickets_atendidos": 8
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -83,16 +83,16 @@
       "tickets_atendidos": 12
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 35,
-      "tma_minutos": 28,
-      "tickets_atendidos": 7
-    },
-    {
       "nome": "Caroline Oliveira",
       "score": 33,
       "tma_minutos": 119,
       "tickets_atendidos": 8
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 30,
+      "tma_minutos": 41,
+      "tickets_atendidos": 7
     },
     {
       "nome": "DANUBIA DIAS",
@@ -112,10 +112,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (88 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (86 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 127 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 117 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 124 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 115 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (17 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
