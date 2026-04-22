@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-22T09:29:14.833722-03:00",
+  "gerado_em": "2026-04-22T10:04:30.622687-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 20,
-    "tma_medio_minutos": 201,
+    "total_conversas_hoje": 29,
+    "tma_medio_minutos": 185,
     "frt_medio_minutos": 0,
     "score_medio_geral": 43
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Sâmia Carvalho 👑",
-      "score": 62,
+      "nome": "Anderson Alves 👑",
+      "score": 68,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Sâmia Carvalho",
-      "tickets_perfeitos_seguidos": 14,
+      "atendente": "Anderson Alves",
+      "tickets_perfeitos_seguidos": 8,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -37,14 +37,14 @@
         "motivo": "Menor tempo médio de resolução real (9 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Sâmia Carvalho: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
-      "nome": "Sâmia Carvalho",
-      "score": 62,
-      "tma_minutos": 9,
-      "tickets_atendidos": 14
+      "nome": "Anderson Alves",
+      "score": 68,
+      "tma_minutos": 32,
+      "tickets_atendidos": 8
     },
     {
       "nome": "Laila Santana",
@@ -54,21 +54,21 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 58,
+      "score": 55,
       "tma_minutos": 504,
-      "tickets_atendidos": 13
+      "tickets_atendidos": 15
     },
     {
-      "nome": "Anderson Alves",
-      "score": 56,
-      "tma_minutos": 187,
-      "tickets_atendidos": 9
+      "nome": "Sâmia Carvalho",
+      "score": 49,
+      "tma_minutos": 9,
+      "tickets_atendidos": 12
     },
     {
       "nome": "Angela De Sousa",
-      "score": 45,
-      "tma_minutos": 193,
-      "tickets_atendidos": 64
+      "score": 47,
+      "tma_minutos": 189,
+      "tickets_atendidos": 66
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -91,20 +91,20 @@
     {
       "nome": "DANUBIA DIAS",
       "score": 25,
-      "tma_minutos": 664,
+      "tma_minutos": 679,
       "tickets_atendidos": 3
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 6,
-      "tma_minutos": 41,
-      "tickets_atendidos": 7
+      "score": 7,
+      "tma_minutos": 31,
+      "tickets_atendidos": 10
     }
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento.",
-    "Gabriel demonstrou alta empatia, clareza na comunicação, senso de urgência e proatividade na escalada para a engenharia, agindo como um defensor do cliente e corrigindo informações contraditórias da colega Caroline.",
+    "Gabriel demonstrou alta empatia, explicou claramente o problema técnico ('não entrando na fila'), escalou a urgência devido ao lançamento e persistiu na obtenção do e-mail de acesso, garantindo a mobilização da engenharia para resolver ambos os problemas críticos.",
     "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
     "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
   ],
@@ -112,10 +112,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (86 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (88 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Bug' gerou 40 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 134 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 129 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 135 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 131 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (9 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
