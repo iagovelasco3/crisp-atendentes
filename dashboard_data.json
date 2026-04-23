@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-23T12:48:57.772286-03:00",
+  "gerado_em": "2026-04-23T13:20:59.499735-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 29,
-    "tma_medio_minutos": 133,
+    "total_conversas_hoje": 32,
+    "tma_medio_minutos": 132,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 46
+    "score_medio_geral": 47
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -53,28 +53,28 @@
       "tickets_atendidos": 27
     },
     {
-      "nome": "Felipe Leite",
-      "score": 63,
-      "tma_minutos": 450,
-      "tickets_atendidos": 14
+      "nome": "Sâmia Carvalho",
+      "score": 64,
+      "tma_minutos": 140,
+      "tickets_atendidos": 6
     },
     {
-      "nome": "Sâmia Carvalho",
-      "score": 60,
-      "tma_minutos": 140,
-      "tickets_atendidos": 7
+      "nome": "Felipe Leite",
+      "score": 62,
+      "tma_minutos": 456,
+      "tickets_atendidos": 13
     },
     {
       "nome": "Angela De Sousa",
-      "score": 49,
-      "tma_minutos": 165,
+      "score": 51,
+      "tma_minutos": 169,
       "tickets_atendidos": 54
     },
     {
       "nome": "Eduardo Esparrinha",
-      "score": 45,
-      "tma_minutos": 66,
-      "tickets_atendidos": 2
+      "score": 46,
+      "tma_minutos": 47,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Taiane Santos",
@@ -84,9 +84,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 31,
+      "score": 34,
       "tma_minutos": 43,
-      "tickets_atendidos": 4
+      "tickets_atendidos": 5
     },
     {
       "nome": "Caroline Oliveira",
@@ -112,10 +112,10 @@
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (83 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (80 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 108 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 107 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 103 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 103 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (43 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
