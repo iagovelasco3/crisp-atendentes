@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-22T20:50:28.572152-03:00",
+  "gerado_em": "2026-04-22T21:12:29.601816-03:00",
   "visao_geral": {
     "total_conversas_hoje": 76,
     "tma_medio_minutos": 141,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 46
+    "score_medio_geral": 47
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 60,
+      "score": 65,
       "tma_minutos": 147,
-      "tickets_atendidos": 30
+      "tickets_atendidos": 29
     },
     {
       "nome": "Sâmia Carvalho",
@@ -60,9 +60,9 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 55,
+      "score": 58,
       "tma_minutos": 566,
-      "tickets_atendidos": 14
+      "tickets_atendidos": 13
     },
     {
       "nome": "Angela De Sousa",
