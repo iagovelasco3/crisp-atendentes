@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-23T17:50:13.106659-03:00",
+  "gerado_em": "2026-04-23T18:17:27.399908-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 55,
-    "tma_medio_minutos": 168,
+    "total_conversas_hoje": 56,
+    "tma_medio_minutos": 169,
     "frt_medio_minutos": 0,
     "score_medio_geral": 49
   },
@@ -37,7 +37,7 @@
         "motivo": "Menor tempo médio de resolução real (23 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,16 +47,16 @@
       "tickets_atendidos": 1
     },
     {
+      "nome": "Laila Santana",
+      "score": 73,
+      "tma_minutos": 294,
+      "tickets_atendidos": 31
+    },
+    {
       "nome": "Felipe Leite",
       "score": 69,
       "tma_minutos": 638,
       "tickets_atendidos": 10
-    },
-    {
-      "nome": "Laila Santana",
-      "score": 68,
-      "tma_minutos": 289,
-      "tickets_atendidos": 31
     },
     {
       "nome": "Sâmia Carvalho",
@@ -73,8 +73,8 @@
     {
       "nome": "Angela De Sousa",
       "score": 48,
-      "tma_minutos": 169,
-      "tickets_atendidos": 59
+      "tma_minutos": 175,
+      "tickets_atendidos": 58
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -116,13 +116,13 @@
   ],
   "elogios_recentes": [
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente.",
-    "Danubia foi proativa ao oferecer vídeos, FAQ e agendamento de call com especialista. Ela também demonstrou paciência e eficácia ao guiar o cliente na resolução do problema de UX/técnico, resultando em um forte elogio e satisfação do cliente."
+    "Danubia demonstrou proatividade ao oferecer recursos (vídeos, FAQ) e agendamento de call para entender o negócio do cliente. Ela também forneceu suporte técnico claro e eficaz para o problema de agendamento de mensagens, resultando em um forte elogio do cliente à plataforma e ao atendimento. Angela foi eficiente ao fornecer o link de renovação."
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (78 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 98 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 97 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 97 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 96 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
