@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-23T13:20:59.499735-03:00",
+  "gerado_em": "2026-04-23T13:46:56.665155-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 32,
-    "tma_medio_minutos": 132,
+    "total_conversas_hoje": 33,
+    "tma_medio_minutos": 139,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 47
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Anderson Alves 👑",
-      "score": 67,
+      "nome": "Laila Santana 👑",
+      "score": 66,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Anderson Alves",
-      "tickets_perfeitos_seguidos": 9,
+      "atendente": "Laila Santana",
+      "tickets_perfeitos_seguidos": 27,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,23 +34,23 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Arthur Fuentes",
-        "motivo": "Menor tempo médio de resolução real (43 min)."
+        "motivo": "Menor tempo médio de resolução real (35 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Laila Santana: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
-    {
-      "nome": "Anderson Alves",
-      "score": 67,
-      "tma_minutos": 44,
-      "tickets_atendidos": 9
-    },
     {
       "nome": "Laila Santana",
       "score": 66,
       "tma_minutos": 147,
       "tickets_atendidos": 27
+    },
+    {
+      "nome": "Anderson Alves",
+      "score": 65,
+      "tma_minutos": 44,
+      "tickets_atendidos": 10
     },
     {
       "nome": "Sâmia Carvalho",
@@ -60,14 +60,14 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 62,
-      "tma_minutos": 456,
-      "tickets_atendidos": 13
+      "score": 63,
+      "tma_minutos": 536,
+      "tickets_atendidos": 12
     },
     {
       "nome": "Angela De Sousa",
       "score": 51,
-      "tma_minutos": 169,
+      "tma_minutos": 171,
       "tickets_atendidos": 54
     },
     {
@@ -83,16 +83,16 @@
       "tickets_atendidos": 12
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 34,
-      "tma_minutos": 43,
-      "tickets_atendidos": 5
-    },
-    {
       "nome": "Caroline Oliveira",
       "score": 28,
       "tma_minutos": 119,
       "tickets_atendidos": 7
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 18,
+      "tma_minutos": 35,
+      "tickets_atendidos": 5
     },
     {
       "nome": "DANUBIA DIAS",
@@ -114,8 +114,8 @@
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (80 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 103 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 103 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (43 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Alerta de Retenção: A IA detectou 104 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 104 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (35 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
