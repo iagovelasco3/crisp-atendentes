@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-23T18:49:01.526638-03:00",
+  "gerado_em": "2026-04-23T19:20:12.305670-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 59,
-    "tma_medio_minutos": 165,
+    "total_conversas_hoje": 60,
+    "tma_medio_minutos": 163,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 49
+    "score_medio_geral": 50
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 73,
-      "tma_minutos": 249,
-      "tickets_atendidos": 31
+      "score": 76,
+      "tma_minutos": 224,
+      "tickets_atendidos": 29
     },
     {
       "nome": "Felipe Leite",
@@ -110,7 +110,7 @@
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou alta empatia, reconheceu a urgência do cliente (especialmente em relação ao lançamento e ao envio em massa), e escalou os problemas para a engenharia repetidamente, pedindo o acesso necessário. Ele tentou corrigir a informação errada de Caroline sobre a disponibilidade da equipe técnica.",
-    "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
+    "Laila demonstrou proatividade ao monitorar os disparos em tempo real, sugerir um workaround (excluir e reimportar comunidade) e persistir na resolução, mesmo quando a solução inicial não funcionou. Sua comunicação foi empática e ela acompanhou o cliente até a aparente normalização dos envios.",
     "Angela identificou e resolveu rapidamente a questão de pagamento em atraso, fornecendo o link direto para renovação. Gabriel realizou um follow-up proativo sobre o status da renovação.",
     "Angela identificou e resolveu rapidamente a questão da \"campanha teste\" ao fornecer o link de pagamento para o plano correto, permitindo a ativação imediata."
   ],
@@ -119,10 +119,10 @@
     "Danubia demonstrou proatividade ao oferecer recursos (vídeos, FAQ) e agendamento de call para entender o negócio do cliente. Ela também forneceu suporte técnico claro e eficaz para o problema de agendamento de mensagens, resultando em um forte elogio do cliente à plataforma e ao atendimento. Angela foi eficiente ao fornecer o link de renovação."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (75 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (76 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 97 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 97 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Gestão de Crise: 95 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
