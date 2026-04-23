@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-23T10:19:03.248108-03:00",
+  "gerado_em": "2026-04-23T10:55:28.875985-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 17,
-    "tma_medio_minutos": 139,
+    "total_conversas_hoje": 21,
+    "tma_medio_minutos": 132,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 43
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Laila Santana 👑",
-      "score": 66,
+      "nome": "Anderson Alves 👑",
+      "score": 67,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Laila Santana",
-      "tickets_perfeitos_seguidos": 28,
+      "atendente": "Anderson Alves",
+      "tickets_perfeitos_seguidos": 9,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -34,12 +34,18 @@
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
         "ganhador": "Arthur Fuentes",
-        "motivo": "Menor tempo médio de resolução real (21 min)."
+        "motivo": "Menor tempo médio de resolução real (41 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Laila Santana: a(o) Anderson Alves está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Anderson Alves: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
+    {
+      "nome": "Anderson Alves",
+      "score": 67,
+      "tma_minutos": 42,
+      "tickets_atendidos": 9
+    },
     {
       "nome": "Laila Santana",
       "score": 66,
@@ -47,10 +53,10 @@
       "tickets_atendidos": 28
     },
     {
-      "nome": "Anderson Alves",
-      "score": 62,
-      "tma_minutos": 41,
-      "tickets_atendidos": 8
+      "nome": "Felipe Leite",
+      "score": 63,
+      "tma_minutos": 449,
+      "tickets_atendidos": 13
     },
     {
       "nome": "Sâmia Carvalho",
@@ -60,15 +66,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 50,
-      "tma_minutos": 154,
+      "score": 49,
+      "tma_minutos": 160,
       "tickets_atendidos": 56
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 50,
-      "tma_minutos": 548,
-      "tickets_atendidos": 12
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -90,9 +90,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 17,
-      "tma_minutos": 21,
-      "tickets_atendidos": 7
+      "score": 25,
+      "tma_minutos": 41,
+      "tickets_atendidos": 8
     },
     {
       "nome": "DANUBIA DIAS",
@@ -103,19 +103,19 @@
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
-    "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento.",
     "Gabriel demonstrou alta empatia, reconheceu a urgência do cliente (especialmente em relação ao lançamento e ao envio em massa), e escalou os problemas para a engenharia repetidamente, pedindo o acesso necessário. Ele tentou corrigir a informação errada de Caroline sobre a disponibilidade da equipe técnica.",
     "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
-    "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
+    "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso.",
+    "Angela identificou e resolveu rapidamente a questão de pagamento em atraso, fornecendo o link direto para renovação. Gabriel realizou um follow-up proativo sobre o status da renovação."
   ],
   "elogios_recentes": [
     "Laila Santana demonstrou paciência e habilidade diagnóstica ao identificar que o problema não era na assinatura em si, mas sim no vencimento das campanhas do cliente. Ela ofereceu uma solução clara (recompra e vinculação à campanha de teste) e guiou o cliente até a resolução, resultando em gratidão e um elogio explícito do cliente, que inclusive deixou uma avaliação positiva com o nome da atendente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (86 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 112 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 108 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (21 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (85 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 109 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 106 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (41 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
