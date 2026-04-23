@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-23T09:13:00.837048-03:00",
+  "gerado_em": "2026-04-23T09:47:16.036313-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 12,
-    "tma_medio_minutos": 141,
+    "total_conversas_hoje": 14,
+    "tma_medio_minutos": 136,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 45
+    "score_medio_geral": 43
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -59,16 +59,16 @@
       "tickets_atendidos": 7
     },
     {
-      "nome": "Felipe Leite",
-      "score": 58,
-      "tma_minutos": 566,
-      "tickets_atendidos": 13
+      "nome": "Angela De Sousa",
+      "score": 50,
+      "tma_minutos": 149,
+      "tickets_atendidos": 59
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 49,
-      "tma_minutos": 136,
-      "tickets_atendidos": 56
+      "nome": "Felipe Leite",
+      "score": 48,
+      "tma_minutos": 497,
+      "tickets_atendidos": 16
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -89,22 +89,22 @@
       "tickets_atendidos": 7
     },
     {
-      "nome": "DANUBIA DIAS",
-      "score": 20,
-      "tma_minutos": 80,
-      "tickets_atendidos": 3
-    },
-    {
       "nome": "Arthur Fuentes",
       "score": 18,
       "tma_minutos": 43,
       "tickets_atendidos": 5
+    },
+    {
+      "nome": "DANUBIA DIAS",
+      "score": 7,
+      "tma_minutos": 80,
+      "tickets_atendidos": 2
     }
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, escalou o caso para engenharia com prioridade máxima devido à campanha ativa do cliente e acompanhou de perto até a resolução do problema de conexão e envio de mensagens. Caroline também contribuiu efetivamente ao solicitar a reconexão da campanha, o que ajudou a destravar o status.",
     "Gabriel demonstrou empatia, reconheceu a frustração do cliente e escalou o problema de spam para a engenharia de forma clara e proativa, solicitando informações adicionais para agilizar a investigação e prometendo acompanhamento.",
-    "Gabriel demonstrou alta empatia, pediu desculpas pela confusão inicial sobre a disponibilidade da equipe, assumiu a responsabilidade pela resolução, explicou a causa técnica e escalou ambos os problemas com máxima urgência para a engenharia, comunicando claramente a necessidade do e-mail de acesso para intervenção imediata.",
+    "Gabriel demonstrou alta empatia, reconheceu a urgência do cliente (especialmente em relação ao lançamento e ao envio em massa), e escalou os problemas para a engenharia repetidamente, pedindo o acesso necessário. Ele tentou corrigir a informação errada de Caroline sobre a disponibilidade da equipe técnica.",
     "Os atendentes (Felipe, Laila, Arthur) demonstraram proatividade e persistência na resolução dos problemas. Laila e Arthur, em particular, acompanharam os disparos em tempo real, guiaram o cliente nas ações de correção (excluir/reimportar comunidade) e mantiveram o cliente informado e tranquilizado, mesmo diante de problemas recorrentes. A comunicação foi clara e empática, resultando em alívio do cliente a cada resolução pontual.",
     "A atendente Angela demonstrou paciência e clareza ao explicar a política de preços e a não transferibilidade do desconto legado, mesmo diante da insistência do cliente. Ela conseguiu conduzir o atendimento até o cliente decidir prosseguir com o upgrade, processando-o com sucesso."
   ],
@@ -113,8 +113,8 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (87 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 113 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 112 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 109 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (41 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
