@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-23T08:12:52.034207-03:00",
+  "gerado_em": "2026-04-23T08:42:51.219391-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 9,
+    "total_conversas_hoje": 11,
     "tma_medio_minutos": 141,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 46
+    "score_medio_geral": 45
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -96,9 +96,9 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 18,
+      "score": 9,
       "tma_minutos": 43,
-      "tickets_atendidos": 5
+      "tickets_atendidos": 6
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -114,7 +114,7 @@
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (87 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 112 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Alerta de Retenção: A IA detectou 113 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 109 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Anderson Alves (41 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
