@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-24T15:53:58.345230-03:00",
+  "gerado_em": "2026-04-24T16:26:22.837436-03:00",
   "visao_geral": {
     "total_conversas_hoje": 36,
-    "tma_medio_minutos": 191,
+    "tma_medio_minutos": 185,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 52
+    "score_medio_geral": 54
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -54,9 +54,15 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 72,
+      "score": 75,
       "tma_minutos": 830,
-      "tickets_atendidos": 9
+      "tickets_atendidos": 7
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 74,
+      "tma_minutos": 55,
+      "tickets_atendidos": 5
     },
     {
       "nome": "Sâmia Carvalho",
@@ -65,22 +71,16 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 60,
-      "tma_minutos": 41,
-      "tickets_atendidos": 6
-    },
-    {
       "nome": "Anderson Alves",
-      "score": 60,
-      "tma_minutos": 223,
+      "score": 59,
+      "tma_minutos": 138,
       "tickets_atendidos": 8
     },
     {
       "nome": "Angela De Sousa",
-      "score": 48,
-      "tma_minutos": 163,
-      "tickets_atendidos": 55
+      "score": 49,
+      "tma_minutos": 168,
+      "tickets_atendidos": 53
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -120,10 +120,10 @@
     "Danubia demonstrou proatividade ao oferecer recursos (vídeos, FAQ) e agendamento de call para entender o negócio do cliente. Ela também forneceu suporte técnico claro e eficaz para o problema de agendamento de mensagens, resultando em um forte elogio do cliente à plataforma e ao atendimento. Angela foi eficiente ao fornecer o link de renovação."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (72 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 93 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 89 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 88 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 85 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
