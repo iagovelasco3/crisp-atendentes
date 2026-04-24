@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-24T14:51:52.199833-03:00",
+  "gerado_em": "2026-04-24T15:23:47.797907-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 33,
-    "tma_medio_minutos": 160,
+    "total_conversas_hoje": 35,
+    "tma_medio_minutos": 169,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 53
+    "score_medio_geral": 51
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -54,15 +54,9 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 74,
-      "tma_minutos": 527,
-      "tickets_atendidos": 11
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 66,
-      "tma_minutos": 43,
-      "tickets_atendidos": 4
+      "score": 73,
+      "tma_minutos": 637,
+      "tickets_atendidos": 10
     },
     {
       "nome": "Sâmia Carvalho",
@@ -78,9 +72,15 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 48,
+      "score": 47,
       "tma_minutos": 164,
-      "tickets_atendidos": 57
+      "tickets_atendidos": 56
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 46,
+      "tma_minutos": 28,
+      "tickets_atendidos": 6
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -121,9 +121,9 @@
   ],
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (72 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 37 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 91 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 88 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 92 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 89 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
