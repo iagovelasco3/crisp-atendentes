@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-24T16:26:22.837436-03:00",
+  "gerado_em": "2026-04-24T16:54:06.740750-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 36,
-    "tma_medio_minutos": 185,
+    "total_conversas_hoje": 39,
+    "tma_medio_minutos": 178,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 54
+    "score_medio_geral": 53
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -49,8 +49,8 @@
     {
       "nome": "Laila Santana",
       "score": 78,
-      "tma_minutos": 226,
-      "tickets_atendidos": 26
+      "tma_minutos": 162,
+      "tickets_atendidos": 25
     },
     {
       "nome": "Felipe Leite",
@@ -60,8 +60,8 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 74,
-      "tma_minutos": 55,
+      "score": 69,
+      "tma_minutos": 43,
       "tickets_atendidos": 5
     },
     {
@@ -72,14 +72,14 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 59,
+      "score": 56,
       "tma_minutos": 138,
-      "tickets_atendidos": 8
+      "tickets_atendidos": 7
     },
     {
       "nome": "Angela De Sousa",
-      "score": 49,
-      "tma_minutos": 168,
+      "score": 50,
+      "tma_minutos": 174,
       "tickets_atendidos": 53
     },
     {
@@ -120,7 +120,7 @@
     "Danubia demonstrou proatividade ao oferecer recursos (vídeos, FAQ) e agendamento de call para entender o negócio do cliente. Ela também forneceu suporte técnico claro e eficaz para o problema de agendamento de mensagens, resultando em um forte elogio do cliente à plataforma e ao atendimento. Angela foi eficiente ao fornecer o link de renovação."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (70 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 88 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 85 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
