@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-24T11:50:17.922738-03:00",
+  "gerado_em": "2026-04-24T12:20:46.846979-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 21,
-    "tma_medio_minutos": 188,
+    "total_conversas_hoje": 24,
+    "tma_medio_minutos": 186,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 51
+    "score_medio_geral": 50
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -33,8 +33,8 @@
       {
         "icone": "⚡",
         "titulo": "Sniper (The Flash)",
-        "ganhador": "Sâmia Carvalho",
-        "motivo": "Menor tempo médio de resolução real (23 min)."
+        "ganhador": "Arthur Fuentes",
+        "motivo": "Menor tempo médio de resolução real (22 min)."
       }
     ],
     "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
@@ -54,7 +54,7 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 70,
+      "score": 69,
       "tma_minutos": 830,
       "tickets_atendidos": 11
     },
@@ -66,27 +66,27 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 59,
+      "score": 57,
       "tma_minutos": 187,
-      "tickets_atendidos": 11
+      "tickets_atendidos": 10
     },
     {
       "nome": "Angela De Sousa",
-      "score": 48,
+      "score": 47,
       "tma_minutos": 161,
-      "tickets_atendidos": 64
-    },
-    {
-      "nome": "Arthur Fuentes",
-      "score": 45,
-      "tma_minutos": 45,
-      "tickets_atendidos": 6
+      "tickets_atendidos": 63
     },
     {
       "nome": "Eduardo Esparrinha",
       "score": 45,
       "tma_minutos": 66,
       "tickets_atendidos": 2
+    },
+    {
+      "nome": "Arthur Fuentes",
+      "score": 42,
+      "tma_minutos": 22,
+      "tickets_atendidos": 7
     },
     {
       "nome": "Taiane Santos",
@@ -119,10 +119,10 @@
     "Danubia demonstrou proatividade ao oferecer recursos (vídeos, FAQ) e agendamento de call para entender o negócio do cliente. Ela também forneceu suporte técnico claro e eficaz para o problema de agendamento de mensagens, resultando em um forte elogio do cliente à plataforma e ao atendimento. Angela foi eficiente ao fornecer o link de renovação."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (74 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (71 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 36 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 93 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 91 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
-    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
+    "Benchmark da Equipe: O alvo da semana é o TMA do(a) Arthur Fuentes (22 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
