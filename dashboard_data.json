@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-24T20:25:35.403091-03:00",
+  "gerado_em": "2026-04-24T20:53:39.362457-03:00",
   "visao_geral": {
     "total_conversas_hoje": 50,
-    "tma_medio_minutos": 179,
+    "tma_medio_minutos": 181,
     "frt_medio_minutos": 0,
     "score_medio_geral": 52
   },
@@ -48,8 +48,8 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 78,
-      "tma_minutos": 162,
+      "score": 75,
+      "tma_minutos": 189,
       "tickets_atendidos": 28
     },
     {
@@ -90,9 +90,9 @@
     },
     {
       "nome": "Taiane Santos",
-      "score": 35,
+      "score": 37,
       "tma_minutos": 73,
-      "tickets_atendidos": 9
+      "tickets_atendidos": 8
     },
     {
       "nome": "Caroline Oliveira",
@@ -121,10 +121,10 @@
     "Laila resolveu o problema de agendamento rapidamente ao desconectar e reconectar o número do cliente, recebendo um elogio direto 'você é 10'. Angela foi eficiente em vincular a campanha após o pagamento da renovação."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (72 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (71 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 36 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 86 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 86 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 87 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 87 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
