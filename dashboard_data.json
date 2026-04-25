@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-24T21:54:21.871548-03:00",
+  "gerado_em": "2026-04-24T22:23:10.017883-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 49,
-    "tma_medio_minutos": 181,
+    "total_conversas_hoje": 48,
+    "tma_medio_minutos": 176,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 52
+    "score_medio_geral": 51
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -48,9 +48,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 76,
+      "score": 78,
       "tma_minutos": 190,
-      "tickets_atendidos": 28
+      "tickets_atendidos": 27
     },
     {
       "nome": "Felipe Leite",
@@ -71,12 +71,6 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Anderson Alves",
-      "score": 56,
-      "tma_minutos": 138,
-      "tickets_atendidos": 7
-    },
-    {
       "nome": "Angela De Sousa",
       "score": 50,
       "tma_minutos": 177,
@@ -93,6 +87,12 @@
       "score": 37,
       "tma_minutos": 73,
       "tickets_atendidos": 8
+    },
+    {
+      "nome": "Anderson Alves",
+      "score": 37,
+      "tma_minutos": 83,
+      "tickets_atendidos": 10
     },
     {
       "nome": "Caroline Oliveira",
@@ -123,8 +123,8 @@
   "pontos_de_crescimento_gerais": [
     "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (72 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 36 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 87 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 87 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 88 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 88 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
