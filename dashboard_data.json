@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-04-25T14:27:13.079805-03:00",
+  "gerado_em": "2026-04-25T14:58:58.573965-03:00",
   "visao_geral": {
     "total_conversas_hoje": 19,
     "tma_medio_minutos": 199,
@@ -37,7 +37,7 @@
         "motivo": "Menor tempo médio de resolução real (23 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Felipe Leite está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
     {
@@ -47,16 +47,16 @@
       "tickets_atendidos": 1
     },
     {
-      "nome": "Laila Santana",
-      "score": 75,
-      "tma_minutos": 253,
-      "tickets_atendidos": 33
-    },
-    {
       "nome": "Felipe Leite",
       "score": 75,
       "tma_minutos": 830,
       "tickets_atendidos": 7
+    },
+    {
+      "nome": "Laila Santana",
+      "score": 73,
+      "tma_minutos": 253,
+      "tickets_atendidos": 34
     },
     {
       "nome": "Arthur Fuentes",
@@ -78,7 +78,7 @@
     },
     {
       "nome": "Anderson Alves",
-      "score": 46,
+      "score": 49,
       "tma_minutos": 347,
       "tickets_atendidos": 15
     },
