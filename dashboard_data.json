@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-25T14:58:58.573965-03:00",
+  "gerado_em": "2026-04-25T15:26:36.545284-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 19,
-    "tma_medio_minutos": 199,
+    "total_conversas_hoje": 20,
+    "tma_medio_minutos": 198,
     "frt_medio_minutos": 0,
     "score_medio_geral": 48
   },
@@ -54,9 +54,9 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 73,
-      "tma_minutos": 253,
-      "tickets_atendidos": 34
+      "score": 74,
+      "tma_minutos": 239,
+      "tickets_atendidos": 35
     },
     {
       "nome": "Arthur Fuentes",
@@ -104,7 +104,7 @@
       "nome": "Taiane Santos",
       "score": 0,
       "tma_minutos": 0,
-      "tickets_atendidos": 2
+      "tickets_atendidos": 1
     }
   ],
   "melhores_atendimentos_recentes": [
@@ -120,7 +120,7 @@
     "Laila resolveu o problema de agendamento rapidamente ao desconectar e reconectar o número do cliente, recebendo um elogio direto 'você é 10'. Angela foi eficiente em vincular a campanha após o pagamento da renovação."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (68 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 38 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 85 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 88 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
