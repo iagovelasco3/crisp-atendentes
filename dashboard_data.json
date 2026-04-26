@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-26T16:30:58.812335-03:00",
+  "gerado_em": "2026-04-26T16:57:07.311699-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 20,
+    "total_conversas_hoje": 21,
     "tma_medio_minutos": 191,
     "frt_medio_minutos": 0,
     "score_medio_geral": 47
@@ -72,9 +72,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 50,
+      "score": 51,
       "tma_minutos": 177,
-      "tickets_atendidos": 52
+      "tickets_atendidos": 53
     },
     {
       "nome": "Anderson Alves",
@@ -90,8 +90,8 @@
     },
     {
       "nome": "Caroline Oliveira",
-      "score": 9,
-      "tma_minutos": 26,
+      "score": 12,
+      "tma_minutos": 34,
       "tickets_atendidos": 9
     },
     {
