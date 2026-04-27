@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-27T13:00:36.073854-03:00",
+  "gerado_em": "2026-04-27T13:36:20.764866-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 49,
-    "tma_medio_minutos": 134,
+    "total_conversas_hoje": 50,
+    "tma_medio_minutos": 124,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 46
+    "score_medio_geral": 50
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Ana Luiza Silva 👑",
-      "score": 80,
+      "nome": "Felipe Leite 👑",
+      "score": 90,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Ana Luiza Silva",
-      "tickets_perfeitos_seguidos": 1,
+      "atendente": "Felipe Leite",
+      "tickets_perfeitos_seguidos": 3,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -37,9 +37,15 @@
         "motivo": "Menor tempo médio de resolução real (23 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Laila Santana está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Felipe Leite: a(o) Ana Luiza Silva está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
+    {
+      "nome": "Felipe Leite",
+      "score": 90,
+      "tma_minutos": 0,
+      "tickets_atendidos": 3
+    },
     {
       "nome": "Ana Luiza Silva",
       "score": 80,
@@ -59,16 +65,16 @@
       "tickets_atendidos": 5
     },
     {
-      "nome": "Arthur Fuentes",
-      "score": 50,
-      "tma_minutos": 33,
-      "tickets_atendidos": 12
+      "nome": "Angela De Sousa",
+      "score": 46,
+      "tma_minutos": 205,
+      "tickets_atendidos": 64
     },
     {
-      "nome": "Angela De Sousa",
-      "score": 47,
-      "tma_minutos": 199,
-      "tickets_atendidos": 63
+      "nome": "Arthur Fuentes",
+      "score": 45,
+      "tma_minutos": 35,
+      "tickets_atendidos": 14
     },
     {
       "nome": "Anderson Alves",
@@ -81,12 +87,6 @@
       "score": 45,
       "tma_minutos": 66,
       "tickets_atendidos": 2
-    },
-    {
-      "nome": "Felipe Leite",
-      "score": 42,
-      "tma_minutos": 102,
-      "tickets_atendidos": 7
     },
     {
       "nome": "Caroline Oliveira",
@@ -115,10 +115,10 @@
     "Arthur Fuentes finalmente resolveu o problema de conexão do DevGrupos após verificar a campanha internamente, levando ao elogio do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (72 casos). Criem atalhos/macros para agilizar esse tema.",
-    "Atenção Secundária: 'Duvida Operacional' gerou 48 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 92 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 93 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (71 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Atenção Secundária: 'Duvida Operacional' gerou 45 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
+    "Alerta de Retenção: A IA detectou 90 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 88 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
