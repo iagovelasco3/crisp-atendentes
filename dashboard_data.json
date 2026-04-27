@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-04-27T17:50:39.210519-03:00",
+  "gerado_em": "2026-04-27T18:08:11.230581-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 65,
-    "tma_medio_minutos": 129,
+    "total_conversas_hoje": 66,
+    "tma_medio_minutos": 130,
     "frt_medio_minutos": 0,
     "score_medio_geral": 53
   },
@@ -61,8 +61,8 @@
     {
       "nome": "Laila Santana",
       "score": 67,
-      "tma_minutos": 187,
-      "tickets_atendidos": 35
+      "tma_minutos": 198,
+      "tickets_atendidos": 34
     },
     {
       "nome": "Sâmia Carvalho",
@@ -78,9 +78,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 49,
+      "score": 48,
       "tma_minutos": 218,
-      "tickets_atendidos": 65
+      "tickets_atendidos": 64
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -103,7 +103,7 @@
   ],
   "melhores_atendimentos_recentes": [
     "Gabriel demonstrou alta empatia, reconheceu a urgência do cliente (especialmente em relação ao lançamento e ao envio em massa), e escalou os problemas para a engenharia repetidamente, pedindo o acesso necessário. Ele tentou corrigir a informação errada de Caroline sobre a disponibilidade da equipe técnica.",
-    "Os atendentes Laila e Arthur demonstraram proatividade ao monitorar as comunidades do cliente em tempo real, escalar internamente para resolução de problemas de conexão e fornecer acompanhamento detalhado, buscando soluções para os problemas imediatos.",
+    "Laila demonstrou proatividade ao solicitar prints, sugerir re-importação de comunidades e acompanhar os disparos em tempo real. Ambos Laila e Arthur foram atenciosos e pediram feedback, mostrando preocupação com a qualidade do atendimento.",
     "Angela identificou e resolveu rapidamente a questão de pagamento em atraso, fornecendo o link direto para renovação. Gabriel realizou um follow-up proativo sobre o status da renovação.",
     "Laila Santana demonstrou empatia, testou o problema ativamente, escalou a questão para a equipe de desenvolvimento com prioridade, forneceu um prazo para a análise e coletou feedback detalhado do cliente, incluindo a solicitação de retorno à funcionalidade anterior. Manteve uma comunicação clara e proativa.",
     "Sâmia demonstrou proatividade e clareza ao verificar as duas assinaturas ativas do cliente, confirmar que estavam em dia, e explicar que a campanha que expiraria era apenas um teste de 3 dias, não pertencente aos planos ativos. Ela forneceu evidências visuais e tranquilizou o cliente, encerrando o atendimento de forma consultiva."
@@ -115,7 +115,7 @@
     "Arthur Fuentes finalmente resolveu o problema de conexão do DevGrupos após verificar a campanha internamente, levando ao elogio do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (72 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 47 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
     "Alerta de Retenção: A IA detectou 87 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 80 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
