@@ -1,10 +1,10 @@
 {
-  "gerado_em": "2026-04-27T11:32:35.283299-03:00",
+  "gerado_em": "2026-04-27T12:04:12.020912-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 39,
+    "total_conversas_hoje": 41,
     "tma_medio_minutos": 128,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 48
+    "score_medio_geral": 47
   },
   "arena_gamificacao": {
     "rei_da_colina": {
@@ -48,15 +48,15 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 75,
+      "score": 74,
       "tma_minutos": 188,
-      "tickets_atendidos": 30
+      "tickets_atendidos": 29
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 61,
-      "tma_minutos": 32,
-      "tickets_atendidos": 9
+      "score": 68,
+      "tma_minutos": 45,
+      "tickets_atendidos": 8
     },
     {
       "nome": "Sâmia Carvalho",
@@ -66,15 +66,15 @@
     },
     {
       "nome": "Felipe Leite",
-      "score": 54,
+      "score": 56,
       "tma_minutos": 0,
-      "tickets_atendidos": 6
+      "tickets_atendidos": 5
     },
     {
       "nome": "Angela De Sousa",
-      "score": 46,
-      "tma_minutos": 193,
-      "tickets_atendidos": 63
+      "score": 48,
+      "tma_minutos": 194,
+      "tickets_atendidos": 64
     },
     {
       "nome": "Anderson Alves",
@@ -84,9 +84,9 @@
     },
     {
       "nome": "Eduardo Esparrinha",
-      "score": 45,
-      "tma_minutos": 66,
-      "tickets_atendidos": 2
+      "score": 25,
+      "tma_minutos": 54,
+      "tickets_atendidos": 3
     },
     {
       "nome": "Caroline Oliveira",
@@ -115,9 +115,9 @@
     "Arthur Fuentes finalmente resolveu o problema de conexão do DevGrupos após verificar a campanha internamente, levando ao elogio do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (69 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (68 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 48 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 91 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Alerta de Retenção: A IA detectou 89 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
     "Gestão de Crise: 87 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
