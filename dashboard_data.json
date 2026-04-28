@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-04-28T08:18:58.505876-03:00",
+  "gerado_em": "2026-04-28T08:50:27.694585-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 7,
+    "total_conversas_hoje": 9,
     "tma_medio_minutos": 122,
     "frt_medio_minutos": 0,
     "score_medio_geral": 53
@@ -60,7 +60,7 @@
     },
     {
       "nome": "Laila Santana",
-      "score": 64,
+      "score": 63,
       "tma_minutos": 213,
       "tickets_atendidos": 31
     },
@@ -78,9 +78,9 @@
     },
     {
       "nome": "Angela De Sousa",
-      "score": 48,
+      "score": 47,
       "tma_minutos": 218,
-      "tickets_atendidos": 64
+      "tickets_atendidos": 65
     },
     {
       "nome": "Eduardo Esparrinha",
@@ -105,7 +105,7 @@
     "Gabriel demonstrou alta empatia, reconheceu a urgência do cliente (especialmente em relação ao lançamento e ao envio em massa), e escalou os problemas para a engenharia repetidamente, pedindo o acesso necessário. Ele tentou corrigir a informação errada de Caroline sobre a disponibilidade da equipe técnica.",
     "Laila e Arthur foram proativos em monitorar os disparos em tempo real e tentar resolver os problemas imediatos, demonstrando acompanhamento próximo e buscando soluções paliativas.",
     "Angela identificou e resolveu rapidamente a questão de pagamento em atraso, fornecendo o link direto para renovação. Gabriel realizou um follow-up proativo sobre o status da renovação.",
-    "Laila Santana demonstrou empatia, testou o problema ativamente, escalou a questão para a equipe de desenvolvimento com prioridade, forneceu um prazo para a análise e coletou feedback detalhado do cliente, incluindo a solicitação de retorno à funcionalidade anterior. Manteve uma comunicação clara e proativa.",
+    "Laila identificou o problema, acionou a equipe responsável com prioridade, e se comprometeu a retornar na segunda-feira, gerenciando a expectativa do cliente de forma clara e proativa. Felipe explicou detalhadamente a funcionalidade 'anexo com legenda' e como controlar a ordem de envio.",
     "Sâmia demonstrou proatividade e clareza ao verificar as duas assinaturas ativas do cliente, confirmar que estavam em dia, e explicar que a campanha que expiraria era apenas um teste de 3 dias, não pertencente aos planos ativos. Ela forneceu evidências visuais e tranquilizou o cliente, encerrando o atendimento de forma consultiva."
   ],
   "elogios_recentes": [
