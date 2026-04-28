@@ -1,20 +1,20 @@
 {
-  "gerado_em": "2026-04-28T09:22:56.328125-03:00",
+  "gerado_em": "2026-04-28T09:54:55.034969-03:00",
   "visao_geral": {
-    "total_conversas_hoje": 13,
-    "tma_medio_minutos": 130,
+    "total_conversas_hoje": 16,
+    "tma_medio_minutos": 156,
     "frt_medio_minutos": 0,
-    "score_medio_geral": 52
+    "score_medio_geral": 48
   },
   "arena_gamificacao": {
     "rei_da_colina": {
-      "nome": "Felipe Leite 👑",
-      "score": 90,
+      "nome": "Ana Luiza Silva 👑",
+      "score": 80,
       "status": "Inalcançável no momento!"
     },
     "maior_ofensiva_invicta": {
-      "atendente": "Felipe Leite",
-      "tickets_perfeitos_seguidos": 3,
+      "atendente": "Ana Luiza Silva",
+      "tickets_perfeitos_seguidos": 1,
       "icone": "🔥 ON FIRE"
     },
     "medalhas_do_dia": [
@@ -37,15 +37,9 @@
         "motivo": "Menor tempo médio de resolução real (23 min)."
       }
     ],
-    "radar_de_ultrapassagem": "👀 Atenção Felipe Leite: a(o) Ana Luiza Silva está se aproximando rápido no ranking! Acelera!"
+    "radar_de_ultrapassagem": "👀 Atenção Ana Luiza Silva: a(o) Arthur Fuentes está se aproximando rápido no ranking! Acelera!"
   },
   "ranking_atendentes": [
-    {
-      "nome": "Felipe Leite",
-      "score": 90,
-      "tma_minutos": 0,
-      "tickets_atendidos": 3
-    },
     {
       "nome": "Ana Luiza Silva",
       "score": 80,
@@ -54,15 +48,15 @@
     },
     {
       "nome": "Arthur Fuentes",
-      "score": 75,
-      "tma_minutos": 65,
-      "tickets_atendidos": 6
+      "score": 72,
+      "tma_minutos": 237,
+      "tickets_atendidos": 7
     },
     {
       "nome": "Laila Santana",
-      "score": 63,
+      "score": 64,
       "tma_minutos": 213,
-      "tickets_atendidos": 31
+      "tickets_atendidos": 30
     },
     {
       "nome": "Sâmia Carvalho",
@@ -71,22 +65,28 @@
       "tickets_atendidos": 5
     },
     {
+      "nome": "Anderson Alves",
+      "score": 52,
+      "tma_minutos": 407,
+      "tickets_atendidos": 16
+    },
+    {
+      "nome": "Felipe Leite",
+      "score": 50,
+      "tma_minutos": 29,
+      "tickets_atendidos": 7
+    },
+    {
+      "nome": "Angela De Sousa",
+      "score": 46,
+      "tma_minutos": 241,
+      "tickets_atendidos": 70
+    },
+    {
       "nome": "Eduardo Esparrinha",
       "score": 45,
       "tma_minutos": 66,
       "tickets_atendidos": 2
-    },
-    {
-      "nome": "Angela De Sousa",
-      "score": 44,
-      "tma_minutos": 219,
-      "tickets_atendidos": 67
-    },
-    {
-      "nome": "Anderson Alves",
-      "score": 42,
-      "tma_minutos": 372,
-      "tickets_atendidos": 18
     },
     {
       "nome": "Caroline Oliveira",
@@ -105,7 +105,7 @@
     "Gabriel demonstrou alta empatia, reconheceu a urgência do cliente (especialmente em relação ao lançamento e ao envio em massa), e escalou os problemas para a engenharia repetidamente, pedindo o acesso necessário. Ele tentou corrigir a informação errada de Caroline sobre a disponibilidade da equipe técnica.",
     "Laila e Arthur foram proativos em monitorar os disparos em tempo real e tentar resolver os problemas imediatos, demonstrando acompanhamento próximo e buscando soluções paliativas.",
     "Angela identificou e resolveu rapidamente a questão de pagamento em atraso, fornecendo o link direto para renovação. Gabriel realizou um follow-up proativo sobre o status da renovação.",
-    "Laila identificou o problema, acionou a equipe responsável com prioridade, e se comprometeu a retornar na segunda-feira, gerenciando a expectativa do cliente de forma clara e proativa. Felipe explicou detalhadamente a funcionalidade 'anexo com legenda' e como controlar a ordem de envio.",
+    "Os atendentes Laila e Felipe demonstraram proatividade ao escalar o problema para a equipe técnica e fornecer atualizações sobre o status da correção, mantendo o cliente informado sobre o andamento da solução.",
     "Sâmia demonstrou proatividade e clareza ao verificar as duas assinaturas ativas do cliente, confirmar que estavam em dia, e explicar que a campanha que expiraria era apenas um teste de 3 dias, não pertencente aos planos ativos. Ela forneceu evidências visuais e tranquilizou o cliente, encerrando o atendimento de forma consultiva."
   ],
   "elogios_recentes": [
@@ -115,10 +115,10 @@
     "Arthur Fuentes finalmente resolveu o problema de conexão do DevGrupos após verificar a campanha internamente, levando ao elogio do cliente."
   ],
   "pontos_de_crescimento_gerais": [
-    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (73 casos). Criem atalhos/macros para agilizar esse tema.",
+    "Foco Operacional: O maior ofensor de volume da semana foi 'Suporte Tecnico' (75 casos). Criem atalhos/macros para agilizar esse tema.",
     "Atenção Secundária: 'Duvida Operacional' gerou 50 chamados. Avaliem se há falha de onboarding ou se faltam vídeos explicativos.",
-    "Alerta de Retenção: A IA detectou 93 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
-    "Gestão de Crise: 87 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
+    "Alerta de Retenção: A IA detectou 92 chamados com risco Alto de Churn nos últimos 7 dias. Resgatar esses clientes é a prioridade #1.",
+    "Gestão de Crise: 88 interações registraram sentimento de frustração extrema. Lembrem-se da escuta ativa antes de propor a solução técnica.",
     "Benchmark da Equipe: O alvo da semana é o TMA do(a) Sâmia Carvalho (23 min). Inspirem-se nessa agilidade sem perder a qualidade!"
   ]
 }
